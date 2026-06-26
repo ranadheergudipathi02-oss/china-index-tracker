@@ -1,0 +1,261 @@
+{
+  "id": "STAR:科创50",
+  "code": "000688",
+  "board": "STAR",
+  "name": "科创50",
+  "name_en": "STAR 50",
+  "category": "Broad market",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "688008",
+      "name": "澜起科技",
+      "name_en": "Montage Technology Co., Ltd."
+    },
+    {
+      "symbol": "688009",
+      "name": "中国通号",
+      "name_en": "China Railway Signal & Communication Corporation Limited"
+    },
+    {
+      "symbol": "688012",
+      "name": "中微公司",
+      "name_en": "Advanced Micro-Fabrication Equipment Inc. China"
+    },
+    {
+      "symbol": "688027",
+      "name": "国盾量子",
+      "name_en": "QuantumCTek Co., Ltd."
+    },
+    {
+      "symbol": "688036",
+      "name": "传音控股",
+      "name_en": "SHENZHEN TRANSSION HOLDINGS CO., LTD."
+    },
+    {
+      "symbol": "688041",
+      "name": "海光信息",
+      "name_en": "Hygon Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "688047",
+      "name": "龙芯中科",
+      "name_en": "Loongson Technology Corporation Limited"
+    },
+    {
+      "symbol": "688065",
+      "name": "凯赛生物",
+      "name_en": "Cathay Biotech Inc."
+    },
+    {
+      "symbol": "688072",
+      "name": "拓荆科技",
+      "name_en": "Piotech Inc."
+    },
+    {
+      "symbol": "688082",
+      "name": "盛美上海",
+      "name_en": "ACM Research (Shanghai) ,Inc."
+    },
+    {
+      "symbol": "688099",
+      "name": "晶晨股份",
+      "name_en": "Amlogic (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688111",
+      "name": "金山办公",
+      "name_en": "Beijing Kingsoft Office Software, Inc."
+    },
+    {
+      "symbol": "688120",
+      "name": "华海清科",
+      "name_en": "Hwatsing Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688122",
+      "name": "西部超导",
+      "name_en": "Western Superconducting Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "688126",
+      "name": "沪硅产业",
+      "name_en": "National Silicon Industry Group Co.,Ltd."
+    },
+    {
+      "symbol": "688169",
+      "name": "石头科技",
+      "name_en": "Beijing Roborock Technology Co., Ltd."
+    },
+    {
+      "symbol": "688183",
+      "name": "生益电子",
+      "name_en": "SHENGYI ELECTRONICS CO., LTD."
+    },
+    {
+      "symbol": "688187",
+      "name": "时代电气",
+      "name_en": "Zhuzhou CRRC Times Electric Co., Ltd."
+    },
+    {
+      "symbol": "688188",
+      "name": "柏楚电子",
+      "name_en": "SHANGHAI FRIENDESS ELECTRONICS TECHNOLOGY CORPORATION LIMITED"
+    },
+    {
+      "symbol": "688213",
+      "name": "思特威",
+      "name_en": "Smartsens Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688220",
+      "name": "翱捷科技",
+      "name_en": "ASR Microelectronics Co., Ltd."
+    },
+    {
+      "symbol": "688223",
+      "name": "晶科能源",
+      "name_en": "Jinko Solar Co., Ltd."
+    },
+    {
+      "symbol": "688249",
+      "name": "晶合集成",
+      "name_en": "Nexchip Semiconductor Corporation"
+    },
+    {
+      "symbol": "688256",
+      "name": "寒武纪",
+      "name_en": "Cambricon Technologies Corporation Limited"
+    },
+    {
+      "symbol": "688271",
+      "name": "联影医疗",
+      "name_en": "Shanghai United Imaging Healthcare Co., Ltd."
+    },
+    {
+      "symbol": "688297",
+      "name": "中无人机",
+      "name_en": "AVIC (CHENGDU) UAS CO., LTD."
+    },
+    {
+      "symbol": "688303",
+      "name": "大全能源",
+      "name_en": "XinJiang Daqo New Energy Co.,Ltd"
+    },
+    {
+      "symbol": "688347",
+      "name": "华虹宏力",
+      "name_en": "Hua Hong Grace Semiconductor Limited"
+    },
+    {
+      "symbol": "688361",
+      "name": "中科飞测",
+      "name_en": "Skyverse Technology Co., Ltd."
+    },
+    {
+      "symbol": "688375",
+      "name": "国博电子",
+      "name_en": "Guobo Electronics Co., Ltd."
+    },
+    {
+      "symbol": "688396",
+      "name": "华润微",
+      "name_en": "China Resources Microelectronics Limited"
+    },
+    {
+      "symbol": "688469",
+      "name": "芯联集成",
+      "name_en": "United Nova Technology Co., Ltd."
+    },
+    {
+      "symbol": "688472",
+      "name": "阿特斯",
+      "name_en": "CSI Solar Co., Ltd."
+    },
+    {
+      "symbol": "688498",
+      "name": "源杰科技",
+      "name_en": "Yuanjie Semiconductor Technology Co., Ltd"
+    },
+    {
+      "symbol": "688506",
+      "name": "百利天恒",
+      "name_en": "Sichuan Biokin Pharmaceutical Co.,Ltd."
+    },
+    {
+      "symbol": "688521",
+      "name": "芯原股份",
+      "name_en": "VeriSilicon Microelectronics (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688525",
+      "name": "佰维存储",
+      "name_en": "Biwin Storage Technology Co., Ltd."
+    },
+    {
+      "symbol": "688538",
+      "name": "和辉光电",
+      "name_en": "Everdisplay Optronics (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688568",
+      "name": "中科星图",
+      "name_en": "Geovis Technology Co.,Ltd"
+    },
+    {
+      "symbol": "688578",
+      "name": "艾力斯",
+      "name_en": "Shanghai Allist Pharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688599",
+      "name": "天合光能",
+      "name_en": "Trina Solar Co., Ltd."
+    },
+    {
+      "symbol": "688608",
+      "name": "恒玄科技",
+      "name_en": "Bestechnic (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688617",
+      "name": "惠泰医疗",
+      "name_en": "APT Medical Inc."
+    },
+    {
+      "symbol": "688702",
+      "name": "盛科通信",
+      "name_en": "Suzhou Centec Communications Co., Ltd."
+    },
+    {
+      "symbol": "688728",
+      "name": "格科微",
+      "name_en": "GalaxyCore Inc."
+    },
+    {
+      "symbol": "688777",
+      "name": "中控技术",
+      "name_en": "SUPCON Technology Co., Ltd."
+    },
+    {
+      "symbol": "688795",
+      "name": "摩尔线程",
+      "name_en": "Moore Threads Technology Co., Ltd."
+    },
+    {
+      "symbol": "688802",
+      "name": "沐曦股份",
+      "name_en": "MetaX Integrated Circuits (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "name_en": "Semiconductor Manufacturing International Corporation"
+    },
+    {
+      "symbol": "689009",
+      "name": "九号公司",
+      "name_en": "Ninebot Limited"
+    }
+  ]
+}

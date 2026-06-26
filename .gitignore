@@ -1,0 +1,13 @@
+# Secrets — Telegram token/chat_id. NEVER commit.
+fetcher/secrets.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Phase 0 scratch (catalogue dumps, not part of the served site)
+phase0/csi_catalogue.json
+phase0/csindex_all_catalogue.json

@@ -1,0 +1,261 @@
+{
+  "id": "Cross:绿色电力",
+  "code": "931897",
+  "board": "Cross",
+  "name": "绿色电力",
+  "name_en": "Green Power",
+  "category": "Sector",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "000027",
+      "name": "深圳能源",
+      "name_en": "Shenzhen Energy Group Co Ltd"
+    },
+    {
+      "symbol": "000155",
+      "name": "川能动力",
+      "name_en": "SICHUAN NEW ENERGY POWER COMPANY LIMITED"
+    },
+    {
+      "symbol": "000537",
+      "name": "绿发电力",
+      "name_en": "Green Development Electricity Group of Tianjin Co., Ltd"
+    },
+    {
+      "symbol": "000539",
+      "name": "粤电力A",
+      "name_en": "Guangdong Electric Power Development Co Ltd"
+    },
+    {
+      "symbol": "000543",
+      "name": "皖能电力",
+      "name_en": "An Hui Wenergy Co Ltd"
+    },
+    {
+      "symbol": "000591",
+      "name": "太阳能",
+      "name_en": "CECEP Solar Energy Co.,Ltd."
+    },
+    {
+      "symbol": "000600",
+      "name": "建投能源",
+      "name_en": "Hebei Jointo Energy Investment Co Ltd"
+    },
+    {
+      "symbol": "000791",
+      "name": "甘肃能源",
+      "name_en": "GEPIC Energy Development Co., Ltd."
+    },
+    {
+      "symbol": "000875",
+      "name": "电投绿能",
+      "name_en": "SPIC Green Energy Co.,Ltd."
+    },
+    {
+      "symbol": "000883",
+      "name": "湖北能源",
+      "name_en": "Hubei Energy Group Co Ltd"
+    },
+    {
+      "symbol": "000958",
+      "name": "电投产融",
+      "name_en": "SPIC Industry-Finance Holdings Co., Ltd"
+    },
+    {
+      "symbol": "000966",
+      "name": "长源电力",
+      "name_en": "Guodian Changyuan Electric Power Co Ltd"
+    },
+    {
+      "symbol": "001286",
+      "name": "陕西能源",
+      "name_en": "SHAANXI ENERGY INVESTMENT CO., LTD."
+    },
+    {
+      "symbol": "001289",
+      "name": "龙源电力",
+      "name_en": "China Longyuan Power Group Corporation Limited"
+    },
+    {
+      "symbol": "001896",
+      "name": "豫能控股",
+      "name_en": "Henan Yuneng Holding Co Ltd"
+    },
+    {
+      "symbol": "002015",
+      "name": "协鑫能科",
+      "name_en": "GCL Energy Technology Co.,Ltd."
+    },
+    {
+      "symbol": "002608",
+      "name": "江苏国信",
+      "name_en": "Sainty Marine Corporation Ltd"
+    },
+    {
+      "symbol": "003816",
+      "name": "中国广核",
+      "name_en": "CGN Power Co., Ltd."
+    },
+    {
+      "symbol": "600011",
+      "name": "华能国际",
+      "name_en": "Huaneng Power International Inc"
+    },
+    {
+      "symbol": "600021",
+      "name": "上海电力",
+      "name_en": "Shanghai Electric Power Co Ltd"
+    },
+    {
+      "symbol": "600023",
+      "name": "浙能电力",
+      "name_en": "Zhejiang Zheneng Electric Power Co., Ltd."
+    },
+    {
+      "symbol": "600025",
+      "name": "华能水电",
+      "name_en": "HuanengLancang River Hydropower Inc."
+    },
+    {
+      "symbol": "600027",
+      "name": "华电国际",
+      "name_en": "Huadian Power International Corporation Ltd"
+    },
+    {
+      "symbol": "600032",
+      "name": "浙江新能",
+      "name_en": "Zhejiang Provincial New Energy Investment Group Co., Ltd."
+    },
+    {
+      "symbol": "600098",
+      "name": "广州发展",
+      "name_en": "Guangzhou Development Group Incorporated"
+    },
+    {
+      "symbol": "600116",
+      "name": "三峡水利",
+      "name_en": "Chongqing Three Gorges Water Conservancy and Electric Power Co Ltd"
+    },
+    {
+      "symbol": "600163",
+      "name": "中闽能源",
+      "name_en": "ZHONGMIN ENERGY CO., LTD."
+    },
+    {
+      "symbol": "600236",
+      "name": "桂冠电力",
+      "name_en": "Guangxi Guiguan Electric Power Co Ltd"
+    },
+    {
+      "symbol": "600292",
+      "name": "电投水电",
+      "name_en": "SPIC Hydropower Co., Ltd."
+    },
+    {
+      "symbol": "600483",
+      "name": "福能股份",
+      "name_en": "FUJIAN FUNENG CO., LTD"
+    },
+    {
+      "symbol": "600575",
+      "name": "淮河能源",
+      "name_en": "Huaihe Energy (Group) Co.,Ltd"
+    },
+    {
+      "symbol": "600578",
+      "name": "京能电力",
+      "name_en": "BEIJING JINGNENG POWER CO., LTD."
+    },
+    {
+      "symbol": "600642",
+      "name": "申能股份",
+      "name_en": "Shenergy Co Ltd"
+    },
+    {
+      "symbol": "600674",
+      "name": "川投能源",
+      "name_en": "Sichuan Chuantou Energy Co Ltd"
+    },
+    {
+      "symbol": "600744",
+      "name": "华银电力",
+      "name_en": "Datang Huayin Electric Power Co.,Ltd"
+    },
+    {
+      "symbol": "600795",
+      "name": "国电电力",
+      "name_en": "GD Power Development Co Ltd"
+    },
+    {
+      "symbol": "600821",
+      "name": "金开新能",
+      "name_en": "Nyoccr Co., Ltd."
+    },
+    {
+      "symbol": "600863",
+      "name": "华能蒙电",
+      "name_en": "Inner Mongolia Mengdian Huaneng Thermal Power Corp Ltd"
+    },
+    {
+      "symbol": "600886",
+      "name": "国投电力",
+      "name_en": "SDIC Power Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "name_en": "China Yangtze Power Co Ltd"
+    },
+    {
+      "symbol": "600905",
+      "name": "三峡能源",
+      "name_en": "China Three Gorges Renewables (Group) Co.,Ltd."
+    },
+    {
+      "symbol": "600930",
+      "name": "华电新能",
+      "name_en": "Huadian New Energy Group Corporation Limited"
+    },
+    {
+      "symbol": "600956",
+      "name": "新天绿能",
+      "name_en": "China Suntien Green Energy Corporation Limited"
+    },
+    {
+      "symbol": "600995",
+      "name": "南网储能",
+      "name_en": "China Southern Power Grid Energy Storage Co.,Ltd"
+    },
+    {
+      "symbol": "601016",
+      "name": "节能风电",
+      "name_en": "CECEP Wind-Power Corporation"
+    },
+    {
+      "symbol": "601619",
+      "name": "嘉泽新能",
+      "name_en": "Jiaze Renewables Corporation Limited"
+    },
+    {
+      "symbol": "601778",
+      "name": "晶科科技",
+      "name_en": "Jinko Power Technology Co., Ltd."
+    },
+    {
+      "symbol": "601985",
+      "name": "中国核电",
+      "name_en": "China National Nuclear Power Co.,Ltd."
+    },
+    {
+      "symbol": "601991",
+      "name": "大唐发电",
+      "name_en": "Datang International Power Generation Co.,Ltd."
+    },
+    {
+      "symbol": "603693",
+      "name": "江苏新能",
+      "name_en": "Jiangsu New Energy Development Co., Ltd."
+    }
+  ]
+}

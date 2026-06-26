@@ -1,0 +1,131 @@
+{
+  "id": "Cross:800能源",
+  "code": "000928",
+  "board": "Cross",
+  "name": "800能源",
+  "name_en": "CSI 800 Energy",
+  "category": "Sector",
+  "count": 24,
+  "members": [
+    {
+      "symbol": "000723",
+      "name": "美锦能源",
+      "name_en": "Shanxi Meijin Energy Co.,Ltd."
+    },
+    {
+      "symbol": "000937",
+      "name": "冀中能源",
+      "name_en": "Jizhong Energy Resources Co Ltd"
+    },
+    {
+      "symbol": "000983",
+      "name": "山西焦煤",
+      "name_en": "Shanxi Coking Coal Energy Group Co.,Ltd."
+    },
+    {
+      "symbol": "002353",
+      "name": "杰瑞股份",
+      "name_en": "Yantai Jereh Oilfield Services Group Co Ltd"
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "name_en": "China Petroleum & Chemical Corporation"
+    },
+    {
+      "symbol": "600188",
+      "name": "兖矿能源",
+      "name_en": "Yankuang Energy Group Company Limited"
+    },
+    {
+      "symbol": "600256",
+      "name": "广汇能源",
+      "name_en": "GUANGHUI ENERGY CO., LTD."
+    },
+    {
+      "symbol": "600339",
+      "name": "中油工程",
+      "name_en": "China Petroleum Engineering Corporation"
+    },
+    {
+      "symbol": "600348",
+      "name": "华阳股份",
+      "name_en": "Shan Xi Hua Yang Group New Energy Co.,Ltd."
+    },
+    {
+      "symbol": "600546",
+      "name": "山煤国际",
+      "name_en": "Shanxi Coal International Energy Group Co., Ltd"
+    },
+    {
+      "symbol": "600583",
+      "name": "海油工程",
+      "name_en": "Offshore Oil Engineering Co Ltd"
+    },
+    {
+      "symbol": "600688",
+      "name": "上海石化",
+      "name_en": "Sinopec Shanghai Petrochemical Co Ltd"
+    },
+    {
+      "symbol": "600871",
+      "name": "石化油服",
+      "name_en": "Sinopec Oilfield Service Corporation"
+    },
+    {
+      "symbol": "600938",
+      "name": "中国海油",
+      "name_en": "CNOOC Limited"
+    },
+    {
+      "symbol": "600968",
+      "name": "海油发展",
+      "name_en": "CNOOC Energy Technology & Services Limited"
+    },
+    {
+      "symbol": "600985",
+      "name": "淮北矿业",
+      "name_en": "Huaibei Mining Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "601001",
+      "name": "晋控煤业",
+      "name_en": "Jinneng Holding Shanxi Coal Industry Co.,Ltd"
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "name_en": "China Shenhua Energy Co Ltd"
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "name_en": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+      "symbol": "601666",
+      "name": "平煤股份",
+      "name_en": "Pingdingshan Tianan Coal Mining Co Ltd"
+    },
+    {
+      "symbol": "601699",
+      "name": "潞安环能",
+      "name_en": "Shanxi Lu'an Environmental Energy Development Co Ltd"
+    },
+    {
+      "symbol": "601808",
+      "name": "中海油服",
+      "name_en": "China Oilfield Services Limited"
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "name_en": "PetroChina Co Ltd"
+    },
+    {
+      "symbol": "601898",
+      "name": "中煤能源",
+      "name_en": "China Coal Energy Co Ltd"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "Cross:中证煤炭",
+  "code": "399998",
+  "board": "Cross",
+  "name": "中证煤炭",
+  "name_en": "CSI Coal",
+  "category": "Sector",
+  "count": 31,
+  "members": [
+    {
+      "symbol": "000552",
+      "name": "甘肃能化",
+      "name_en": "GANSU ENERGY CHEMICAL CO.,LTD"
+    },
+    {
+      "symbol": "000723",
+      "name": "美锦能源",
+      "name_en": "Shanxi Meijin Energy Co.,Ltd."
+    },
+    {
+      "symbol": "000937",
+      "name": "冀中能源",
+      "name_en": "Jizhong Energy Resources Co Ltd"
+    },
+    {
+      "symbol": "000983",
+      "name": "山西焦煤",
+      "name_en": "Shanxi Coking Coal Energy Group Co.,Ltd."
+    },
+    {
+      "symbol": "600121",
+      "name": "郑州煤电",
+      "name_en": "Zhengzhou Coal Industry & Electric Power Co Ltd"
+    },
+    {
+      "symbol": "600123",
+      "name": "兰花科创",
+      "name_en": "Shanxi Lanhua Science-Tech Venture Co Ltd"
+    },
+    {
+      "symbol": "600188",
+      "name": "兖矿能源",
+      "name_en": "Yankuang Energy Group Company Limited"
+    },
+    {
+      "symbol": "600256",
+      "name": "广汇能源",
+      "name_en": "GUANGHUI ENERGY CO., LTD."
+    },
+    {
+      "symbol": "600348",
+      "name": "华阳股份",
+      "name_en": "Shan Xi Hua Yang Group New Energy Co.,Ltd."
+    },
+    {
+      "symbol": "600395",
+      "name": "盘江股份",
+      "name_en": "Guizhou Panjiang Refined Coal Co Ltd"
+    },
+    {
+      "symbol": "600403",
+      "name": "大有能源",
+      "name_en": "Henan Dayou Energy Co., Ltd"
+    },
+    {
+      "symbol": "600508",
+      "name": "上海能源",
+      "name_en": "Shanghai Datun Energy Resources Co Ltd"
+    },
+    {
+      "symbol": "600546",
+      "name": "山煤国际",
+      "name_en": "Shanxi Coal International Energy Group Co., Ltd"
+    },
+    {
+      "symbol": "600726",
+      "name": "华电能源",
+      "name_en": "Huadian Energy Co Ltd"
+    },
+    {
+      "symbol": "600740",
+      "name": "山西焦化",
+      "name_en": "Shanxi Coking Co Ltd"
+    },
+    {
+      "symbol": "600758",
+      "name": "辽宁能源",
+      "name_en": "Liaoning Energy Industry Co.,Ltd"
+    },
+    {
+      "symbol": "600792",
+      "name": "云煤能源",
+      "name_en": "Yunnan Coal & Energy Co.,Ltd"
+    },
+    {
+      "symbol": "600925",
+      "name": "苏能股份",
+      "name_en": "Jiangsu Xukuang Energy Co., Ltd."
+    },
+    {
+      "symbol": "600971",
+      "name": "恒源煤电",
+      "name_en": "Anhui Hengyuan Coal Industry and Electricity Power Co Ltd"
+    },
+    {
+      "symbol": "600985",
+      "name": "淮北矿业",
+      "name_en": "Huaibei Mining Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "600997",
+      "name": "开滦股份",
+      "name_en": "Kailuan Energy Chemical Co.,Ltd."
+    },
+    {
+      "symbol": "601001",
+      "name": "晋控煤业",
+      "name_en": "Jinneng Holding Shanxi Coal Industry Co.,Ltd"
+    },
+    {
+      "symbol": "601011",
+      "name": "宝泰隆",
+      "name_en": "Baotailong New Materials Co.,Ltd"
+    },
+    {
+      "symbol": "601015",
+      "name": "陕西黑猫",
+      "name_en": "Shanxi Heimao Coking Co., Ltd."
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "name_en": "China Shenhua Energy Co Ltd"
+    },
+    {
+      "symbol": "601101",
+      "name": "昊华能源",
+      "name_en": "Beijing Haohua Energy Resource Co Ltd"
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "name_en": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+      "symbol": "601666",
+      "name": "平煤股份",
+      "name_en": "Pingdingshan Tianan Coal Mining Co Ltd"
+    },
+    {
+      "symbol": "601699",
+      "name": "潞安环能",
+      "name_en": "Shanxi Lu'an Environmental Energy Development Co Ltd"
+    },
+    {
+      "symbol": "601898",
+      "name": "中煤能源",
+      "name_en": "China Coal Energy Co Ltd"
+    },
+    {
+      "symbol": "601918",
+      "name": "新集能源",
+      "name_en": "SDIC Xinji Energy Co Ltd"
+    }
+  ]
+}

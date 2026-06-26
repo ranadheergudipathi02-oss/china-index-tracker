@@ -1,0 +1,56 @@
+{
+  "id": "Cross:800地产",
+  "code": "399965",
+  "board": "Cross",
+  "name": "800地产",
+  "name_en": "CSI 800 Real Est",
+  "category": "Sector",
+  "count": 9,
+  "members": [
+    {
+      "symbol": "000002",
+      "name": "万科A",
+      "name_en": "China Vanke Co Ltd"
+    },
+    {
+      "symbol": "001979",
+      "name": "招商蛇口",
+      "name_en": "CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS CO.,LTD"
+    },
+    {
+      "symbol": "002244",
+      "name": "滨江集团",
+      "name_en": "Hangzhou Binjiang Real Estate Group Co Ltd"
+    },
+    {
+      "symbol": "600048",
+      "name": "保利发展",
+      "name_en": "Poly Developments and Holdings Group Co., Ltd."
+    },
+    {
+      "symbol": "600208",
+      "name": "衢州发展",
+      "name_en": "Quzhou Xin'an Development Co.,Ltd."
+    },
+    {
+      "symbol": "600606",
+      "name": "绿地控股",
+      "name_en": "Greenland Holdings Corporation Limited"
+    },
+    {
+      "symbol": "600663",
+      "name": "陆家嘴",
+      "name_en": "Shanghai Lujiazui Finance and Trade Zone Development Co Ltd"
+    },
+    {
+      "symbol": "600848",
+      "name": "上海临港",
+      "name_en": "Shanghai Lingang Holdings Corporation Limited"
+    },
+    {
+      "symbol": "601155",
+      "name": "新城控股",
+      "name_en": "Future Land Holdings Co., Ltd."
+    }
+  ]
+}

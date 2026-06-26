@@ -1,0 +1,511 @@
+{
+  "id": "ChiNext:创业板指",
+  "code": "399006",
+  "board": "ChiNext",
+  "name": "创业板指",
+  "name_en": "ChiNext Index",
+  "category": "Broad market",
+  "count": 100,
+  "members": [
+    {
+      "symbol": "300390",
+      "name": "天华新能",
+      "name_en": ""
+    },
+    {
+      "symbol": "300475",
+      "name": "香农芯创",
+      "name_en": ""
+    },
+    {
+      "symbol": "300620",
+      "name": "光库科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300672",
+      "name": "国科微",
+      "name_en": ""
+    },
+    {
+      "symbol": "300757",
+      "name": "罗博特科",
+      "name_en": ""
+    },
+    {
+      "symbol": "300953",
+      "name": "震裕科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "301217",
+      "name": "铜冠铜箔",
+      "name_en": ""
+    },
+    {
+      "symbol": "301377",
+      "name": "鼎泰高科",
+      "name_en": ""
+    },
+    {
+      "symbol": "301526",
+      "name": "国际复材",
+      "name_en": ""
+    },
+    {
+      "symbol": "301550",
+      "name": "斯菱智驱",
+      "name_en": ""
+    },
+    {
+      "symbol": "300255",
+      "name": "常山药业",
+      "name_en": ""
+    },
+    {
+      "symbol": "300432",
+      "name": "富临精工",
+      "name_en": ""
+    },
+    {
+      "symbol": "300548",
+      "name": "长芯博创",
+      "name_en": ""
+    },
+    {
+      "symbol": "300718",
+      "name": "长盛轴承",
+      "name_en": ""
+    },
+    {
+      "symbol": "300972",
+      "name": "万辰集团",
+      "name_en": ""
+    },
+    {
+      "symbol": "301200",
+      "name": "大族数控",
+      "name_en": ""
+    },
+    {
+      "symbol": "301611",
+      "name": "珂玛科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300058",
+      "name": "蓝色光标",
+      "name_en": ""
+    },
+    {
+      "symbol": "300115",
+      "name": "长盈精密",
+      "name_en": ""
+    },
+    {
+      "symbol": "300458",
+      "name": "全志科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300857",
+      "name": "协创数据",
+      "name_en": ""
+    },
+    {
+      "symbol": "301165",
+      "name": "锐捷网络",
+      "name_en": ""
+    },
+    {
+      "symbol": "301498",
+      "name": "乖宝宠物",
+      "name_en": ""
+    },
+    {
+      "symbol": "301536",
+      "name": "星宸科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "302132",
+      "name": "中航成飞",
+      "name_en": ""
+    },
+    {
+      "symbol": "300024",
+      "name": "机器人",
+      "name_en": ""
+    },
+    {
+      "symbol": "300339",
+      "name": "润和软件",
+      "name_en": ""
+    },
+    {
+      "symbol": "300346",
+      "name": "南大光电",
+      "name_en": ""
+    },
+    {
+      "symbol": "300627",
+      "name": "华测导航",
+      "name_en": ""
+    },
+    {
+      "symbol": "300677",
+      "name": "英科医疗",
+      "name_en": ""
+    },
+    {
+      "symbol": "300002",
+      "name": "神州泰岳",
+      "name_en": ""
+    },
+    {
+      "symbol": "300017",
+      "name": "网宿科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300442",
+      "name": "润泽科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300476",
+      "name": "胜宏科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300765",
+      "name": "新诺威",
+      "name_en": ""
+    },
+    {
+      "symbol": "301301",
+      "name": "川宁生物",
+      "name_en": ""
+    },
+    {
+      "symbol": "300394",
+      "name": "天孚通信",
+      "name_en": ""
+    },
+    {
+      "symbol": "300502",
+      "name": "新易盛",
+      "name_en": ""
+    },
+    {
+      "symbol": "300567",
+      "name": "精测电子",
+      "name_en": ""
+    },
+    {
+      "symbol": "301358",
+      "name": "湖南裕能",
+      "name_en": ""
+    },
+    {
+      "symbol": "300666",
+      "name": "江丰电子",
+      "name_en": ""
+    },
+    {
+      "symbol": "300803",
+      "name": "指南针",
+      "name_en": ""
+    },
+    {
+      "symbol": "301236",
+      "name": "软通动力",
+      "name_en": ""
+    },
+    {
+      "symbol": "301269",
+      "name": "华大九天",
+      "name_en": ""
+    },
+    {
+      "symbol": "301308",
+      "name": "江波龙",
+      "name_en": ""
+    },
+    {
+      "symbol": "300054",
+      "name": "鼎龙股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300395",
+      "name": "菲利华",
+      "name_en": ""
+    },
+    {
+      "symbol": "300487",
+      "name": "蓝晓科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300604",
+      "name": "长川科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300373",
+      "name": "扬杰科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300919",
+      "name": "中伟股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300979",
+      "name": "华利集团",
+      "name_en": ""
+    },
+    {
+      "symbol": "300763",
+      "name": "锦浪科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300751",
+      "name": "迈为股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300866",
+      "name": "安克创新",
+      "name_en": ""
+    },
+    {
+      "symbol": "300896",
+      "name": "爱美客",
+      "name_en": ""
+    },
+    {
+      "symbol": "300888",
+      "name": "稳健医疗",
+      "name_en": ""
+    },
+    {
+      "symbol": "300832",
+      "name": "新产业",
+      "name_en": ""
+    },
+    {
+      "symbol": "300037",
+      "name": "新宙邦",
+      "name_en": ""
+    },
+    {
+      "symbol": "300999",
+      "name": "金龙鱼",
+      "name_en": ""
+    },
+    {
+      "symbol": "300223",
+      "name": "北京君正",
+      "name_en": ""
+    },
+    {
+      "symbol": "300782",
+      "name": "卓胜微",
+      "name_en": ""
+    },
+    {
+      "symbol": "300661",
+      "name": "圣邦股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300759",
+      "name": "康龙化成",
+      "name_en": ""
+    },
+    {
+      "symbol": "300724",
+      "name": "捷佳伟创",
+      "name_en": ""
+    },
+    {
+      "symbol": "300748",
+      "name": "金力永磁",
+      "name_en": ""
+    },
+    {
+      "symbol": "300012",
+      "name": "华测检测",
+      "name_en": ""
+    },
+    {
+      "symbol": "300454",
+      "name": "深信服",
+      "name_en": ""
+    },
+    {
+      "symbol": "300760",
+      "name": "迈瑞医疗",
+      "name_en": ""
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "name_en": ""
+    },
+    {
+      "symbol": "300285",
+      "name": "国瓷材料",
+      "name_en": ""
+    },
+    {
+      "symbol": "300308",
+      "name": "中际旭创",
+      "name_en": ""
+    },
+    {
+      "symbol": "300413",
+      "name": "快乐购",
+      "name_en": ""
+    },
+    {
+      "symbol": "300474",
+      "name": "景嘉微",
+      "name_en": ""
+    },
+    {
+      "symbol": "300699",
+      "name": "光威复材",
+      "name_en": ""
+    },
+    {
+      "symbol": "300628",
+      "name": "亿联网络",
+      "name_en": ""
+    },
+    {
+      "symbol": "300316",
+      "name": "晶盛机电",
+      "name_en": ""
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "name_en": ""
+    },
+    {
+      "symbol": "300073",
+      "name": "当升科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300014",
+      "name": "亿纬锂能",
+      "name_en": ""
+    },
+    {
+      "symbol": "300496",
+      "name": "中科创达",
+      "name_en": ""
+    },
+    {
+      "symbol": "300383",
+      "name": "光环新网",
+      "name_en": ""
+    },
+    {
+      "symbol": "300418",
+      "name": "昆仑万维",
+      "name_en": ""
+    },
+    {
+      "symbol": "300498",
+      "name": "温氏股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300136",
+      "name": "信维通信",
+      "name_en": ""
+    },
+    {
+      "symbol": "300408",
+      "name": "三环集团",
+      "name_en": ""
+    },
+    {
+      "symbol": "300433",
+      "name": "蓝思科技",
+      "name_en": ""
+    },
+    {
+      "symbol": "300033",
+      "name": "同花顺",
+      "name_en": ""
+    },
+    {
+      "symbol": "300253",
+      "name": "卫宁软件",
+      "name_en": ""
+    },
+    {
+      "symbol": "300207",
+      "name": "欣旺达",
+      "name_en": ""
+    },
+    {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "name_en": ""
+    },
+    {
+      "symbol": "300251",
+      "name": "光线传媒",
+      "name_en": ""
+    },
+    {
+      "symbol": "300274",
+      "name": "阳光电源",
+      "name_en": ""
+    },
+    {
+      "symbol": "300144",
+      "name": "宋城股份",
+      "name_en": ""
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "name_en": ""
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "name_en": ""
+    },
+    {
+      "symbol": "300001",
+      "name": "特锐德",
+      "name_en": ""
+    },
+    {
+      "symbol": "300003",
+      "name": "乐普医疗",
+      "name_en": ""
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "name_en": ""
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "name_en": ""
+    }
+  ]
+}

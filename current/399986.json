@@ -1,0 +1,221 @@
+{
+  "id": "Cross:中证银行",
+  "code": "399986",
+  "board": "Cross",
+  "name": "中证银行",
+  "name_en": "CSI Banks",
+  "category": "Sector",
+  "count": 42,
+  "members": [
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "name_en": "Ping An Bank Co., Ltd."
+    },
+    {
+      "symbol": "001227",
+      "name": "兰州银行",
+      "name_en": "BANK OF LANZHOU CO., LTD."
+    },
+    {
+      "symbol": "002142",
+      "name": "宁波银行",
+      "name_en": "Bank of Ningbo Co Ltd"
+    },
+    {
+      "symbol": "002807",
+      "name": "江阴银行",
+      "name_en": "Jiangsu Jiangyin Rural Commercial Bank CO.,LTD."
+    },
+    {
+      "symbol": "002839",
+      "name": "张家港行",
+      "name_en": "Jiangsu Zhangjiagang Rural Commercial Bank Co., Ltd"
+    },
+    {
+      "symbol": "002936",
+      "name": "郑州银行",
+      "name_en": "BANK OF ZHENGZHOU CO., LTD."
+    },
+    {
+      "symbol": "002948",
+      "name": "青岛银行",
+      "name_en": "BANK OF QINGDAO CO., LTD."
+    },
+    {
+      "symbol": "002958",
+      "name": "青农商行",
+      "name_en": "Qingdao Rural Commercial Bank Corporation"
+    },
+    {
+      "symbol": "002966",
+      "name": "苏州银行",
+      "name_en": "BANK OF SUZHOU CO., LTD."
+    },
+    {
+      "symbol": "600000",
+      "name": "浦发银行",
+      "name_en": "Shanghai Pudong Development Bank Co Ltd"
+    },
+    {
+      "symbol": "600015",
+      "name": "华夏银行",
+      "name_en": "Hua Xia Bank Co Ltd"
+    },
+    {
+      "symbol": "600016",
+      "name": "民生银行",
+      "name_en": "China Minsheng Banking Corp Ltd"
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "name_en": "China Merchants Bank Co Ltd"
+    },
+    {
+      "symbol": "600908",
+      "name": "无锡银行",
+      "name_en": "Wuxi Rural Commercial Bank Co., Ltd."
+    },
+    {
+      "symbol": "600919",
+      "name": "江苏银行",
+      "name_en": "Bank of Jiangsu Co., Ltd"
+    },
+    {
+      "symbol": "600926",
+      "name": "杭州银行",
+      "name_en": "BANK OF HANGZHOU CO., LTD"
+    },
+    {
+      "symbol": "600928",
+      "name": "西安银行",
+      "name_en": "BANK OF XI'AN CO., LTD."
+    },
+    {
+      "symbol": "601009",
+      "name": "南京银行",
+      "name_en": "Bank of Nanjing Co Ltd"
+    },
+    {
+      "symbol": "601077",
+      "name": "渝农商行",
+      "name_en": "Chongqing Rural Commercial Bank Co., Ltd."
+    },
+    {
+      "symbol": "601128",
+      "name": "常熟银行",
+      "name_en": "Jiangsu Changshu Rural Commercial Bank Co., Ltd."
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "name_en": "Industrial Bank"
+    },
+    {
+      "symbol": "601169",
+      "name": "北京银行",
+      "name_en": "Bank of Beijing Co Ltd"
+    },
+    {
+      "symbol": "601187",
+      "name": "厦门银行",
+      "name_en": "Xiamen Bank Co., Ltd."
+    },
+    {
+      "symbol": "601229",
+      "name": "上海银行",
+      "name_en": "Bank of Shanghai Co., Ltd."
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "name_en": "Agricultural Bank of China Co Ltd"
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "name_en": "Bank of Communications Co LTD"
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "name_en": "Industrial and Commercial Bank of China Ltd"
+    },
+    {
+      "symbol": "601528",
+      "name": "瑞丰银行",
+      "name_en": "Zhejiang Shaoxing RuiFeng Rural Commercial Bank Co.,Ltd"
+    },
+    {
+      "symbol": "601577",
+      "name": "长沙银行",
+      "name_en": "BANK OF CHANGSHA CO., LTD."
+    },
+    {
+      "symbol": "601658",
+      "name": "邮储银行",
+      "name_en": "POSTAL SAVINGS BANK OF CHINA CO., LTD."
+    },
+    {
+      "symbol": "601665",
+      "name": "齐鲁银行",
+      "name_en": "QILU BANK CO., LTD."
+    },
+    {
+      "symbol": "601818",
+      "name": "光大银行",
+      "name_en": "China Everbright Bank Co Ltd"
+    },
+    {
+      "symbol": "601825",
+      "name": "沪农商行",
+      "name_en": "Shanghai Rural Commercial Bank Co.,Ltd."
+    },
+    {
+      "symbol": "601838",
+      "name": "成都银行",
+      "name_en": "BANK OF CHENGDU CO., LTD."
+    },
+    {
+      "symbol": "601860",
+      "name": "紫金银行",
+      "name_en": "Jiangsu Zijin Rural Commercial Bank Co., Ltd."
+    },
+    {
+      "symbol": "601916",
+      "name": "浙商银行",
+      "name_en": "CHINA ZHESHANG BANK CO.,LTD"
+    },
+    {
+      "symbol": "601939",
+      "name": "建设银行",
+      "name_en": "China Construction Bank"
+    },
+    {
+      "symbol": "601963",
+      "name": "重庆银行",
+      "name_en": "BANK OF CHONGQING CO., LTD."
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "name_en": "Bank of China Ltd"
+    },
+    {
+      "symbol": "601997",
+      "name": "贵阳银行",
+      "name_en": "Bank of Guiyang Co.,Ltd."
+    },
+    {
+      "symbol": "601998",
+      "name": "中信银行",
+      "name_en": "China Citic Bank Corporation Limited"
+    },
+    {
+      "symbol": "603323",
+      "name": "苏农银行",
+      "name_en": "Jiangsu Suzhou Rural Commercial Bank Co.,Ltd."
+    }
+  ]
+}

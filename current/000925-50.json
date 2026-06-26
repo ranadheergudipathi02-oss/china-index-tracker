@@ -1,0 +1,261 @@
+{
+  "id": "Cross:基本面50",
+  "code": "000925",
+  "board": "Cross",
+  "name": "基本面50",
+  "name_en": "Fundamental 50",
+  "category": "Strategy",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "name_en": "Ping An Bank Co., Ltd."
+    },
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "name_en": "Midea Group CO., LTD"
+    },
+    {
+      "symbol": "000651",
+      "name": "格力电器",
+      "name_en": "Gree Electric Appliances,Inc. of Zhuhai"
+    },
+    {
+      "symbol": "000725",
+      "name": "京东方A",
+      "name_en": "BOE Technology Group Co Ltd"
+    },
+    {
+      "symbol": "000858",
+      "name": "五 粮 液",
+      "name_en": "Wuliangye Yibin Co Ltd"
+    },
+    {
+      "symbol": "002142",
+      "name": "宁波银行",
+      "name_en": "Bank of Ningbo Co Ltd"
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "name_en": "BYD Co Ltd"
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "name_en": "Contemporary Amperex Technology Co., Limited."
+    },
+    {
+      "symbol": "600000",
+      "name": "浦发银行",
+      "name_en": "Shanghai Pudong Development Bank Co Ltd"
+    },
+    {
+      "symbol": "600015",
+      "name": "华夏银行",
+      "name_en": "Hua Xia Bank Co Ltd"
+    },
+    {
+      "symbol": "600016",
+      "name": "民生银行",
+      "name_en": "China Minsheng Banking Corp Ltd"
+    },
+    {
+      "symbol": "600019",
+      "name": "宝钢股份",
+      "name_en": "Baoshan Iron &Steel Co Ltd"
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "name_en": "China Petroleum & Chemical Corporation"
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "name_en": "CITIC Securities Co Ltd"
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "name_en": "China Merchants Bank Co Ltd"
+    },
+    {
+      "symbol": "600048",
+      "name": "保利发展",
+      "name_en": "Poly Developments and Holdings Group Co., Ltd."
+    },
+    {
+      "symbol": "600050",
+      "name": "中国联通",
+      "name_en": "China United Network Communications Co Ltd"
+    },
+    {
+      "symbol": "600104",
+      "name": "上汽集团",
+      "name_en": "SAIC Motor Co Ltd"
+    },
+    {
+      "symbol": "600153",
+      "name": "建发股份",
+      "name_en": "Xiamen C&D Inc"
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "name_en": "Kweichow Moutai Co Ltd"
+    },
+    {
+      "symbol": "600704",
+      "name": "物产中大",
+      "name_en": "Zhejiang Material Industrial Zhongda Yuantong Group Co Ltd"
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "name_en": "China Yangtze Power Co Ltd"
+    },
+    {
+      "symbol": "600919",
+      "name": "江苏银行",
+      "name_en": "Bank of Jiangsu Co., Ltd"
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "name_en": "China Shenhua Energy Co Ltd"
+    },
+    {
+      "symbol": "601138",
+      "name": "工业富联",
+      "name_en": "Foxconn Industrial Internet Co., Ltd."
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "name_en": "Industrial Bank"
+    },
+    {
+      "symbol": "601169",
+      "name": "北京银行",
+      "name_en": "Bank of Beijing Co Ltd"
+    },
+    {
+      "symbol": "601186",
+      "name": "中国铁建",
+      "name_en": "China Railway Construction Co Ltd"
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "name_en": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+      "symbol": "601229",
+      "name": "上海银行",
+      "name_en": "Bank of Shanghai Co., Ltd."
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "name_en": "Agricultural Bank of China Co Ltd"
+    },
+    {
+      "symbol": "601318",
+      "name": "中国平安",
+      "name_en": "Ping An Insurance (Group) Company of China Ltd"
+    },
+    {
+      "symbol": "601319",
+      "name": "中国人保",
+      "name_en": "The People's Insurance Company (Group) of China Limited"
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "name_en": "Bank of Communications Co LTD"
+    },
+    {
+      "symbol": "601390",
+      "name": "中国中铁",
+      "name_en": "China Railway Group Limited"
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "name_en": "Industrial and Commercial Bank of China Ltd"
+    },
+    {
+      "symbol": "601601",
+      "name": "中国太保",
+      "name_en": "China Pacific Insurance (Group) Co Ltd"
+    },
+    {
+      "symbol": "601618",
+      "name": "中国中冶",
+      "name_en": "Metallurgical Corporation of China Co Ltd"
+    },
+    {
+      "symbol": "601628",
+      "name": "中国人寿",
+      "name_en": "China Life Insurance Company Limited"
+    },
+    {
+      "symbol": "601658",
+      "name": "邮储银行",
+      "name_en": "POSTAL SAVINGS BANK OF CHINA CO., LTD."
+    },
+    {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "name_en": "China State Construction Engineering Co Ltd"
+    },
+    {
+      "symbol": "601669",
+      "name": "中国电建",
+      "name_en": "Power Construction Corporation of China,Ltd"
+    },
+    {
+      "symbol": "601728",
+      "name": "中国电信",
+      "name_en": "China Telecom Corporation Limited"
+    },
+    {
+      "symbol": "601800",
+      "name": "中国交建",
+      "name_en": "China Communications Construction Company Limited"
+    },
+    {
+      "symbol": "601818",
+      "name": "光大银行",
+      "name_en": "China Everbright Bank Co Ltd"
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "name_en": "PetroChina Co Ltd"
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "name_en": "Zijin Mining Group Co Ltd"
+    },
+    {
+      "symbol": "601919",
+      "name": "中远海控",
+      "name_en": "COSCO SHIPPING Holdings Co., Ltd."
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "name_en": "Bank of China Ltd"
+    },
+    {
+      "symbol": "601998",
+      "name": "中信银行",
+      "name_en": "China Citic Bank Corporation Limited"
+    }
+  ]
+}

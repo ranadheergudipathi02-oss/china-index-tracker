@@ -1,0 +1,551 @@
+{
+  "id": "Cross:软件开发",
+  "code": "932094",
+  "board": "Cross",
+  "name": "软件开发",
+  "name_en": "Software",
+  "category": "Sector",
+  "count": 108,
+  "members": [
+    {
+      "symbol": "000503",
+      "name": "国新健康",
+      "name_en": "China Reform Health Management and Services Group Co., Ltd."
+    },
+    {
+      "symbol": "000555",
+      "name": "神州信息",
+      "name_en": "Digital China Information Service Group Company Ltd."
+    },
+    {
+      "symbol": "000948",
+      "name": "南天信息",
+      "name_en": "Yunnan Nantian Electronics Information Co Ltd"
+    },
+    {
+      "symbol": "002063",
+      "name": "远光软件",
+      "name_en": "YGSOFT Inc."
+    },
+    {
+      "symbol": "002153",
+      "name": "石基信息",
+      "name_en": "Beijing Shiji Information Technology Co Ltd"
+    },
+    {
+      "symbol": "002212",
+      "name": "天融信",
+      "name_en": "Topsec Technologies Group Inc."
+    },
+    {
+      "symbol": "002230",
+      "name": "科大讯飞",
+      "name_en": "Iflytek Co.,Ltd."
+    },
+    {
+      "symbol": "002232",
+      "name": "启明信息",
+      "name_en": "Qiming Information Technology Co Ltd"
+    },
+    {
+      "symbol": "002261",
+      "name": "拓维信息",
+      "name_en": "Talkweb Information System Co.,Ltd."
+    },
+    {
+      "symbol": "002279",
+      "name": "久其软件",
+      "name_en": "Beijing Join-Cheer Software Co Ltd"
+    },
+    {
+      "symbol": "002405",
+      "name": "四维图新",
+      "name_en": "NavInfo Co Ltd"
+    },
+    {
+      "symbol": "002410",
+      "name": "广联达",
+      "name_en": "Glodon Software Co Ltd"
+    },
+    {
+      "symbol": "002439",
+      "name": "启明星辰",
+      "name_en": "Beijing Venustech Inc."
+    },
+    {
+      "symbol": "002777",
+      "name": "久远银海",
+      "name_en": "Sichuan Jiuyuan Yinhai Software Co.,Ltd"
+    },
+    {
+      "symbol": "002987",
+      "name": "京北方",
+      "name_en": "NORTHKING INFORMATION TECHNOLOGY CO., LTD"
+    },
+    {
+      "symbol": "003007",
+      "name": "直真科技",
+      "name_en": "Beijing ZZNode Technologies Co., Ltd."
+    },
+    {
+      "symbol": "003029",
+      "name": "吉大正元",
+      "name_en": "Jilin University Zhengyuan Information Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "300033",
+      "name": "同花顺",
+      "name_en": "Hithink Royalflush Information Network Co.,Ltd."
+    },
+    {
+      "symbol": "300036",
+      "name": "超图软件",
+      "name_en": "Beijing Supermap Software Co Ltd"
+    },
+    {
+      "symbol": "300047",
+      "name": "天源迪科",
+      "name_en": "Shenzhen Tianyuan Dic Information Technology Co Ltd"
+    },
+    {
+      "symbol": "300075",
+      "name": "数字政通",
+      "name_en": "Beijing eGOVA Co Ltd"
+    },
+    {
+      "symbol": "300113",
+      "name": "顺网科技",
+      "name_en": "Hangzhou Shunwang Technology Co Ltd"
+    },
+    {
+      "symbol": "300166",
+      "name": "东方国信",
+      "name_en": "Beijing Orient National Communication Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300168",
+      "name": "万达信息",
+      "name_en": "Wonders Information Co Ltd"
+    },
+    {
+      "symbol": "300188",
+      "name": "国投智能",
+      "name_en": "SDIC Intelligence Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300229",
+      "name": "拓尔思",
+      "name_en": "TRS Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300235",
+      "name": "方直科技",
+      "name_en": "Shenzhen Kingsun Science & Technology Co Ltd"
+    },
+    {
+      "symbol": "300250",
+      "name": "初灵信息",
+      "name_en": "Hangzhou CNCR-IT Co Ltd"
+    },
+    {
+      "symbol": "300253",
+      "name": "卫宁健康",
+      "name_en": "Winning Health Technology Group Co., Ltd."
+    },
+    {
+      "symbol": "300271",
+      "name": "华宇软件",
+      "name_en": "Beijing Thunisoft Co Ltd"
+    },
+    {
+      "symbol": "300290",
+      "name": "荣科科技",
+      "name_en": "Bringspring Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300324",
+      "name": "旋极信息",
+      "name_en": "Beijing Watertek Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300339",
+      "name": "润和软件",
+      "name_en": "Jiangsu Hoperun Software Co., Ltd."
+    },
+    {
+      "symbol": "300348",
+      "name": "长亮科技",
+      "name_en": "SHENZHEN SUNLINE TECH CO.,LTD"
+    },
+    {
+      "symbol": "300365",
+      "name": "恒华科技",
+      "name_en": "BEIJING FOREVER TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "300369",
+      "name": "绿盟科技",
+      "name_en": "NSFOCUS Technologies Group Co., Ltd."
+    },
+    {
+      "symbol": "300377",
+      "name": "赢时胜",
+      "name_en": "SHENZHEN YSSTECH INFO-TECH CO.,LTD"
+    },
+    {
+      "symbol": "300378",
+      "name": "鼎捷数智",
+      "name_en": "Digiwin Co., LTD."
+    },
+    {
+      "symbol": "300380",
+      "name": "安硕信息",
+      "name_en": "Shanghai Amarsoft Information & Technology Co.,Ltd"
+    },
+    {
+      "symbol": "300451",
+      "name": "创业慧康",
+      "name_en": "B-Soft Co., Ltd."
+    },
+    {
+      "symbol": "300454",
+      "name": "深信服",
+      "name_en": "Sangfor Technologies Inc."
+    },
+    {
+      "symbol": "300465",
+      "name": "高伟达",
+      "name_en": "Global Infotech Co.,Ltd."
+    },
+    {
+      "symbol": "300468",
+      "name": "四方精创",
+      "name_en": "Shenzhen Forms Syntron Information Co., Ltd."
+    },
+    {
+      "symbol": "300496",
+      "name": "中科创达",
+      "name_en": "Thunder Software Technology Co., Ltd."
+    },
+    {
+      "symbol": "300520",
+      "name": "科大国创",
+      "name_en": "GuoChuang Software Co.,Ltd."
+    },
+    {
+      "symbol": "300525",
+      "name": "博思软件",
+      "name_en": "Fujian Boss Software Development Co., Ltd."
+    },
+    {
+      "symbol": "300559",
+      "name": "佳发教育",
+      "name_en": "Chengdu Jiafaantai Education Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300579",
+      "name": "数字认证",
+      "name_en": "BeiJing Certificate Authority Co., Ltd."
+    },
+    {
+      "symbol": "300608",
+      "name": "思特奇",
+      "name_en": "SI-TECH Information Technology Co.,Ltd"
+    },
+    {
+      "symbol": "300624",
+      "name": "万兴科技",
+      "name_en": "Wondershare Technology Group Co.,Ltd"
+    },
+    {
+      "symbol": "300634",
+      "name": "彩讯股份",
+      "name_en": "RICHINFO TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "300663",
+      "name": "科蓝软件",
+      "name_en": "Client Service International, Inc"
+    },
+    {
+      "symbol": "300674",
+      "name": "宇信科技",
+      "name_en": "Yusys Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300682",
+      "name": "朗新科技",
+      "name_en": "Longshine Technology Group Co., Ltd."
+    },
+    {
+      "symbol": "300687",
+      "name": "赛意信息",
+      "name_en": "GUANGZHOU SIE CONSULTING CO., LTD."
+    },
+    {
+      "symbol": "300803",
+      "name": "指南针",
+      "name_en": "Beijing Compass Technology Development Co., Ltd."
+    },
+    {
+      "symbol": "300830",
+      "name": "金现代",
+      "name_en": "JinXianDai Information Industry Co,.Ltd."
+    },
+    {
+      "symbol": "300872",
+      "name": "天阳科技",
+      "name_en": "Tansun Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300996",
+      "name": "普联软件",
+      "name_en": "Pansoft Company Limited"
+    },
+    {
+      "symbol": "301153",
+      "name": "中科江南",
+      "name_en": "Beijing CTJ Information Technology Co.,Ltd."
+    },
+    {
+      "symbol": "301270",
+      "name": "汉仪股份",
+      "name_en": "Beijing Hanyi Innovation Technology Co., Ltd."
+    },
+    {
+      "symbol": "301315",
+      "name": "威士顿",
+      "name_en": "Shanghai Wisdom Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "301339",
+      "name": "通行宝",
+      "name_en": "Jiangsu Tongxingbao Intelligent Transportation Technology Co., Ltd."
+    },
+    {
+      "symbol": "600271",
+      "name": "航天信息",
+      "name_en": "Aisino Co.,Ltd"
+    },
+    {
+      "symbol": "600446",
+      "name": "金证股份",
+      "name_en": "Shenzhen Kingdom Technology Co Ltd"
+    },
+    {
+      "symbol": "600536",
+      "name": "中国软件",
+      "name_en": "China National Software & Service Co Ltd"
+    },
+    {
+      "symbol": "600570",
+      "name": "恒生电子",
+      "name_en": "Hundsun Technologies Inc."
+    },
+    {
+      "symbol": "600571",
+      "name": "信雅达",
+      "name_en": "SUNYARD TECHNOLOGY CO., LTD"
+    },
+    {
+      "symbol": "600718",
+      "name": "东软集团",
+      "name_en": "Neusoft Corporation"
+    },
+    {
+      "symbol": "600756",
+      "name": "浪潮软件",
+      "name_en": "Inspur software Co., Ltd."
+    },
+    {
+      "symbol": "600845",
+      "name": "宝信软件",
+      "name_en": "Shanghai Baosight Software Co Ltd"
+    },
+    {
+      "symbol": "601360",
+      "name": "三六零",
+      "name_en": "360 Security Technology Inc."
+    },
+    {
+      "symbol": "601519",
+      "name": "大智慧",
+      "name_en": "Shanghai Great Wisdom Co Ltd"
+    },
+    {
+      "symbol": "603039",
+      "name": "泛微网络",
+      "name_en": "Weaver Network Technology Co., Ltd."
+    },
+    {
+      "symbol": "603138",
+      "name": "海量数据",
+      "name_en": "Beijing Vastdata Technology Co., Ltd."
+    },
+    {
+      "symbol": "603171",
+      "name": "税友股份",
+      "name_en": "Servyou Software Group Co., Ltd."
+    },
+    {
+      "symbol": "603232",
+      "name": "格尔软件",
+      "name_en": "Shanghai Koal Software Co., Ltd."
+    },
+    {
+      "symbol": "603383",
+      "name": "顶点软件",
+      "name_en": "Fujian Apex Software Co.,LTD"
+    },
+    {
+      "symbol": "603859",
+      "name": "能科科技",
+      "name_en": "Nancal Technology Co.,Ltd."
+    },
+    {
+      "symbol": "603927",
+      "name": "中科软",
+      "name_en": "Sinosoft Co.,Ltd"
+    },
+    {
+      "symbol": "603990",
+      "name": "麦迪科技",
+      "name_en": "Suzhou MedicalSystem Technology Co., Ltd."
+    },
+    {
+      "symbol": "688023",
+      "name": "安恒信息",
+      "name_en": "DBAPPSecurity Co., Ltd"
+    },
+    {
+      "symbol": "688031",
+      "name": "星环科技",
+      "name_en": "Transwarp Technology (Shanghai) Co.,Ltd."
+    },
+    {
+      "symbol": "688039",
+      "name": "当虹科技",
+      "name_en": "HANGZHOU ARCVIDEO TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "688083",
+      "name": "中望软件",
+      "name_en": "ZWSOFT CO., LTD.(Guangzhou)"
+    },
+    {
+      "symbol": "688088",
+      "name": "虹软科技",
+      "name_en": "ArcSoft Corporation Limited"
+    },
+    {
+      "symbol": "688095",
+      "name": "福昕软件",
+      "name_en": "Fujian Foxit Software Development Joint Stock Co., Ltd."
+    },
+    {
+      "symbol": "688109",
+      "name": "品茗科技",
+      "name_en": "Pinming Technology Co., Ltd"
+    },
+    {
+      "symbol": "688111",
+      "name": "金山办公",
+      "name_en": "Beijing Kingsoft Office Software, Inc."
+    },
+    {
+      "symbol": "688152",
+      "name": "麒麟信安",
+      "name_en": "Hunan Kylinsec Technology Co., Ltd."
+    },
+    {
+      "symbol": "688168",
+      "name": "安博通",
+      "name_en": "Beijing ABT Networks Co., Ltd."
+    },
+    {
+      "symbol": "688207",
+      "name": "格灵深瞳",
+      "name_en": "Beijing Deep Glint Technology Co., Ltd."
+    },
+    {
+      "symbol": "688225",
+      "name": "亚信安全",
+      "name_en": "Asiainfo Security Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "688228",
+      "name": "开普云",
+      "name_en": "Ucap Cloud Information Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688246",
+      "name": "嘉和美康",
+      "name_en": "Goodwill E-Health Info Co., Ltd."
+    },
+    {
+      "symbol": "688318",
+      "name": "财富趋势",
+      "name_en": "Shenzhen Fortune Trend Technology Co., Ltd"
+    },
+    {
+      "symbol": "688435",
+      "name": "英方软件",
+      "name_en": "Shanghai Information2 Software Inc."
+    },
+    {
+      "symbol": "688507",
+      "name": "索辰科技",
+      "name_en": "Shanghai Suochen Information Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688562",
+      "name": "航天软件",
+      "name_en": "Beijing Shenzhou Aerospace Software Technology Co., ltd."
+    },
+    {
+      "symbol": "688568",
+      "name": "中科星图",
+      "name_en": "Geovis Technology Co.,Ltd"
+    },
+    {
+      "symbol": "688588",
+      "name": "凌志软件",
+      "name_en": "Linkage Software Co., Ltd."
+    },
+    {
+      "symbol": "688590",
+      "name": "新致软件",
+      "name_en": "Shanghai Newtouch Software Co., Ltd."
+    },
+    {
+      "symbol": "688615",
+      "name": "合合信息",
+      "name_en": "Intsig Information Co., Ltd."
+    },
+    {
+      "symbol": "688631",
+      "name": "莱斯信息",
+      "name_en": "NANJING LES INFORMATION TECHNOLOGY CO., LTD"
+    },
+    {
+      "symbol": "688692",
+      "name": "达梦数据",
+      "name_en": "WUHAN DAMENG DATABASE COMPANY LIMITED"
+    },
+    {
+      "symbol": "688787",
+      "name": "海天瑞声",
+      "name_en": "Beijing Haitian Ruisheng Science Technology Ltd."
+    },
+    {
+      "symbol": "920799",
+      "name": "艾融软件",
+      "name_en": "Shanghai Airong Software Co,.Ltd"
+    },
+    {
+      "symbol": "920953",
+      "name": "国子软件",
+      "name_en": "Shandong Guozi Software Co.,Ltd."
+    }
+  ]
+}

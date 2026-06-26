@@ -1,0 +1,261 @@
+{
+  "id": "SSE:红利指数",
+  "code": "000015",
+  "board": "SSE",
+  "name": "红利指数",
+  "name_en": "SSE Dividend",
+  "category": "Strategy",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "600015",
+      "name": "华夏银行",
+      "name_en": "Hua Xia Bank Co Ltd"
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "name_en": "China Petroleum & Chemical Corporation"
+    },
+    {
+      "symbol": "600039",
+      "name": "四川路桥",
+      "name_en": "Sichuan Road&Bridge Co Ltd"
+    },
+    {
+      "symbol": "600096",
+      "name": "云天化",
+      "name_en": "Yunnan Yuntianhua Co Ltd"
+    },
+    {
+      "symbol": "600123",
+      "name": "兰花科创",
+      "name_en": "Shanxi Lanhua Science-Tech Venture Co Ltd"
+    },
+    {
+      "symbol": "600153",
+      "name": "建发股份",
+      "name_en": "Xiamen C&D Inc"
+    },
+    {
+      "symbol": "600177",
+      "name": "雅戈尔",
+      "name_en": "Youngor Group Co Ltd"
+    },
+    {
+      "symbol": "600188",
+      "name": "兖矿能源",
+      "name_en": "Yankuang Energy Group Company Limited"
+    },
+    {
+      "symbol": "600256",
+      "name": "广汇能源",
+      "name_en": "GUANGHUI ENERGY CO., LTD."
+    },
+    {
+      "symbol": "600282",
+      "name": "南钢股份",
+      "name_en": "Nanjing Iron & Steel Co Ltd"
+    },
+    {
+      "symbol": "600295",
+      "name": "鄂尔多斯",
+      "name_en": "Inner Mongolia Eerduosi Resources Co.,Ltd."
+    },
+    {
+      "symbol": "600350",
+      "name": "山东高速",
+      "name_en": "Shandong Hi-speed Company Limited"
+    },
+    {
+      "symbol": "600398",
+      "name": "海澜之家",
+      "name_en": "Heilan Home Co.,Ltd"
+    },
+    {
+      "symbol": "600546",
+      "name": "山煤国际",
+      "name_en": "Shanxi Coal International Energy Group Co., Ltd"
+    },
+    {
+      "symbol": "600737",
+      "name": "中粮糖业",
+      "name_en": "COFCO SUGAR HOLDING CO.,LTD."
+    },
+    {
+      "symbol": "600755",
+      "name": "厦门国贸",
+      "name_en": "Xiamen International Trade Group Corp Ltd"
+    },
+    {
+      "symbol": "600901",
+      "name": "江苏金租",
+      "name_en": "Jiangsu Financial Leasing Co.,Ltd."
+    },
+    {
+      "symbol": "600919",
+      "name": "江苏银行",
+      "name_en": "Bank of Jiangsu Co., Ltd"
+    },
+    {
+      "symbol": "600938",
+      "name": "中国海油",
+      "name_en": "CNOOC Limited"
+    },
+    {
+      "symbol": "600971",
+      "name": "恒源煤电",
+      "name_en": "Anhui Hengyuan Coal Industry and Electricity Power Co Ltd"
+    },
+    {
+      "symbol": "600985",
+      "name": "淮北矿业",
+      "name_en": "Huaibei Mining Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "600997",
+      "name": "开滦股份",
+      "name_en": "Kailuan Energy Chemical Co.,Ltd."
+    },
+    {
+      "symbol": "601000",
+      "name": "唐山港",
+      "name_en": "Tangshan Port Group Co Ltd"
+    },
+    {
+      "symbol": "601001",
+      "name": "晋控煤业",
+      "name_en": "Jinneng Holding Shanxi Coal Industry Co.,Ltd"
+    },
+    {
+      "symbol": "601006",
+      "name": "大秦铁路",
+      "name_en": "Daqin Railway Co Ltd"
+    },
+    {
+      "symbol": "601009",
+      "name": "南京银行",
+      "name_en": "Bank of Nanjing Co Ltd"
+    },
+    {
+      "symbol": "601077",
+      "name": "渝农商行",
+      "name_en": "Chongqing Rural Commercial Bank Co., Ltd."
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "name_en": "China Shenhua Energy Co Ltd"
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "name_en": "Industrial Bank"
+    },
+    {
+      "symbol": "601168",
+      "name": "西部矿业",
+      "name_en": "Western Mining Co Ltd"
+    },
+    {
+      "symbol": "601169",
+      "name": "北京银行",
+      "name_en": "Bank of Beijing Co Ltd"
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "name_en": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+      "symbol": "601229",
+      "name": "上海银行",
+      "name_en": "Bank of Shanghai Co., Ltd."
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "name_en": "Agricultural Bank of China Co Ltd"
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "name_en": "Bank of Communications Co LTD"
+    },
+    {
+      "symbol": "601339",
+      "name": "百隆东方",
+      "name_en": "Bros Eastern Co., Ltd."
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "name_en": "Industrial and Commercial Bank of China Ltd"
+    },
+    {
+      "symbol": "601666",
+      "name": "平煤股份",
+      "name_en": "Pingdingshan Tianan Coal Mining Co Ltd"
+    },
+    {
+      "symbol": "601699",
+      "name": "潞安环能",
+      "name_en": "Shanxi Lu'an Environmental Energy Development Co Ltd"
+    },
+    {
+      "symbol": "601717",
+      "name": "中创智领",
+      "name_en": "ZMJ Group Company Limited"
+    },
+    {
+      "symbol": "601818",
+      "name": "光大银行",
+      "name_en": "China Everbright Bank Co Ltd"
+    },
+    {
+      "symbol": "601825",
+      "name": "沪农商行",
+      "name_en": "Shanghai Rural Commercial Bank Co.,Ltd."
+    },
+    {
+      "symbol": "601838",
+      "name": "成都银行",
+      "name_en": "BANK OF CHENGDU CO., LTD."
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "name_en": "PetroChina Co Ltd"
+    },
+    {
+      "symbol": "601916",
+      "name": "浙商银行",
+      "name_en": "CHINA ZHESHANG BANK CO.,LTD"
+    },
+    {
+      "symbol": "601919",
+      "name": "中远海控",
+      "name_en": "COSCO SHIPPING Holdings Co., Ltd."
+    },
+    {
+      "symbol": "601939",
+      "name": "建设银行",
+      "name_en": "China Construction Bank"
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "name_en": "Bank of China Ltd"
+    },
+    {
+      "symbol": "601998",
+      "name": "中信银行",
+      "name_en": "China Citic Bank Corporation Limited"
+    },
+    {
+      "symbol": "603565",
+      "name": "中谷物流",
+      "name_en": "Shanghai Zhonggu Logistics Co., Ltd."
+    }
+  ]
+}

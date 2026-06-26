@@ -1,0 +1,511 @@
+{
+  "id": "STAR:科创100",
+  "code": "000698",
+  "board": "STAR",
+  "name": "科创100",
+  "name_en": "STAR 100",
+  "category": "Broad market",
+  "count": 100,
+  "members": [
+    {
+      "symbol": "688001",
+      "name": "华兴源创",
+      "name_en": "Suzhou HYC Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688002",
+      "name": "睿创微纳",
+      "name_en": "Raytron Technology Co.,Ltd"
+    },
+    {
+      "symbol": "688005",
+      "name": "容百科技",
+      "name_en": "Ningbo Ronbay New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688006",
+      "name": "杭可科技",
+      "name_en": "Zhejiang HangKe Technology Incorporated Company"
+    },
+    {
+      "symbol": "688017",
+      "name": "绿的谐波",
+      "name_en": "Leader Harmonious Drive Systems Co., Ltd."
+    },
+    {
+      "symbol": "688018",
+      "name": "乐鑫科技",
+      "name_en": "Espressif Systems (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688019",
+      "name": "安集科技",
+      "name_en": "Anji Microelectronics Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688029",
+      "name": "南微医学",
+      "name_en": "Micro-Tech (Nanjing) Co.,Ltd"
+    },
+    {
+      "symbol": "688032",
+      "name": "禾迈股份",
+      "name_en": "Hoymiles Power Electronics Inc."
+    },
+    {
+      "symbol": "688037",
+      "name": "芯源微",
+      "name_en": "KINGSEMI Co., Ltd."
+    },
+    {
+      "symbol": "688052",
+      "name": "纳芯微",
+      "name_en": "Suzhou Novosense Microelectronics Co., Ltd."
+    },
+    {
+      "symbol": "688063",
+      "name": "派能科技",
+      "name_en": "Pylon Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688068",
+      "name": "热景生物",
+      "name_en": "Beijing Hotgen Biotech Co.,Ltd."
+    },
+    {
+      "symbol": "688088",
+      "name": "虹软科技",
+      "name_en": "ArcSoft Corporation Limited"
+    },
+    {
+      "symbol": "688097",
+      "name": "博众精工",
+      "name_en": "BOZHON PRECISION INDUSTRY TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "688100",
+      "name": "威胜信息",
+      "name_en": "Willfar Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "688102",
+      "name": "斯瑞新材",
+      "name_en": "Shaanxi Sirui Advanced Materials Co., Ltd."
+    },
+    {
+      "symbol": "688114",
+      "name": "华大智造",
+      "name_en": "MGI Tech Co., Ltd."
+    },
+    {
+      "symbol": "688116",
+      "name": "天奈科技",
+      "name_en": "Jiangsu Cnano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688123",
+      "name": "聚辰股份",
+      "name_en": "Giantec Semiconductor Corporation"
+    },
+    {
+      "symbol": "688141",
+      "name": "杰华特",
+      "name_en": "JoulWatt Technology Co., Ltd."
+    },
+    {
+      "symbol": "688146",
+      "name": "中船特气",
+      "name_en": "Peric Special Gases Co., Ltd."
+    },
+    {
+      "symbol": "688147",
+      "name": "微导纳米",
+      "name_en": "Jiangsu Leadmicro Nano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688153",
+      "name": "唯捷创芯",
+      "name_en": "Vanchip (Tianjin) Technology Co., Ltd."
+    },
+    {
+      "symbol": "688166",
+      "name": "博瑞医药",
+      "name_en": "BrightGene Bio-Medical Technology Co., Ltd."
+    },
+    {
+      "symbol": "688167",
+      "name": "炬光科技",
+      "name_en": "Focuslight Technologies Inc."
+    },
+    {
+      "symbol": "688172",
+      "name": "燕东微",
+      "name_en": "Beijing YanDong MicroElectronic Co., Ltd."
+    },
+    {
+      "symbol": "688180",
+      "name": "君实生物",
+      "name_en": "Shanghai Junshi Biosciences Co., Ltd."
+    },
+    {
+      "symbol": "688192",
+      "name": "迪哲医药",
+      "name_en": "Dizal (Jiangsu) Pharmaceutical Co., Ltd."
+    },
+    {
+      "symbol": "688195",
+      "name": "腾景科技",
+      "name_en": "Optowide Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688198",
+      "name": "佰仁医疗",
+      "name_en": "BeijingBalanceMedicalTechnologyCo.,Ltd."
+    },
+    {
+      "symbol": "688200",
+      "name": "华峰测控",
+      "name_en": "Beijing Huafeng Test & Control Technology Co., Ltd."
+    },
+    {
+      "symbol": "688205",
+      "name": "德科立",
+      "name_en": "Wuxi Taclink Optoelectronics Technology Co., Ltd."
+    },
+    {
+      "symbol": "688208",
+      "name": "道通科技",
+      "name_en": "Autel Intelligent Technology Corp.,Ltd."
+    },
+    {
+      "symbol": "688234",
+      "name": "天岳先进",
+      "name_en": "SICC CO., LTD."
+    },
+    {
+      "symbol": "688235",
+      "name": "百济神州",
+      "name_en": "BeiGene, Ltd."
+    },
+    {
+      "symbol": "688248",
+      "name": "南网科技",
+      "name_en": "ChinaSouthernPowerGridTechnologyCo.,Ltd."
+    },
+    {
+      "symbol": "688266",
+      "name": "泽璟制药",
+      "name_en": "Suzhou Zelgen Biopharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688278",
+      "name": "特宝生物",
+      "name_en": "Xiamen Amoytop Biotech Co., LTD."
+    },
+    {
+      "symbol": "688279",
+      "name": "峰岹科技",
+      "name_en": "Fortior Technology(Shenzhen) Co., Ltd."
+    },
+    {
+      "symbol": "688281",
+      "name": "华秦科技",
+      "name_en": "Shaanxi Huaqin Technology Industry Co., Ltd."
+    },
+    {
+      "symbol": "688295",
+      "name": "中复神鹰",
+      "name_en": "Zhongfu Shenying Carbon Fiber Co.,Ltd."
+    },
+    {
+      "symbol": "688301",
+      "name": "奕瑞科技",
+      "name_en": "iRay Group"
+    },
+    {
+      "symbol": "688313",
+      "name": "仕佳光子",
+      "name_en": "Henan Shijia Photons Technology Co., Ltd."
+    },
+    {
+      "symbol": "688318",
+      "name": "财富趋势",
+      "name_en": "Shenzhen Fortune Trend Technology Co., Ltd"
+    },
+    {
+      "symbol": "688322",
+      "name": "奥比中光",
+      "name_en": "Orbbec Inc."
+    },
+    {
+      "symbol": "688326",
+      "name": "经纬恒润",
+      "name_en": "Beijing Jingwei Hirain Technologies Co., Inc."
+    },
+    {
+      "symbol": "688327",
+      "name": "云从科技",
+      "name_en": "Cloudwalk Technology Co., Ltd."
+    },
+    {
+      "symbol": "688331",
+      "name": "荣昌生物",
+      "name_en": "RemeGen Co., Ltd."
+    },
+    {
+      "symbol": "688332",
+      "name": "中科蓝讯",
+      "name_en": "Shenzhen Bluetrum Technology Co., Ltd."
+    },
+    {
+      "symbol": "688333",
+      "name": "铂力特",
+      "name_en": "Xi'an Bright Laser Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "688336",
+      "name": "三生国健",
+      "name_en": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688343",
+      "name": "云天励飞",
+      "name_en": "Shenzhen Intellifusion Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688349",
+      "name": "三一重能",
+      "name_en": "Sany Heavy Energy Co., Ltd."
+    },
+    {
+      "symbol": "688352",
+      "name": "颀中科技",
+      "name_en": "Hefei Chipmore Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688363",
+      "name": "华熙生物",
+      "name_en": "Bloomage Biotechnology Corporation Limited"
+    },
+    {
+      "symbol": "688382",
+      "name": "益方生物",
+      "name_en": "InventisBio Co., Ltd."
+    },
+    {
+      "symbol": "688385",
+      "name": "复旦微电",
+      "name_en": "Shanghai Fudan Microelectronics Group CO.,LTD."
+    },
+    {
+      "symbol": "688387",
+      "name": "信科移动",
+      "name_en": "CICT Mobile Communication Technology Co., Ltd."
+    },
+    {
+      "symbol": "688390",
+      "name": "固德威",
+      "name_en": "Jiangsu GoodWe Power Supply Technology Co., Ltd."
+    },
+    {
+      "symbol": "688400",
+      "name": "凌云光",
+      "name_en": "LUSTER LightTech Co., LTD."
+    },
+    {
+      "symbol": "688409",
+      "name": "富创精密",
+      "name_en": "Shenyang Fortune Precision Equipment Co., Ltd."
+    },
+    {
+      "symbol": "688411",
+      "name": "海博思创",
+      "name_en": "Beijing HyperStrong Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688425",
+      "name": "铁建重工",
+      "name_en": "China Railway Construction Heavy Industry Corporation Limited"
+    },
+    {
+      "symbol": "688432",
+      "name": "有研硅",
+      "name_en": "GRINM Semiconductor Materials Co., Ltd."
+    },
+    {
+      "symbol": "688433",
+      "name": "华曙高科",
+      "name_en": "Farsoon Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688449",
+      "name": "联芸科技",
+      "name_en": "Maxio Technology (Hangzhou) Co., Ltd."
+    },
+    {
+      "symbol": "688475",
+      "name": "萤石网络",
+      "name_en": "Hangzhou EZVIZ Network Co.,Ltd."
+    },
+    {
+      "symbol": "688484",
+      "name": "南芯科技",
+      "name_en": "Southchip Semiconductor Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688502",
+      "name": "茂莱光学",
+      "name_en": "MLOPTIC Corp."
+    },
+    {
+      "symbol": "688516",
+      "name": "奥特维",
+      "name_en": "Wuxi Autowell Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688519",
+      "name": "南亚新材",
+      "name_en": "NANYA NEW MATERIAL TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "688520",
+      "name": "神州细胞",
+      "name_en": "Sinocelltech Group Limited"
+    },
+    {
+      "symbol": "688523",
+      "name": "航天环宇",
+      "name_en": "Hunan Aerospace Huanyu Communication Technology Co.,LTD."
+    },
+    {
+      "symbol": "688536",
+      "name": "思瑞浦",
+      "name_en": "3PEAK INCORPORATED"
+    },
+    {
+      "symbol": "688548",
+      "name": "广钢气体",
+      "name_en": "Guangzhou Guanggang Gases & Energy Co.,Ltd."
+    },
+    {
+      "symbol": "688549",
+      "name": "中巨芯",
+      "name_en": "Grandit Co.,Ltd."
+    },
+    {
+      "symbol": "688561",
+      "name": "奇安信",
+      "name_en": "Qi An Xin Technology Group Inc."
+    },
+    {
+      "symbol": "688563",
+      "name": "航材股份",
+      "name_en": "Baimtec Material Co.,Ltd."
+    },
+    {
+      "symbol": "688567",
+      "name": "孚能科技",
+      "name_en": "Farasis Energy (Gan Zhou) Co., Ltd."
+    },
+    {
+      "symbol": "688582",
+      "name": "芯动联科",
+      "name_en": "Anhui XDLK Microsystem Corporation Limited"
+    },
+    {
+      "symbol": "688584",
+      "name": "上海合晶",
+      "name_en": "Wafer Works (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688612",
+      "name": "威迈斯",
+      "name_en": "Shenzhen VMAX New Energy(Group) Co., Ltd."
+    },
+    {
+      "symbol": "688615",
+      "name": "合合信息",
+      "name_en": "Intsig Information Co., Ltd."
+    },
+    {
+      "symbol": "688627",
+      "name": "精智达",
+      "name_en": "Shenzhen SEICHI Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688629",
+      "name": "华丰科技",
+      "name_en": "Sichuan Huafeng Technology Co., LTD."
+    },
+    {
+      "symbol": "688630",
+      "name": "芯碁微装",
+      "name_en": "Circuit Fabology Microelectronics Equipment Co.,Ltd"
+    },
+    {
+      "symbol": "688660",
+      "name": "电气风电",
+      "name_en": "Shanghai Electric Wind Power Group Co., Ltd."
+    },
+    {
+      "symbol": "688676",
+      "name": "金盘科技",
+      "name_en": "HAINAN JINPAN SMART TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "688692",
+      "name": "达梦数据",
+      "name_en": "WUHAN DAMENG DATABASE COMPANY LIMITED"
+    },
+    {
+      "symbol": "688708",
+      "name": "佳驰科技",
+      "name_en": "Chengdu Jiachi Electronic Technology Co., Ltd."
+    },
+    {
+      "symbol": "688709",
+      "name": "成都华微",
+      "name_en": "Chengdu Sino-Microelectronics Tech. Co., Ltd."
+    },
+    {
+      "symbol": "688726",
+      "name": "拉普拉斯",
+      "name_en": "LAPLACE Renewable Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688766",
+      "name": "普冉股份",
+      "name_en": "Puya Semiconductor (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688772",
+      "name": "珠海冠宇",
+      "name_en": "Zhuhai CosMX Battery Co., Ltd."
+    },
+    {
+      "symbol": "688778",
+      "name": "厦钨新能",
+      "name_en": "XTC New Energy Materials (Xiamen) Co.,Ltd."
+    },
+    {
+      "symbol": "688779",
+      "name": "五矿新能",
+      "name_en": "Minmetals New Energy Materials(Hunan) Co.,Ltd."
+    },
+    {
+      "symbol": "688789",
+      "name": "宏华数科",
+      "name_en": "Hangzhou Honghua Digital Technology Stock Company LTD."
+    },
+    {
+      "symbol": "688798",
+      "name": "艾为电子",
+      "name_en": "Shanghai Awinic Technology Co., Ltd."
+    },
+    {
+      "symbol": "688819",
+      "name": "天能股份",
+      "name_en": "Tianneng Battery Group Co.,Ltd."
+    }
+  ]
+}

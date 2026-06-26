@@ -1,0 +1,261 @@
+{
+  "id": "Cross:有色金属",
+  "code": "000819",
+  "board": "Cross",
+  "name": "有色金属",
+  "name_en": "Non-ferrous Metal",
+  "category": "Sector",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "000060",
+      "name": "中金岭南",
+      "name_en": "Shenzhen Zhongjin Lingnan Nonfemet Co Ltd"
+    },
+    {
+      "symbol": "000408",
+      "name": "藏格矿业",
+      "name_en": "ZANGGE MINING COMPANY LIMITED"
+    },
+    {
+      "symbol": "000426",
+      "name": "兴业银锡",
+      "name_en": "INNER MONGOLIA XINGYE SILVER & TIN MINING CO.,LTD"
+    },
+    {
+      "symbol": "000630",
+      "name": "铜陵有色",
+      "name_en": "Tongling Nonferrous Metals Group Co. Ltd"
+    },
+    {
+      "symbol": "000657",
+      "name": "中钨高新",
+      "name_en": "China Tungsten and Hightech Materials Co Ltd"
+    },
+    {
+      "symbol": "000688",
+      "name": "国城矿业",
+      "name_en": "Guocheng Mining CO.,LTD"
+    },
+    {
+      "symbol": "000737",
+      "name": "北方铜业",
+      "name_en": "NORTH COPPER (SHANXI) CO., LTD."
+    },
+    {
+      "symbol": "000807",
+      "name": "云铝股份",
+      "name_en": "Yunnan Aluminium Co Ltd"
+    },
+    {
+      "symbol": "000831",
+      "name": "中国稀土",
+      "name_en": "CHINA RARE EARTH RESOURCES AND TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "000878",
+      "name": "云南铜业",
+      "name_en": "Yunnan Copper Co Ltd"
+    },
+    {
+      "symbol": "000933",
+      "name": "神火股份",
+      "name_en": "Henan Shen Huo Coal Industry and Electricity Power Co Ltd"
+    },
+    {
+      "symbol": "000960",
+      "name": "锡业股份",
+      "name_en": "Yunnan Tin Co Ltd"
+    },
+    {
+      "symbol": "000975",
+      "name": "山金国际",
+      "name_en": "Shanjin International Gold Co.,Ltd."
+    },
+    {
+      "symbol": "001280",
+      "name": "中国铀业",
+      "name_en": "China National Uranium Co., Ltd."
+    },
+    {
+      "symbol": "002155",
+      "name": "湖南黄金",
+      "name_en": "Hunan Gold Corporation Limited"
+    },
+    {
+      "symbol": "002203",
+      "name": "海亮股份",
+      "name_en": "Zhejiang Hailiang Co Ltd"
+    },
+    {
+      "symbol": "002378",
+      "name": "章源钨业",
+      "name_en": "Chongyi Zhangyuan Tungsten Co Ltd"
+    },
+    {
+      "symbol": "002460",
+      "name": "赣锋锂业",
+      "name_en": "Ganfeng Lithium Co Ltd"
+    },
+    {
+      "symbol": "002466",
+      "name": "天齐锂业",
+      "name_en": "Tianqi Lithium Industries, Inc."
+    },
+    {
+      "symbol": "002532",
+      "name": "天山铝业",
+      "name_en": "TIANSHAN ALUMINUM GROUP CO.,LTD."
+    },
+    {
+      "symbol": "002716",
+      "name": "湖南白银",
+      "name_en": "HUNAN SILVER CO.,LTD."
+    },
+    {
+      "symbol": "002738",
+      "name": "中矿资源",
+      "name_en": "Sinomine Resource Group Co., Ltd."
+    },
+    {
+      "symbol": "002756",
+      "name": "永兴材料",
+      "name_en": "Yongxing Special Materials Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300748",
+      "name": "金力永磁",
+      "name_en": "JL MAG RARE-EARTH CO., LTD."
+    },
+    {
+      "symbol": "300811",
+      "name": "铂科新材",
+      "name_en": "POCO Holding Co., Ltd."
+    },
+    {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "name_en": "China Northern Rare Earth (Group) High-Tech Co.,Ltd"
+    },
+    {
+      "symbol": "600219",
+      "name": "南山铝业",
+      "name_en": "Shandong Nanshan Aluminium Co., Ltd."
+    },
+    {
+      "symbol": "600259",
+      "name": "中稀有色",
+      "name_en": "China Rare Earth Nonferrous Metals Co., Ltd."
+    },
+    {
+      "symbol": "600301",
+      "name": "华锡有色",
+      "name_en": "Guangxi Huaxi Nonferrous Metal Co.,Ltd"
+    },
+    {
+      "symbol": "600362",
+      "name": "江西铜业",
+      "name_en": "Jiangxi Copper Co Ltd"
+    },
+    {
+      "symbol": "600392",
+      "name": "盛和资源",
+      "name_en": "Shenghe Resources Holding Co.,Ltd."
+    },
+    {
+      "symbol": "600489",
+      "name": "中金黄金",
+      "name_en": "Zhongjin Gold Co Ltd"
+    },
+    {
+      "symbol": "600497",
+      "name": "驰宏锌锗",
+      "name_en": "Yunnan Chihong Zinc&Germanium Co Ltd"
+    },
+    {
+      "symbol": "600547",
+      "name": "山东黄金",
+      "name_en": "Shandong Gold-Mining Co Ltd"
+    },
+    {
+      "symbol": "600549",
+      "name": "厦门钨业",
+      "name_en": "Xiamen Tungsten Co Ltd"
+    },
+    {
+      "symbol": "600595",
+      "name": "中孚实业",
+      "name_en": "Henan Zhongfu Industry Co Ltd"
+    },
+    {
+      "symbol": "600711",
+      "name": "盛屯矿业",
+      "name_en": "Chengtun Mining Group Co., Ltd"
+    },
+    {
+      "symbol": "600988",
+      "name": "赤峰黄金",
+      "name_en": "Chifeng Jilong Gold Mining Group Limited"
+    },
+    {
+      "symbol": "601020",
+      "name": "华钰矿业",
+      "name_en": "Tibet Huayu Mining Co., Ltd."
+    },
+    {
+      "symbol": "601069",
+      "name": "西部黄金",
+      "name_en": "Western Region Gold Co., Ltd."
+    },
+    {
+      "symbol": "601168",
+      "name": "西部矿业",
+      "name_en": "Western Mining Co Ltd"
+    },
+    {
+      "symbol": "601212",
+      "name": "白银有色",
+      "name_en": "Baiyin Nonferrous Group Co., Ltd."
+    },
+    {
+      "symbol": "601600",
+      "name": "中国铝业",
+      "name_en": "Aluminum Corporation of China Limited"
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "name_en": "Zijin Mining Group Co Ltd"
+    },
+    {
+      "symbol": "601958",
+      "name": "金钼股份",
+      "name_en": "Jinduicheng Molybdenum Co Ltd"
+    },
+    {
+      "symbol": "603688",
+      "name": "石英股份",
+      "name_en": "JIANGSU PACIFIC QUARTZ CO., LTD"
+    },
+    {
+      "symbol": "603799",
+      "name": "华友钴业",
+      "name_en": "ZHEJIANG HUAYOU COBALT CO., LTD."
+    },
+    {
+      "symbol": "603979",
+      "name": "金诚信",
+      "name_en": "JCHX MINING MANAGEMENT CO.,LTD."
+    },
+    {
+      "symbol": "603993",
+      "name": "洛阳钼业",
+      "name_en": "China Molybdenum Co., Ltd."
+    },
+    {
+      "symbol": "688102",
+      "name": "斯瑞新材",
+      "name_en": "Shaanxi Sirui Advanced Materials Co., Ltd."
+    }
+  ]
+}

@@ -1,0 +1,2511 @@
+{
+  "id": "Cross:中证A500",
+  "code": "000510",
+  "board": "Cross",
+  "name": "中证A500",
+  "name_en": "CSI A500",
+  "category": "Broad market",
+  "count": 500,
+  "members": [
+    {
+      "symbol": "000001",
+      "name": "平安银行",
+      "name_en": "Ping An Bank Co., Ltd."
+    },
+    {
+      "symbol": "000002",
+      "name": "万科A",
+      "name_en": "China Vanke Co Ltd"
+    },
+    {
+      "symbol": "000032",
+      "name": "深桑达A",
+      "name_en": "Shenzhen SED Industry Co Ltd"
+    },
+    {
+      "symbol": "000034",
+      "name": "神州数码",
+      "name_en": "Digital China Group Co., Ltd."
+    },
+    {
+      "symbol": "000035",
+      "name": "中国天楹",
+      "name_en": "China Tianying Inc."
+    },
+    {
+      "symbol": "000039",
+      "name": "中集集团",
+      "name_en": "China International Marine Containers (Group) Co Ltd"
+    },
+    {
+      "symbol": "000063",
+      "name": "中兴通讯",
+      "name_en": "ZTE Corporation"
+    },
+    {
+      "symbol": "000066",
+      "name": "中国长城",
+      "name_en": "CHINA GREATWALL TECHNOLOGY GROUP CO., LTD."
+    },
+    {
+      "symbol": "000069",
+      "name": "华侨城A",
+      "name_en": "Shenzhen Overseas Chinese Town Co Ltd"
+    },
+    {
+      "symbol": "000100",
+      "name": "TCL科技",
+      "name_en": "TCL Technology Group Corporation"
+    },
+    {
+      "symbol": "000157",
+      "name": "中联重科",
+      "name_en": "Zoomlion Heavy Industry Science & Technology Co Ltd"
+    },
+    {
+      "symbol": "000301",
+      "name": "东方盛虹",
+      "name_en": "Jiangsu Eastern Shenghong Co.,Ltd."
+    },
+    {
+      "symbol": "000333",
+      "name": "美的集团",
+      "name_en": "Midea Group CO., LTD"
+    },
+    {
+      "symbol": "000338",
+      "name": "潍柴动力",
+      "name_en": "Wei Chai Power Co Ltd"
+    },
+    {
+      "symbol": "000400",
+      "name": "许继电气",
+      "name_en": "XJ Electric Co Ltd"
+    },
+    {
+      "symbol": "000408",
+      "name": "藏格矿业",
+      "name_en": "ZANGGE MINING COMPANY LIMITED"
+    },
+    {
+      "symbol": "000415",
+      "name": "渤海租赁",
+      "name_en": "Bohai Leasing Co.,Ltd."
+    },
+    {
+      "symbol": "000423",
+      "name": "东阿阿胶",
+      "name_en": "Shandong Dong-Ee Jiao Co Ltd"
+    },
+    {
+      "symbol": "000425",
+      "name": "徐工机械",
+      "name_en": "XCMG Construction Machinery Co Ltd"
+    },
+    {
+      "symbol": "000426",
+      "name": "兴业银锡",
+      "name_en": "INNER MONGOLIA XINGYE SILVER & TIN MINING CO.,LTD"
+    },
+    {
+      "symbol": "000519",
+      "name": "中兵红箭",
+      "name_en": "NORTH INDUSTRIES GROUP RED ARROW CO.,LTD"
+    },
+    {
+      "symbol": "000538",
+      "name": "云南白药",
+      "name_en": "Yunnan Baiyao Group Co., Ltd."
+    },
+    {
+      "symbol": "000547",
+      "name": "航天发展",
+      "name_en": "Addsino Co., Ltd"
+    },
+    {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "name_en": "Luzhou Lao Jiao Co Ltd"
+    },
+    {
+      "symbol": "000617",
+      "name": "中油资本",
+      "name_en": "CNPC Capital Company Limited"
+    },
+    {
+      "symbol": "000623",
+      "name": "吉林敖东",
+      "name_en": "Jilin Aodong Pharmaceutical Group Co., Ltd."
+    },
+    {
+      "symbol": "000625",
+      "name": "长安汽车",
+      "name_en": "Chongqing Changan Automobile Co Ltd"
+    },
+    {
+      "symbol": "000630",
+      "name": "铜陵有色",
+      "name_en": "Tongling Nonferrous Metals Group Co. Ltd"
+    },
+    {
+      "symbol": "000651",
+      "name": "格力电器",
+      "name_en": "Gree Electric Appliances,Inc. of Zhuhai"
+    },
+    {
+      "symbol": "000657",
+      "name": "中钨高新",
+      "name_en": "China Tungsten and Hightech Materials Co Ltd"
+    },
+    {
+      "symbol": "000661",
+      "name": "长春高新",
+      "name_en": "Chang Chun High and New Technology Industry (Group) Inc."
+    },
+    {
+      "symbol": "000683",
+      "name": "博源化工",
+      "name_en": "Inner Mongolia Berun Chemical Company Limited"
+    },
+    {
+      "symbol": "000725",
+      "name": "京东方A",
+      "name_en": "BOE Technology Group Co Ltd"
+    },
+    {
+      "symbol": "000733",
+      "name": "振华科技",
+      "name_en": "China Zhenhua (Group) Science & Technology Co Ltd"
+    },
+    {
+      "symbol": "000738",
+      "name": "航发控制",
+      "name_en": "AECC AERO-ENGINE CONTROL CO.,LTD."
+    },
+    {
+      "symbol": "000768",
+      "name": "中航西飞",
+      "name_en": "AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD."
+    },
+    {
+      "symbol": "000786",
+      "name": "北新建材",
+      "name_en": "Beijing New Building Materials Public Ltd Co"
+    },
+    {
+      "symbol": "000792",
+      "name": "盐湖股份",
+      "name_en": "Qinghai Salt Lake Industry Co Ltd"
+    },
+    {
+      "symbol": "000807",
+      "name": "云铝股份",
+      "name_en": "Yunnan Aluminium Co Ltd"
+    },
+    {
+      "symbol": "000830",
+      "name": "鲁西化工",
+      "name_en": "Luxi Chemical Group Co.,Ltd."
+    },
+    {
+      "symbol": "000831",
+      "name": "中国稀土",
+      "name_en": "CHINA RARE EARTH RESOURCES AND TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "000833",
+      "name": "粤桂股份",
+      "name_en": "Guangxi Yuegui Guangye Holdings Co., Ltd."
+    },
+    {
+      "symbol": "000858",
+      "name": "五 粮 液",
+      "name_en": "Wuliangye Yibin Co Ltd"
+    },
+    {
+      "symbol": "000878",
+      "name": "云南铜业",
+      "name_en": "Yunnan Copper Co Ltd"
+    },
+    {
+      "symbol": "000887",
+      "name": "中鼎股份",
+      "name_en": "Anhui Zhongding Sealing Parts Co.,Ltd."
+    },
+    {
+      "symbol": "000932",
+      "name": "华菱钢铁",
+      "name_en": "Hunan Valin Steel Co Ltd"
+    },
+    {
+      "symbol": "000933",
+      "name": "神火股份",
+      "name_en": "Henan Shen Huo Coal Industry and Electricity Power Co Ltd"
+    },
+    {
+      "symbol": "000938",
+      "name": "紫光股份",
+      "name_en": "Unisplendour Co., Ltd."
+    },
+    {
+      "symbol": "000960",
+      "name": "锡业股份",
+      "name_en": "Yunnan Tin Co Ltd"
+    },
+    {
+      "symbol": "000963",
+      "name": "华东医药",
+      "name_en": "Huadong Medicine Co Ltd"
+    },
+    {
+      "symbol": "000967",
+      "name": "盈峰环境",
+      "name_en": "Infore Environment Technology Group Co. Ltd."
+    },
+    {
+      "symbol": "000975",
+      "name": "山金国际",
+      "name_en": "Shanjin International Gold Co.,Ltd."
+    },
+    {
+      "symbol": "000977",
+      "name": "浪潮信息",
+      "name_en": "Inspur Electronic Information Industry Co.,Ltd"
+    },
+    {
+      "symbol": "000988",
+      "name": "华工科技",
+      "name_en": "Huagong Tech Co Ltd"
+    },
+    {
+      "symbol": "000998",
+      "name": "隆平高科",
+      "name_en": "Yuan Longping High-tech Agriculture Co Ltd"
+    },
+    {
+      "symbol": "000999",
+      "name": "华润三九",
+      "name_en": "China Resources Sanjiu Medical & Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "001965",
+      "name": "招商公路",
+      "name_en": "China Merchants Expressway Network Technology Holdings Co., Ltd."
+    },
+    {
+      "symbol": "001979",
+      "name": "招商蛇口",
+      "name_en": "CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS CO.,LTD"
+    },
+    {
+      "symbol": "002001",
+      "name": "新和成",
+      "name_en": "Zhejiang NHU Co Ltd"
+    },
+    {
+      "symbol": "002007",
+      "name": "华兰生物",
+      "name_en": "Hualan Biological Engineering INC"
+    },
+    {
+      "symbol": "002008",
+      "name": "大族激光",
+      "name_en": "Han's Laser Technology Industry Group Co., Ltd."
+    },
+    {
+      "symbol": "002025",
+      "name": "航天电器",
+      "name_en": "Guizhou Space Appliance Co Ltd"
+    },
+    {
+      "symbol": "002027",
+      "name": "分众传媒",
+      "name_en": "Focus Media Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "002028",
+      "name": "思源电气",
+      "name_en": "Siyuan Electric Co., Ltd."
+    },
+    {
+      "symbol": "002044",
+      "name": "美年健康",
+      "name_en": "Meinian Onehealth Healthcare Holdings Co., Ltd."
+    },
+    {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "name_en": "Unigroup Guoxin Microelectronics Co., Ltd."
+    },
+    {
+      "symbol": "002050",
+      "name": "三花智控",
+      "name_en": "ZHEJIANG SANHUA INTELLIGENT CONTROLS CO.,LTD."
+    },
+    {
+      "symbol": "002064",
+      "name": "华峰化学",
+      "name_en": "Huafon Chemical Co., Ltd."
+    },
+    {
+      "symbol": "002065",
+      "name": "东华软件",
+      "name_en": "DHC Software Co.,Ltd."
+    },
+    {
+      "symbol": "002074",
+      "name": "国轩高科",
+      "name_en": "GUOXUAN HIGH-TECH CO.,LTD."
+    },
+    {
+      "symbol": "002078",
+      "name": "太阳纸业",
+      "name_en": "Shan Dong Sun Paper Industry Joint Stock Co Ltd"
+    },
+    {
+      "symbol": "002080",
+      "name": "中材科技",
+      "name_en": "Sinoma Science & Technology Co Ltd"
+    },
+    {
+      "symbol": "002085",
+      "name": "万丰奥威",
+      "name_en": "Zhejiang Wanfeng Auto Wheel Co.,Ltd."
+    },
+    {
+      "symbol": "002091",
+      "name": "江苏国泰",
+      "name_en": "Jiangsu Guotai International Group Co., Ltd."
+    },
+    {
+      "symbol": "002120",
+      "name": "韵达股份",
+      "name_en": "YUNDA Holding Group CO., Ltd."
+    },
+    {
+      "symbol": "002126",
+      "name": "银轮股份",
+      "name_en": "Zhejiang Yinlun Machinery Co Ltd"
+    },
+    {
+      "symbol": "002128",
+      "name": "电投能源",
+      "name_en": "INNER MONGOLIA DIAN TOU ENERGY CORPORATION LIMITED"
+    },
+    {
+      "symbol": "002129",
+      "name": "TCL中环",
+      "name_en": "TCL Zhonghuan Renewable Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "002130",
+      "name": "沃尔核材",
+      "name_en": "Shenzhen Woer Heat-Shrinkable Material Co Ltd"
+    },
+    {
+      "symbol": "002131",
+      "name": "利欧股份",
+      "name_en": "LEO GROUP CO., LTD."
+    },
+    {
+      "symbol": "002138",
+      "name": "顺络电子",
+      "name_en": "Shenzhen Sunlord Electronics Co Ltd"
+    },
+    {
+      "symbol": "002155",
+      "name": "湖南黄金",
+      "name_en": "Hunan Gold Corporation Limited"
+    },
+    {
+      "symbol": "002156",
+      "name": "通富微电",
+      "name_en": "TongFu Microelectronics Co.,Ltd."
+    },
+    {
+      "symbol": "002176",
+      "name": "江特电机",
+      "name_en": "Jiangxi Special Electric Motor Co Ltd"
+    },
+    {
+      "symbol": "002179",
+      "name": "中航光电",
+      "name_en": "Jonhon Optronic Technology Co.,Ltd"
+    },
+    {
+      "symbol": "002185",
+      "name": "华天科技",
+      "name_en": "Tianshui Huatian Technology Co Ltd"
+    },
+    {
+      "symbol": "002195",
+      "name": "岩山科技",
+      "name_en": "Shanghai Stonehill Technology Co., Ltd."
+    },
+    {
+      "symbol": "002202",
+      "name": "金风科技",
+      "name_en": "GOLDWIND SCIENCE & TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "002223",
+      "name": "鱼跃医疗",
+      "name_en": "Jiangsu Yuyue Medical Equipment & Supply Co Ltd"
+    },
+    {
+      "symbol": "002230",
+      "name": "科大讯飞",
+      "name_en": "Iflytek Co.,Ltd."
+    },
+    {
+      "symbol": "002236",
+      "name": "大华股份",
+      "name_en": "Zhejiang Dahua Technology Co Ltd"
+    },
+    {
+      "symbol": "002241",
+      "name": "歌尔股份",
+      "name_en": "GoerTek Inc"
+    },
+    {
+      "symbol": "002244",
+      "name": "滨江集团",
+      "name_en": "Hangzhou Binjiang Real Estate Group Co Ltd"
+    },
+    {
+      "symbol": "002252",
+      "name": "上海莱士",
+      "name_en": "Shanghai RAAS Blood Products Co Ltd"
+    },
+    {
+      "symbol": "002266",
+      "name": "浙富控股",
+      "name_en": "ZHEFU HOLDING GROUP CO., LTD"
+    },
+    {
+      "symbol": "002271",
+      "name": "东方雨虹",
+      "name_en": "Beijing Oriental Yuhong Waterproof Technology Co Ltd"
+    },
+    {
+      "symbol": "002273",
+      "name": "水晶光电",
+      "name_en": "Zhejiang Crystal-Optech Co., Ltd"
+    },
+    {
+      "symbol": "002281",
+      "name": "光迅科技",
+      "name_en": "Accelink Technologies Co Ltd"
+    },
+    {
+      "symbol": "002292",
+      "name": "奥飞娱乐",
+      "name_en": "Alpha Group"
+    },
+    {
+      "symbol": "002294",
+      "name": "信立泰",
+      "name_en": "Shenzhen Salubris Pharmaceuticals Co Ltd"
+    },
+    {
+      "symbol": "002318",
+      "name": "久立特材",
+      "name_en": "Zhejiang Jiuli Hi-tech Metals Co Ltd"
+    },
+    {
+      "symbol": "002340",
+      "name": "格林美",
+      "name_en": "Shenzhen Green Eco-manufacture Hi-tech Co Ltd"
+    },
+    {
+      "symbol": "002352",
+      "name": "顺丰控股",
+      "name_en": "S.F. Holding Co., Ltd."
+    },
+    {
+      "symbol": "002353",
+      "name": "杰瑞股份",
+      "name_en": "Yantai Jereh Oilfield Services Group Co Ltd"
+    },
+    {
+      "symbol": "002371",
+      "name": "北方华创",
+      "name_en": "NAURA Technology Group Co.,Ltd."
+    },
+    {
+      "symbol": "002384",
+      "name": "东山精密",
+      "name_en": "Suzhou Dongshan Precision Manufacturing Co Ltd"
+    },
+    {
+      "symbol": "002389",
+      "name": "航天彩虹",
+      "name_en": "Aerospace CH UAV Co., Ltd"
+    },
+    {
+      "symbol": "002405",
+      "name": "四维图新",
+      "name_en": "NavInfo Co Ltd"
+    },
+    {
+      "symbol": "002407",
+      "name": "多氟多",
+      "name_en": "Do-Fluoride Chemicals Co Ltd"
+    },
+    {
+      "symbol": "002410",
+      "name": "广联达",
+      "name_en": "Glodon Software Co Ltd"
+    },
+    {
+      "symbol": "002414",
+      "name": "高德红外",
+      "name_en": "Wuhan Guide Infrared Co Ltd"
+    },
+    {
+      "symbol": "002415",
+      "name": "海康威视",
+      "name_en": "Hangzhou Hikvision Digital Technology Co Ltd"
+    },
+    {
+      "symbol": "002422",
+      "name": "科伦药业",
+      "name_en": "Sichuan Kelun Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002432",
+      "name": "九安医疗",
+      "name_en": "Andon Health Co Ltd"
+    },
+    {
+      "symbol": "002436",
+      "name": "兴森科技",
+      "name_en": "Shenzhen Fastprint Circuit Tech Co Ltd"
+    },
+    {
+      "symbol": "002444",
+      "name": "巨星科技",
+      "name_en": "Hangzhou Great Star Industrial Co Ltd"
+    },
+    {
+      "symbol": "002456",
+      "name": "欧菲光",
+      "name_en": "OFILM Group Co., Ltd."
+    },
+    {
+      "symbol": "002459",
+      "name": "晶澳科技",
+      "name_en": "JA Solar Technology Co., Ltd."
+    },
+    {
+      "symbol": "002460",
+      "name": "赣锋锂业",
+      "name_en": "Ganfeng Lithium Co Ltd"
+    },
+    {
+      "symbol": "002463",
+      "name": "沪电股份",
+      "name_en": "Wus Printed Circuit (Kunshan) Co Ltd"
+    },
+    {
+      "symbol": "002465",
+      "name": "海格通信",
+      "name_en": "Guangzhou Haige Communications Group Incorporated Company"
+    },
+    {
+      "symbol": "002466",
+      "name": "天齐锂业",
+      "name_en": "Tianqi Lithium Industries, Inc."
+    },
+    {
+      "symbol": "002472",
+      "name": "双环传动",
+      "name_en": "Zhejiang Shuanghuan Driveline Co Ltd"
+    },
+    {
+      "symbol": "002475",
+      "name": "立讯精密",
+      "name_en": "Luxshare Precision Industry Co., Ltd."
+    },
+    {
+      "symbol": "002493",
+      "name": "荣盛石化",
+      "name_en": "Rongsheng Petro Chemical Co Ltd"
+    },
+    {
+      "symbol": "002497",
+      "name": "雅化集团",
+      "name_en": "Sichuan Yahua Industrial Group Co Ltd"
+    },
+    {
+      "symbol": "002517",
+      "name": "恺英网络",
+      "name_en": "Taiya Shoes Co Ltd"
+    },
+    {
+      "symbol": "002532",
+      "name": "天山铝业",
+      "name_en": "TIANSHAN ALUMINUM GROUP CO.,LTD."
+    },
+    {
+      "symbol": "002544",
+      "name": "普天科技",
+      "name_en": "CETC POTEVIO SCIENCE&TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "002555",
+      "name": "三七互娱",
+      "name_en": "WUHU SANQI INTERACTIVE ENTERTAINMENT NETWORK TECHNOLOGY GROUP CO.,LTD."
+    },
+    {
+      "symbol": "002558",
+      "name": "巨人网络",
+      "name_en": "Giant Network Group Co., Ltd."
+    },
+    {
+      "symbol": "002572",
+      "name": "索菲亚",
+      "name_en": "Suofeiya Home Collection Co Ltd"
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "name_en": "BYD Co Ltd"
+    },
+    {
+      "symbol": "002595",
+      "name": "豪迈科技",
+      "name_en": "Shandong Himile Mechanical Science & Technology Co Ltd"
+    },
+    {
+      "symbol": "002600",
+      "name": "领益智造",
+      "name_en": "LINGYI iTECH (GUANGDONG) COMPANY"
+    },
+    {
+      "symbol": "002601",
+      "name": "龙佰集团",
+      "name_en": "LB Group Co., Ltd."
+    },
+    {
+      "symbol": "002602",
+      "name": "世纪华通",
+      "name_en": "ZHEJIANG CENTURY HUATONG GROUP CO., LTD"
+    },
+    {
+      "symbol": "002603",
+      "name": "以岭药业",
+      "name_en": "Shijiazhuang Yiling Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002607",
+      "name": "中公教育",
+      "name_en": "Offcn Education Technology Co., Ltd."
+    },
+    {
+      "symbol": "002625",
+      "name": "光启技术",
+      "name_en": "Kuang-Chi Technologies Co., Ltd."
+    },
+    {
+      "symbol": "002648",
+      "name": "卫星化学",
+      "name_en": "SATELLITE CHEMICAL CO., LTD."
+    },
+    {
+      "symbol": "002709",
+      "name": "天赐材料",
+      "name_en": "Guangzhou Tinci Materials Technology Co., Ltd"
+    },
+    {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "name_en": "MUYUAN FOODS GROUP CO., LTD."
+    },
+    {
+      "symbol": "002738",
+      "name": "中矿资源",
+      "name_en": "Sinomine Resource Group Co., Ltd."
+    },
+    {
+      "symbol": "002756",
+      "name": "永兴材料",
+      "name_en": "Yongxing Special Materials Technology Co.,Ltd."
+    },
+    {
+      "symbol": "002812",
+      "name": "恩捷股份",
+      "name_en": "Yunnan Energy New Material (Group) Co., Ltd."
+    },
+    {
+      "symbol": "002821",
+      "name": "凯莱英",
+      "name_en": "Asymchem Laboratories (Tianjin) Co., Ltd."
+    },
+    {
+      "symbol": "002831",
+      "name": "裕同科技",
+      "name_en": "ShenZhen YUTO Packaging Technology Co., Ltd."
+    },
+    {
+      "symbol": "002837",
+      "name": "英维克",
+      "name_en": "SHENZHEN ENVICOOL TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "002851",
+      "name": "麦格米特",
+      "name_en": "Shenzhen Megmeet Electrical Co., Ltd."
+    },
+    {
+      "symbol": "002891",
+      "name": "中宠股份",
+      "name_en": "YANTAI CHINA PET FOODS CO., LTD."
+    },
+    {
+      "symbol": "002916",
+      "name": "深南电路",
+      "name_en": "Shennan Circuits Co., Ltd."
+    },
+    {
+      "symbol": "002920",
+      "name": "德赛西威",
+      "name_en": "Huizhou Desay SV Automotive Co., Ltd."
+    },
+    {
+      "symbol": "002938",
+      "name": "鹏鼎控股",
+      "name_en": "Avary Holding (Shenzhen) Co., Limited"
+    },
+    {
+      "symbol": "003816",
+      "name": "中国广核",
+      "name_en": "CGN Power Co., Ltd."
+    },
+    {
+      "symbol": "300001",
+      "name": "特锐德",
+      "name_en": "Qingdao TGOOD Electric Co Ltd"
+    },
+    {
+      "symbol": "300003",
+      "name": "乐普医疗",
+      "name_en": "Lepu Medical Technology (Beijing) Co Ltd"
+    },
+    {
+      "symbol": "300012",
+      "name": "华测检测",
+      "name_en": "CENTRE TESTING INTERNATIONAL GROUP CO., LTD."
+    },
+    {
+      "symbol": "300014",
+      "name": "亿纬锂能",
+      "name_en": "Eve Energy Co Ltd"
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "name_en": "Aier Eye Hospital Group Co Ltd"
+    },
+    {
+      "symbol": "300017",
+      "name": "网宿科技",
+      "name_en": "Wangsu Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300024",
+      "name": "机器人",
+      "name_en": "Siasun Robot & Automation Co Ltd"
+    },
+    {
+      "symbol": "300033",
+      "name": "同花顺",
+      "name_en": "Hithink Royalflush Information Network Co.,Ltd."
+    },
+    {
+      "symbol": "300037",
+      "name": "新宙邦",
+      "name_en": "Shenzhen Capchem Technology Co Ltd"
+    },
+    {
+      "symbol": "300049",
+      "name": "福瑞医科",
+      "name_en": "Inner Mongolia Furui Medical Science Co., Ltd."
+    },
+    {
+      "symbol": "300054",
+      "name": "鼎龙股份",
+      "name_en": "Hubei Dinglong CO.,Ltd."
+    },
+    {
+      "symbol": "300058",
+      "name": "蓝色光标",
+      "name_en": "Bluefocus Data Technology Co., Ltd."
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "name_en": "East Money Information Co Ltd"
+    },
+    {
+      "symbol": "300070",
+      "name": "碧水源",
+      "name_en": "Beijing Originwater Technology Co Ltd"
+    },
+    {
+      "symbol": "300073",
+      "name": "当升科技",
+      "name_en": "Beijing Easpring Material Technology Co Ltd"
+    },
+    {
+      "symbol": "300083",
+      "name": "创世纪",
+      "name_en": "Guangdong Create Century Intelligent Equipment Group Corporation Limited"
+    },
+    {
+      "symbol": "300100",
+      "name": "双林股份",
+      "name_en": "Shuanglin Co.,Ltd."
+    },
+    {
+      "symbol": "300115",
+      "name": "长盈精密",
+      "name_en": "Shenzhen Evenwin Precision Technology Co Ltd"
+    },
+    {
+      "symbol": "300118",
+      "name": "东方日升",
+      "name_en": "Risen Energy Co Ltd"
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "name_en": "Chongqing Zhifei Biological Products Co Ltd"
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "name_en": "Shenzhen Inovance Technology Co Ltd"
+    },
+    {
+      "symbol": "300136",
+      "name": "信维通信",
+      "name_en": "Shenzhen Sunway Communication Co Ltd"
+    },
+    {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "name_en": "Walvax Biotechnology Co Ltd"
+    },
+    {
+      "symbol": "300144",
+      "name": "宋城演艺",
+      "name_en": "SONGCHENG PERFORMANCE DEVELOPMENT CO., LTD."
+    },
+    {
+      "symbol": "300207",
+      "name": "欣旺达",
+      "name_en": "Sunwoda Electronic Co Ltd"
+    },
+    {
+      "symbol": "300223",
+      "name": "北京君正",
+      "name_en": "Ingenic Semiconductor Co Ltd"
+    },
+    {
+      "symbol": "300251",
+      "name": "光线传媒",
+      "name_en": "Beijing Enlight Media Co Ltd"
+    },
+    {
+      "symbol": "300274",
+      "name": "阳光电源",
+      "name_en": "Sungrow Power Supply Co Ltd"
+    },
+    {
+      "symbol": "300308",
+      "name": "中际旭创",
+      "name_en": "ZHONGJI INNOLIGHT CO., LTD."
+    },
+    {
+      "symbol": "300316",
+      "name": "晶盛机电",
+      "name_en": "Zhejiang Jingsheng Mechanical & Electrical Co., Ltd."
+    },
+    {
+      "symbol": "300339",
+      "name": "润和软件",
+      "name_en": "Jiangsu Hoperun Software Co., Ltd."
+    },
+    {
+      "symbol": "300342",
+      "name": "天银机电",
+      "name_en": "Changshu Tianyin Electromechanical Co., Ltd."
+    },
+    {
+      "symbol": "300346",
+      "name": "南大光电",
+      "name_en": "Jiangsu Nata Opto-electronic Material Co.,Ltd"
+    },
+    {
+      "symbol": "300347",
+      "name": "泰格医药",
+      "name_en": "Hangzhou Tigermed Consulting Co., Ltd."
+    },
+    {
+      "symbol": "300390",
+      "name": "天华新能",
+      "name_en": "Canmax Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300394",
+      "name": "天孚通信",
+      "name_en": "Suzhou TFC Optical Communication Co., Ltd."
+    },
+    {
+      "symbol": "300395",
+      "name": "菲利华",
+      "name_en": "HUBEI FEILIHUA QUARTZ GLASS CO.LTD"
+    },
+    {
+      "symbol": "300408",
+      "name": "三环集团",
+      "name_en": "CHAOZHOU THREE-CIRCLE(GROUP)CO.,LTD"
+    },
+    {
+      "symbol": "300409",
+      "name": "道氏技术",
+      "name_en": "Guangdong Dowstone Technology Co., Ltd."
+    },
+    {
+      "symbol": "300418",
+      "name": "昆仑万维",
+      "name_en": "Beijing Kunlun Tech Co., Ltd."
+    },
+    {
+      "symbol": "300432",
+      "name": "富临精工",
+      "name_en": "Mianyang Fulin Precision Co.,Ltd."
+    },
+    {
+      "symbol": "300433",
+      "name": "蓝思科技",
+      "name_en": "Lens Technology Co., Ltd."
+    },
+    {
+      "symbol": "300438",
+      "name": "鹏辉能源",
+      "name_en": "Guangzhou Great Power Energy&Technology Co.,ltd."
+    },
+    {
+      "symbol": "300442",
+      "name": "润泽科技",
+      "name_en": "Range Intelligent Computing Technology Group Company Limited"
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "name_en": "WUXI LEAD INTELLIGENT EQUIPMENT CO., LTD."
+    },
+    {
+      "symbol": "300454",
+      "name": "深信服",
+      "name_en": "Sangfor Technologies Inc."
+    },
+    {
+      "symbol": "300457",
+      "name": "赢合科技",
+      "name_en": "SHENZHEN YINGHE TECHNOLOGY CO.,LTD"
+    },
+    {
+      "symbol": "300458",
+      "name": "全志科技",
+      "name_en": "All Winner Technology Co., Ltd."
+    },
+    {
+      "symbol": "300474",
+      "name": "景嘉微",
+      "name_en": "Changsha Jingjia Microelectronics Co., Ltd."
+    },
+    {
+      "symbol": "300475",
+      "name": "香农芯创",
+      "name_en": "Shannon Semiconductor Technology Co., Ltd."
+    },
+    {
+      "symbol": "300476",
+      "name": "胜宏科技",
+      "name_en": "Victory Giant Technology (HuiZhou)Co.,Ltd."
+    },
+    {
+      "symbol": "300496",
+      "name": "中科创达",
+      "name_en": "Thunder Software Technology Co., Ltd."
+    },
+    {
+      "symbol": "300502",
+      "name": "新易盛",
+      "name_en": "Eoptolink Technology Inc., Ltd"
+    },
+    {
+      "symbol": "300558",
+      "name": "贝达药业",
+      "name_en": "Betta Pharmaceuticals Co.,Ltd"
+    },
+    {
+      "symbol": "300567",
+      "name": "精测电子",
+      "name_en": "Wuhan Jingce Electronic Technology Co., Ltd."
+    },
+    {
+      "symbol": "300568",
+      "name": "星源材质",
+      "name_en": "Shenzhen Senior Technology Material Co., Ltd."
+    },
+    {
+      "symbol": "300573",
+      "name": "兴齐眼药",
+      "name_en": "SHENYANG XINGQI PHARMACEUTICAL CO., LTD."
+    },
+    {
+      "symbol": "300601",
+      "name": "康泰生物",
+      "name_en": "Shenzhen Kangtai Biological Products Co., Ltd."
+    },
+    {
+      "symbol": "300604",
+      "name": "长川科技",
+      "name_en": "Hangzhou Chang Chuan Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300661",
+      "name": "圣邦股份",
+      "name_en": "SG Micro Corp."
+    },
+    {
+      "symbol": "300676",
+      "name": "华大基因",
+      "name_en": "BGI Genomics Co., Ltd"
+    },
+    {
+      "symbol": "300677",
+      "name": "英科医疗",
+      "name_en": "Intco Medical Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300699",
+      "name": "光威复材",
+      "name_en": "Weihai Guangwei Composites Co.,Ltd."
+    },
+    {
+      "symbol": "300724",
+      "name": "捷佳伟创",
+      "name_en": "Shenzhen S.C New Energy Technology Corporation"
+    },
+    {
+      "symbol": "300748",
+      "name": "金力永磁",
+      "name_en": "JL MAG RARE-EARTH CO., LTD."
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "name_en": "Contemporary Amperex Technology Co., Limited."
+    },
+    {
+      "symbol": "300751",
+      "name": "迈为股份",
+      "name_en": "Suzhou Maxwell Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300757",
+      "name": "罗博特科",
+      "name_en": "RoboTechnik Intelligent Technology Co., LTD"
+    },
+    {
+      "symbol": "300759",
+      "name": "康龙化成",
+      "name_en": "Pharmaron Beijing Co., Ltd."
+    },
+    {
+      "symbol": "300760",
+      "name": "迈瑞医疗",
+      "name_en": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+    },
+    {
+      "symbol": "300763",
+      "name": "锦浪科技",
+      "name_en": "Ginlong Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300782",
+      "name": "卓胜微",
+      "name_en": "Maxscend Microelectronics Company Limited"
+    },
+    {
+      "symbol": "300803",
+      "name": "指南针",
+      "name_en": "Beijing Compass Technology Development Co., Ltd."
+    },
+    {
+      "symbol": "300832",
+      "name": "新产业",
+      "name_en": "Shenzhen New Industries Biomedical Engineering Co., Ltd."
+    },
+    {
+      "symbol": "300857",
+      "name": "协创数据",
+      "name_en": "SHARETRONIC DATA TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "300866",
+      "name": "安克创新",
+      "name_en": "Anker Innovations Technology Co., Ltd"
+    },
+    {
+      "symbol": "300896",
+      "name": "爱美客",
+      "name_en": "IMEIK TECHNOLOGY DEVELOPMENT CO.,LTD."
+    },
+    {
+      "symbol": "300919",
+      "name": "中伟新材",
+      "name_en": "CNGR Advanced Material Co.,Ltd."
+    },
+    {
+      "symbol": "300972",
+      "name": "万辰集团",
+      "name_en": "Fujian Wanchen Food Group Co., Ltd."
+    },
+    {
+      "symbol": "301078",
+      "name": "孩子王",
+      "name_en": "Kidswant Children Products Co.,Ltd."
+    },
+    {
+      "symbol": "301236",
+      "name": "软通动力",
+      "name_en": "iSoftStone Information Technology (Group) Co., Ltd."
+    },
+    {
+      "symbol": "301308",
+      "name": "江波龙",
+      "name_en": "Shenzhen Longsys Electronics Co., Ltd."
+    },
+    {
+      "symbol": "301358",
+      "name": "湖南裕能",
+      "name_en": "Hunan Yuneng New Energy Battery Material Co.,Ltd."
+    },
+    {
+      "symbol": "301550",
+      "name": "斯菱智驱",
+      "name_en": "Zhejiang Sling Intelligent Drive Group Co., Ltd."
+    },
+    {
+      "symbol": "302132",
+      "name": "中航成飞",
+      "name_en": "AVIC CHENGDU AIRCRAFT COMPANY LIMITED"
+    },
+    {
+      "symbol": "600000",
+      "name": "浦发银行",
+      "name_en": "Shanghai Pudong Development Bank Co Ltd"
+    },
+    {
+      "symbol": "600004",
+      "name": "白云机场",
+      "name_en": "Guangzhou Baiyun International Airport Co Ltd"
+    },
+    {
+      "symbol": "600008",
+      "name": "首创环保",
+      "name_en": "Beijing Capital Eco-Environment Protection GroupCo.,Ltd."
+    },
+    {
+      "symbol": "600009",
+      "name": "上海机场",
+      "name_en": "Shanghai International Airport Co Ltd"
+    },
+    {
+      "symbol": "600010",
+      "name": "包钢股份",
+      "name_en": "Inner Mongolia Baotou Steel Union Co Ltd"
+    },
+    {
+      "symbol": "600011",
+      "name": "华能国际",
+      "name_en": "Huaneng Power International Inc"
+    },
+    {
+      "symbol": "600018",
+      "name": "上港集团",
+      "name_en": "Shanghai International Port (Group) Co Ltd"
+    },
+    {
+      "symbol": "600019",
+      "name": "宝钢股份",
+      "name_en": "Baoshan Iron &Steel Co Ltd"
+    },
+    {
+      "symbol": "600026",
+      "name": "中远海能",
+      "name_en": "COSCO SHIPPING Energy Transportation Co., Ltd."
+    },
+    {
+      "symbol": "600028",
+      "name": "中国石化",
+      "name_en": "China Petroleum & Chemical Corporation"
+    },
+    {
+      "symbol": "600029",
+      "name": "南方航空",
+      "name_en": "China Southern Airlines Co Ltd"
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "name_en": "CITIC Securities Co Ltd"
+    },
+    {
+      "symbol": "600031",
+      "name": "三一重工",
+      "name_en": "Sany Heavy Industry Co Ltd"
+    },
+    {
+      "symbol": "600036",
+      "name": "招商银行",
+      "name_en": "China Merchants Bank Co Ltd"
+    },
+    {
+      "symbol": "600038",
+      "name": "中直股份",
+      "name_en": "AVIC Helicopter Co.,Ltd."
+    },
+    {
+      "symbol": "600039",
+      "name": "四川路桥",
+      "name_en": "Sichuan Road&Bridge Co Ltd"
+    },
+    {
+      "symbol": "600048",
+      "name": "保利发展",
+      "name_en": "Poly Developments and Holdings Group Co., Ltd."
+    },
+    {
+      "symbol": "600050",
+      "name": "中国联通",
+      "name_en": "China United Network Communications Co Ltd"
+    },
+    {
+      "symbol": "600064",
+      "name": "南京高科",
+      "name_en": "NANJING GAOKE COMPANY LIMITED"
+    },
+    {
+      "symbol": "600066",
+      "name": "宇通客车",
+      "name_en": "Zhengzhou Yutong Bus Co Ltd"
+    },
+    {
+      "symbol": "600085",
+      "name": "同仁堂",
+      "name_en": "Beijing Tongrentang Co Ltd"
+    },
+    {
+      "symbol": "600089",
+      "name": "特变电工",
+      "name_en": "TBEA Co Ltd"
+    },
+    {
+      "symbol": "600096",
+      "name": "云天化",
+      "name_en": "Yunnan Yuntianhua Co Ltd"
+    },
+    {
+      "symbol": "600104",
+      "name": "上汽集团",
+      "name_en": "SAIC Motor Co Ltd"
+    },
+    {
+      "symbol": "600111",
+      "name": "北方稀土",
+      "name_en": "China Northern Rare Earth (Group) High-Tech Co.,Ltd"
+    },
+    {
+      "symbol": "600115",
+      "name": "中国东航",
+      "name_en": "China Eastern Airlines Co., Ltd."
+    },
+    {
+      "symbol": "600118",
+      "name": "中国卫星",
+      "name_en": "China Spacesat Co Ltd"
+    },
+    {
+      "symbol": "600141",
+      "name": "兴发集团",
+      "name_en": "Hubei Xingfa Chemicals Group Co Ltd"
+    },
+    {
+      "symbol": "600143",
+      "name": "金发科技",
+      "name_en": "Kingfa Sci&Tech Co Ltd"
+    },
+    {
+      "symbol": "600150",
+      "name": "中国船舶",
+      "name_en": "China CSSC Holdings Limited"
+    },
+    {
+      "symbol": "600153",
+      "name": "建发股份",
+      "name_en": "Xiamen C&D Inc"
+    },
+    {
+      "symbol": "600157",
+      "name": "永泰能源",
+      "name_en": "WINTIME ENERGY GROUP CO.,LTD."
+    },
+    {
+      "symbol": "600160",
+      "name": "巨化股份",
+      "name_en": "Zhejiang Ju Hua Co Ltd"
+    },
+    {
+      "symbol": "600161",
+      "name": "天坛生物",
+      "name_en": "Beijing Tiantan Biological Products Co Ltd"
+    },
+    {
+      "symbol": "600166",
+      "name": "福田汽车",
+      "name_en": "Beiqi Foton Motor Co Ltd"
+    },
+    {
+      "symbol": "600170",
+      "name": "上海建工",
+      "name_en": "Shanghai Construction Co Ltd"
+    },
+    {
+      "symbol": "600176",
+      "name": "中国巨石",
+      "name_en": "CHINA JUSHI CO., LTD."
+    },
+    {
+      "symbol": "600177",
+      "name": "雅戈尔",
+      "name_en": "Youngor Group Co Ltd"
+    },
+    {
+      "symbol": "600183",
+      "name": "生益科技",
+      "name_en": "Shengyi Technology Co.,Ltd."
+    },
+    {
+      "symbol": "600196",
+      "name": "复星医药",
+      "name_en": "Shanghai Fosun Pharmaceutical (Group) Co Ltd"
+    },
+    {
+      "symbol": "600208",
+      "name": "衢州发展",
+      "name_en": "Quzhou Xin'an Development Co.,Ltd."
+    },
+    {
+      "symbol": "600219",
+      "name": "南山铝业",
+      "name_en": "Shandong Nanshan Aluminium Co., Ltd."
+    },
+    {
+      "symbol": "600221",
+      "name": "海航控股",
+      "name_en": "Hainan Airlines Holding Co., Ltd."
+    },
+    {
+      "symbol": "600226",
+      "name": "亨通股份",
+      "name_en": "Zhejiang Hengtong Holding Co., Ltd."
+    },
+    {
+      "symbol": "600233",
+      "name": "圆通速递",
+      "name_en": "YTO Express Group Co.,Ltd."
+    },
+    {
+      "symbol": "600258",
+      "name": "首旅酒店",
+      "name_en": "BTG Hotels (Group) Co., Ltd."
+    },
+    {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "name_en": "Jiangsu Hengrui Medicine Co Ltd"
+    },
+    {
+      "symbol": "600309",
+      "name": "万华化学",
+      "name_en": "Wanhua Chemical Group Co., Ltd."
+    },
+    {
+      "symbol": "600312",
+      "name": "平高电气",
+      "name_en": "Henan Pinggao Electric Co Ltd"
+    },
+    {
+      "symbol": "600316",
+      "name": "洪都航空",
+      "name_en": "Jiangxi Hongdu Aviation Industry Co Ltd"
+    },
+    {
+      "symbol": "600323",
+      "name": "瀚蓝环境",
+      "name_en": "Grandblue Environment Co.,Ltd."
+    },
+    {
+      "symbol": "600325",
+      "name": "华发股份",
+      "name_en": "Huafa Industrial Co Ltd Zhuhai"
+    },
+    {
+      "symbol": "600332",
+      "name": "白云山",
+      "name_en": "GUANGZHOU BAIYUNSHAN PHARMACEUTICAL HOLDINGS COMPANY LIMITED"
+    },
+    {
+      "symbol": "600346",
+      "name": "恒力石化",
+      "name_en": "Hengli Petrochemical Co.,Ltd."
+    },
+    {
+      "symbol": "600352",
+      "name": "浙江龙盛",
+      "name_en": "Zhejiang Longsheng Group Co Ltd"
+    },
+    {
+      "symbol": "600362",
+      "name": "江西铜业",
+      "name_en": "Jiangxi Copper Co Ltd"
+    },
+    {
+      "symbol": "600372",
+      "name": "中航机载",
+      "name_en": "AVIC Airborne Systems Co., Ltd."
+    },
+    {
+      "symbol": "600392",
+      "name": "盛和资源",
+      "name_en": "Shenghe Resources Holding Co.,Ltd."
+    },
+    {
+      "symbol": "600398",
+      "name": "海澜之家",
+      "name_en": "Heilan Home Co.,Ltd"
+    },
+    {
+      "symbol": "600406",
+      "name": "国电南瑞",
+      "name_en": "NARI Technology Co., Ltd."
+    },
+    {
+      "symbol": "600415",
+      "name": "小商品城",
+      "name_en": "Zhejiang China Commodities City Group Co Ltd"
+    },
+    {
+      "symbol": "600418",
+      "name": "江淮汽车",
+      "name_en": "Anhui Jianghuai Automobile Co Ltd"
+    },
+    {
+      "symbol": "600426",
+      "name": "华鲁恒升",
+      "name_en": "Shandong Hualu-Hengsheng Chemical Co Ltd"
+    },
+    {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "name_en": "Zhangzhou Pientzehuang Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "600438",
+      "name": "通威股份",
+      "name_en": "Tongwei Co Ltd"
+    },
+    {
+      "symbol": "600460",
+      "name": "士兰微",
+      "name_en": "Hangzhou Silan Microelectronics Co Ltd"
+    },
+    {
+      "symbol": "600482",
+      "name": "中国动力",
+      "name_en": "China Shipbuilding Industry Group Power Co.,Ltd"
+    },
+    {
+      "symbol": "600486",
+      "name": "扬农化工",
+      "name_en": "Jiangsu Yangnong Chemical Co Ltd"
+    },
+    {
+      "symbol": "600487",
+      "name": "亨通光电",
+      "name_en": "Hengtong Optic-Electric Co.,Ltd"
+    },
+    {
+      "symbol": "600489",
+      "name": "中金黄金",
+      "name_en": "Zhongjin Gold Co Ltd"
+    },
+    {
+      "symbol": "600497",
+      "name": "驰宏锌锗",
+      "name_en": "Yunnan Chihong Zinc&Germanium Co Ltd"
+    },
+    {
+      "symbol": "600499",
+      "name": "科达制造",
+      "name_en": "Keda Industrial Group Co., Ltd."
+    },
+    {
+      "symbol": "600511",
+      "name": "国药股份",
+      "name_en": "China National Medicines Corp Ltd"
+    },
+    {
+      "symbol": "600515",
+      "name": "海南机场",
+      "name_en": "Hainan Airport Infrastructure Co., Ltd"
+    },
+    {
+      "symbol": "600516",
+      "name": "方大炭素",
+      "name_en": "Fangda Carbon New Material Co.,Ltd"
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "name_en": "Kweichow Moutai Co Ltd"
+    },
+    {
+      "symbol": "600521",
+      "name": "华海药业",
+      "name_en": "Zhejiang Huahai Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "600522",
+      "name": "中天科技",
+      "name_en": "Jiangsu Zhongtian Technologies Co Ltd"
+    },
+    {
+      "symbol": "600529",
+      "name": "山东药玻",
+      "name_en": "Shandong Pharmaceutical Glass Co Ltd"
+    },
+    {
+      "symbol": "600535",
+      "name": "天士力",
+      "name_en": "TASLY PHARMACEUTICAL GROUP CO.,LTD"
+    },
+    {
+      "symbol": "600547",
+      "name": "山东黄金",
+      "name_en": "Shandong Gold-Mining Co Ltd"
+    },
+    {
+      "symbol": "600549",
+      "name": "厦门钨业",
+      "name_en": "Xiamen Tungsten Co Ltd"
+    },
+    {
+      "symbol": "600570",
+      "name": "恒生电子",
+      "name_en": "Hundsun Technologies Inc."
+    },
+    {
+      "symbol": "600580",
+      "name": "卧龙电驱",
+      "name_en": "Wolong Electric Group Co.,Ltd"
+    },
+    {
+      "symbol": "600584",
+      "name": "长电科技",
+      "name_en": "JCET Group Co., Ltd."
+    },
+    {
+      "symbol": "600585",
+      "name": "海螺水泥",
+      "name_en": "Anhui Conch Cement Co Ltd"
+    },
+    {
+      "symbol": "600588",
+      "name": "用友网络",
+      "name_en": "Yonyou Network Technology Co., Ltd."
+    },
+    {
+      "symbol": "600635",
+      "name": "大众公用",
+      "name_en": "Shanghai Dazhong Public Utilities (Group) Co Ltd"
+    },
+    {
+      "symbol": "600655",
+      "name": "豫园股份",
+      "name_en": "SHANGHAI YUYUAN TOURIST MART (GROUP) CO., LTD."
+    },
+    {
+      "symbol": "600660",
+      "name": "福耀玻璃",
+      "name_en": "Fuyao Glass Industry Group Co.,Ltd"
+    },
+    {
+      "symbol": "600663",
+      "name": "陆家嘴",
+      "name_en": "Shanghai Lujiazui Finance and Trade Zone Development Co Ltd"
+    },
+    {
+      "symbol": "600667",
+      "name": "太极实业",
+      "name_en": "Wuxi Taiji Industrial Co Ltd"
+    },
+    {
+      "symbol": "600673",
+      "name": "东阳光",
+      "name_en": "GUANGDONG HEC TECHNOLOGY HOLDING CO., LTD"
+    },
+    {
+      "symbol": "600674",
+      "name": "川投能源",
+      "name_en": "Sichuan Chuantou Energy Co Ltd"
+    },
+    {
+      "symbol": "600690",
+      "name": "海尔智家",
+      "name_en": "Haier Smart Home Co., Ltd."
+    },
+    {
+      "symbol": "600699",
+      "name": "均胜电子",
+      "name_en": "Ningbo Joyson Electronic Corp."
+    },
+    {
+      "symbol": "600704",
+      "name": "物产中大",
+      "name_en": "Zhejiang Material Industrial Zhongda Yuantong Group Co Ltd"
+    },
+    {
+      "symbol": "600711",
+      "name": "盛屯矿业",
+      "name_en": "Chengtun Mining Group Co., Ltd"
+    },
+    {
+      "symbol": "600741",
+      "name": "华域汽车",
+      "name_en": "HUAYU Automotive Systems Company Limited"
+    },
+    {
+      "symbol": "600754",
+      "name": "锦江酒店",
+      "name_en": "Shanghai Jin Jiang International Hotels Co.,Ltd."
+    },
+    {
+      "symbol": "600760",
+      "name": "中航沈飞",
+      "name_en": "AVIC SHENYANG AIRCRAFT COMPANY LIMITED"
+    },
+    {
+      "symbol": "600763",
+      "name": "通策医疗",
+      "name_en": "TOPCHOICE MEDICAL CORPORATION"
+    },
+    {
+      "symbol": "600765",
+      "name": "中航重机",
+      "name_en": "Avic Heavy Machinery Co Ltd"
+    },
+    {
+      "symbol": "600795",
+      "name": "国电电力",
+      "name_en": "GD Power Development Co Ltd"
+    },
+    {
+      "symbol": "600803",
+      "name": "新奥股份",
+      "name_en": "ENN Ecological Holdings Co., Ltd."
+    },
+    {
+      "symbol": "600816",
+      "name": "建元信托",
+      "name_en": "J-Yuan Trust Co.,Ltd."
+    },
+    {
+      "symbol": "600820",
+      "name": "隧道股份",
+      "name_en": "Shanghai Tunnel Engineering Co Ltd"
+    },
+    {
+      "symbol": "600839",
+      "name": "四川长虹",
+      "name_en": "Sichuan Changhong Electric Co Ltd"
+    },
+    {
+      "symbol": "600859",
+      "name": "王府井",
+      "name_en": "Wangfujing Group Co., Ltd."
+    },
+    {
+      "symbol": "600862",
+      "name": "中航高科",
+      "name_en": "Avic Aviation High-Technology Co., Ltd."
+    },
+    {
+      "symbol": "600864",
+      "name": "哈投股份",
+      "name_en": "Harbin Hatou Investment Co.,Ltd"
+    },
+    {
+      "symbol": "600875",
+      "name": "东方电气",
+      "name_en": "Dongfang Electric Corporation Limited"
+    },
+    {
+      "symbol": "600879",
+      "name": "航天电子",
+      "name_en": "China Aerospace Times Electronics Co.,Ltd."
+    },
+    {
+      "symbol": "600885",
+      "name": "宏发股份",
+      "name_en": "Hongfa Technology Co., Ltd."
+    },
+    {
+      "symbol": "600886",
+      "name": "国投电力",
+      "name_en": "SDIC Power Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "name_en": "Inner Mongolia Yili Industrial Group Co Ltd"
+    },
+    {
+      "symbol": "600893",
+      "name": "航发动力",
+      "name_en": "AVIC AVIATION ENGINE CORPORATION PLC."
+    },
+    {
+      "symbol": "600895",
+      "name": "张江高科",
+      "name_en": "Shanghai Zhangjiang Hi-tech Park Development Co Ltd"
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "name_en": "China Yangtze Power Co Ltd"
+    },
+    {
+      "symbol": "600905",
+      "name": "三峡能源",
+      "name_en": "China Three Gorges Renewables (Group) Co.,Ltd."
+    },
+    {
+      "symbol": "600938",
+      "name": "中国海油",
+      "name_en": "CNOOC Limited"
+    },
+    {
+      "symbol": "600941",
+      "name": "中国移动",
+      "name_en": "China Mobile Limited"
+    },
+    {
+      "symbol": "600988",
+      "name": "赤峰黄金",
+      "name_en": "Chifeng Jilong Gold Mining Group Limited"
+    },
+    {
+      "symbol": "600989",
+      "name": "宝丰能源",
+      "name_en": "Ningxia Baofeng Energy Group Co., Ltd."
+    },
+    {
+      "symbol": "600998",
+      "name": "九州通",
+      "name_en": "Jointown Pharmaceutical Group Co Ltd"
+    },
+    {
+      "symbol": "601000",
+      "name": "唐山港",
+      "name_en": "Tangshan Port Group Co Ltd"
+    },
+    {
+      "symbol": "601006",
+      "name": "大秦铁路",
+      "name_en": "Daqin Railway Co Ltd"
+    },
+    {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "name_en": "Longi Green Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "601018",
+      "name": "宁波港",
+      "name_en": "Ningbo Port Co Ltd"
+    },
+    {
+      "symbol": "601021",
+      "name": "春秋航空",
+      "name_en": "Spring Airlines Co., Ltd."
+    },
+    {
+      "symbol": "601058",
+      "name": "赛轮轮胎",
+      "name_en": "Sailun Group Co.,Ltd."
+    },
+    {
+      "symbol": "601088",
+      "name": "中国神华",
+      "name_en": "China Shenhua Energy Co Ltd"
+    },
+    {
+      "symbol": "601100",
+      "name": "恒立液压",
+      "name_en": "Jiangsu Hengli Hydraulic CO., Ltd."
+    },
+    {
+      "symbol": "601111",
+      "name": "中国国航",
+      "name_en": "Air China Ltd"
+    },
+    {
+      "symbol": "601117",
+      "name": "中国化学",
+      "name_en": "China National Chemical Engineering Co Ltd"
+    },
+    {
+      "symbol": "601127",
+      "name": "赛力斯",
+      "name_en": "Seres Group Co., Ltd."
+    },
+    {
+      "symbol": "601155",
+      "name": "新城控股",
+      "name_en": "Future Land Holdings Co., Ltd."
+    },
+    {
+      "symbol": "601166",
+      "name": "兴业银行",
+      "name_en": "Industrial Bank"
+    },
+    {
+      "symbol": "601168",
+      "name": "西部矿业",
+      "name_en": "Western Mining Co Ltd"
+    },
+    {
+      "symbol": "601179",
+      "name": "中国西电",
+      "name_en": "China XD Electric Co Ltd"
+    },
+    {
+      "symbol": "601186",
+      "name": "中国铁建",
+      "name_en": "China Railway Construction Co Ltd"
+    },
+    {
+      "symbol": "601211",
+      "name": "国泰海通",
+      "name_en": "GUOTAI HAITONG SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601216",
+      "name": "君正集团",
+      "name_en": "Inner Mongolia Junzheng Energy & Chemical Group Co.,Ltd."
+    },
+    {
+      "symbol": "601225",
+      "name": "陕西煤业",
+      "name_en": "Shaanxi Coal Industry Company Limited"
+    },
+    {
+      "symbol": "601233",
+      "name": "桐昆股份",
+      "name_en": "Tongkun Group Co Ltd"
+    },
+    {
+      "symbol": "601238",
+      "name": "广汽集团",
+      "name_en": "Guangzhou Automobile Group Co., Ltd."
+    },
+    {
+      "symbol": "601288",
+      "name": "农业银行",
+      "name_en": "Agricultural Bank of China Co Ltd"
+    },
+    {
+      "symbol": "601318",
+      "name": "中国平安",
+      "name_en": "Ping An Insurance (Group) Company of China Ltd"
+    },
+    {
+      "symbol": "601319",
+      "name": "中国人保",
+      "name_en": "The People's Insurance Company (Group) of China Limited"
+    },
+    {
+      "symbol": "601328",
+      "name": "交通银行",
+      "name_en": "Bank of Communications Co LTD"
+    },
+    {
+      "symbol": "601360",
+      "name": "三六零",
+      "name_en": "360 Security Technology Inc."
+    },
+    {
+      "symbol": "601390",
+      "name": "中国中铁",
+      "name_en": "China Railway Group Limited"
+    },
+    {
+      "symbol": "601398",
+      "name": "工商银行",
+      "name_en": "Industrial and Commercial Bank of China Ltd"
+    },
+    {
+      "symbol": "601567",
+      "name": "三星电气",
+      "name_en": "Ningbo Sanxing Medical Electric Co.,Ltd."
+    },
+    {
+      "symbol": "601600",
+      "name": "中国铝业",
+      "name_en": "Aluminum Corporation of China Limited"
+    },
+    {
+      "symbol": "601601",
+      "name": "中国太保",
+      "name_en": "China Pacific Insurance (Group) Co Ltd"
+    },
+    {
+      "symbol": "601607",
+      "name": "上海医药",
+      "name_en": "Shanghai Pharmaceuticals Holding Co.,Ltd"
+    },
+    {
+      "symbol": "601615",
+      "name": "明阳智能",
+      "name_en": "MingYangSmartEnergyGroupLimited"
+    },
+    {
+      "symbol": "601618",
+      "name": "中国中冶",
+      "name_en": "Metallurgical Corporation of China Co Ltd"
+    },
+    {
+      "symbol": "601628",
+      "name": "中国人寿",
+      "name_en": "China Life Insurance Company Limited"
+    },
+    {
+      "symbol": "601633",
+      "name": "长城汽车",
+      "name_en": "Great Wall Motor Co Ltd"
+    },
+    {
+      "symbol": "601658",
+      "name": "邮储银行",
+      "name_en": "POSTAL SAVINGS BANK OF CHINA CO., LTD."
+    },
+    {
+      "symbol": "601668",
+      "name": "中国建筑",
+      "name_en": "China State Construction Engineering Co Ltd"
+    },
+    {
+      "symbol": "601669",
+      "name": "中国电建",
+      "name_en": "Power Construction Corporation of China,Ltd"
+    },
+    {
+      "symbol": "601677",
+      "name": "明泰铝业",
+      "name_en": "Henan Mingtai AL.Industrial Co Ltd"
+    },
+    {
+      "symbol": "601689",
+      "name": "拓普集团",
+      "name_en": "Ningbo Tuopu Group Co., Ltd."
+    },
+    {
+      "symbol": "601727",
+      "name": "上海电气",
+      "name_en": "Shanghai Electric Group Co Ltd"
+    },
+    {
+      "symbol": "601728",
+      "name": "中国电信",
+      "name_en": "China Telecom Corporation Limited"
+    },
+    {
+      "symbol": "601766",
+      "name": "中国中车",
+      "name_en": "CRRC Corporation Limited"
+    },
+    {
+      "symbol": "601799",
+      "name": "星宇股份",
+      "name_en": "Changzhou Xingyu Automotive Lighting Systems Co Ltd"
+    },
+    {
+      "symbol": "601800",
+      "name": "中国交建",
+      "name_en": "China Communications Construction Company Limited"
+    },
+    {
+      "symbol": "601816",
+      "name": "京沪高铁",
+      "name_en": "Beijing-Shanghai High Speed Railway Co.,Ltd"
+    },
+    {
+      "symbol": "601857",
+      "name": "中国石油",
+      "name_en": "PetroChina Co Ltd"
+    },
+    {
+      "symbol": "601866",
+      "name": "中远海发",
+      "name_en": "COSCO SHIPPING Development Co.,Ltd."
+    },
+    {
+      "symbol": "601868",
+      "name": "中国能建",
+      "name_en": "China Energy Engineering Corporation Limited"
+    },
+    {
+      "symbol": "601872",
+      "name": "招商轮船",
+      "name_en": "China Merchants Energy Shipping Co., Ltd."
+    },
+    {
+      "symbol": "601877",
+      "name": "正泰电器",
+      "name_en": "Zhejiang Chint Electrics Co Ltd"
+    },
+    {
+      "symbol": "601880",
+      "name": "辽港股份",
+      "name_en": "Liaoning Port Co., Ltd."
+    },
+    {
+      "symbol": "601888",
+      "name": "中国中免",
+      "name_en": "China Tourism Group Duty Free Corporation Limited"
+    },
+    {
+      "symbol": "601899",
+      "name": "紫金矿业",
+      "name_en": "Zijin Mining Group Co Ltd"
+    },
+    {
+      "symbol": "601919",
+      "name": "中远海控",
+      "name_en": "COSCO SHIPPING Holdings Co., Ltd."
+    },
+    {
+      "symbol": "601985",
+      "name": "中国核电",
+      "name_en": "China National Nuclear Power Co.,Ltd."
+    },
+    {
+      "symbol": "601988",
+      "name": "中国银行",
+      "name_en": "Bank of China Ltd"
+    },
+    {
+      "symbol": "603019",
+      "name": "中科曙光",
+      "name_en": "Dawning Information Industry Co., Ltd."
+    },
+    {
+      "symbol": "603087",
+      "name": "甘李药业",
+      "name_en": "Gan & Lee Pharmaceuticals"
+    },
+    {
+      "symbol": "603129",
+      "name": "春风动力",
+      "name_en": "ZHEJIANGCFMOTOPOWERCO.,LTD."
+    },
+    {
+      "symbol": "603259",
+      "name": "药明康德",
+      "name_en": "WuXi AppTec Co., Ltd."
+    },
+    {
+      "symbol": "603260",
+      "name": "合盛硅业",
+      "name_en": "HOSHINE SILICON INDUSTRY CO.,LTD"
+    },
+    {
+      "symbol": "603288",
+      "name": "海天味业",
+      "name_en": "Foshan Haitian Flavouring and Food Company Ltd."
+    },
+    {
+      "symbol": "603392",
+      "name": "万泰生物",
+      "name_en": "BEIJING WANTAI BIOLOGICAL PHARMACY ENTERPRISE CO., LTD."
+    },
+    {
+      "symbol": "603486",
+      "name": "科沃斯",
+      "name_en": "Ecovacs Robotics Co., Ltd."
+    },
+    {
+      "symbol": "603501",
+      "name": "豪威集团",
+      "name_en": "Omni Vision Integrated Circuits Group, Inc."
+    },
+    {
+      "symbol": "603568",
+      "name": "伟明环保",
+      "name_en": "ZHEJIANG WEIMING ENVIRONMENT PROTECTION CO., LTD."
+    },
+    {
+      "symbol": "603596",
+      "name": "伯特利",
+      "name_en": "Bethel Automotive Safety Systems Co., Ltd"
+    },
+    {
+      "symbol": "603605",
+      "name": "珀莱雅",
+      "name_en": "Proya Cosmetics Co., Ltd."
+    },
+    {
+      "symbol": "603606",
+      "name": "东方电缆",
+      "name_en": "Ningbo Orient Wires & Cables Co., Ltd."
+    },
+    {
+      "symbol": "603650",
+      "name": "彤程新材",
+      "name_en": "Red Avenue New Materials Group Co., Ltd."
+    },
+    {
+      "symbol": "603659",
+      "name": "璞泰来",
+      "name_en": "Shanghai Putailai New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "603766",
+      "name": "隆鑫通用",
+      "name_en": "Loncin Motor Co., Ltd."
+    },
+    {
+      "symbol": "603799",
+      "name": "华友钴业",
+      "name_en": "ZHEJIANG HUAYOU COBALT CO., LTD."
+    },
+    {
+      "symbol": "603806",
+      "name": "福斯特",
+      "name_en": "HANGZHOU FIRST PV MATERIAL Co., LTD."
+    },
+    {
+      "symbol": "603816",
+      "name": "顾家家居",
+      "name_en": "Jason Furniture (Hangzhou) Co.,Ltd."
+    },
+    {
+      "symbol": "603833",
+      "name": "欧派家居",
+      "name_en": "Oppein Home Group Inc."
+    },
+    {
+      "symbol": "603885",
+      "name": "吉祥航空",
+      "name_en": "JUNEYAO AIRLINES Co., Ltd"
+    },
+    {
+      "symbol": "603899",
+      "name": "晨光股份",
+      "name_en": "SHANGHAI M&G STATIONERY INC."
+    },
+    {
+      "symbol": "603939",
+      "name": "益丰药房",
+      "name_en": "Yifeng Pharmacy Chain Co., Ltd."
+    },
+    {
+      "symbol": "603979",
+      "name": "金诚信",
+      "name_en": "JCHX MINING MANAGEMENT CO.,LTD."
+    },
+    {
+      "symbol": "603986",
+      "name": "兆易创新",
+      "name_en": "GigaDevice Semiconductor (Beijing) Inc."
+    },
+    {
+      "symbol": "603993",
+      "name": "洛阳钼业",
+      "name_en": "China Molybdenum Co., Ltd."
+    },
+    {
+      "symbol": "605090",
+      "name": "九丰能源",
+      "name_en": "Jiangxi Jovo Energy Co., Ltd."
+    },
+    {
+      "symbol": "605117",
+      "name": "德业股份",
+      "name_en": "Ningbo Deye Technology Co., Ltd."
+    },
+    {
+      "symbol": "605499",
+      "name": "东鹏饮料",
+      "name_en": "Eastroc Beverage (Group) Co.,Ltd."
+    },
+    {
+      "symbol": "605589",
+      "name": "圣泉集团",
+      "name_en": "Jinan Shengquan Group Share Holding Co.,Ltd."
+    },
+    {
+      "symbol": "688002",
+      "name": "睿创微纳",
+      "name_en": "Raytron Technology Co.,Ltd"
+    },
+    {
+      "symbol": "688005",
+      "name": "容百科技",
+      "name_en": "Ningbo Ronbay New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688008",
+      "name": "澜起科技",
+      "name_en": "Montage Technology Co., Ltd."
+    },
+    {
+      "symbol": "688009",
+      "name": "中国通号",
+      "name_en": "China Railway Signal & Communication Corporation Limited"
+    },
+    {
+      "symbol": "688012",
+      "name": "中微公司",
+      "name_en": "Advanced Micro-Fabrication Equipment Inc. China"
+    },
+    {
+      "symbol": "688017",
+      "name": "绿的谐波",
+      "name_en": "Leader Harmonious Drive Systems Co., Ltd."
+    },
+    {
+      "symbol": "688036",
+      "name": "传音控股",
+      "name_en": "SHENZHEN TRANSSION HOLDINGS CO., LTD."
+    },
+    {
+      "symbol": "688041",
+      "name": "海光信息",
+      "name_en": "Hygon Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "688047",
+      "name": "龙芯中科",
+      "name_en": "Loongson Technology Corporation Limited"
+    },
+    {
+      "symbol": "688063",
+      "name": "派能科技",
+      "name_en": "Pylon Technologies Co., Ltd."
+    },
+    {
+      "symbol": "688065",
+      "name": "凯赛生物",
+      "name_en": "Cathay Biotech Inc."
+    },
+    {
+      "symbol": "688072",
+      "name": "拓荆科技",
+      "name_en": "Piotech Inc."
+    },
+    {
+      "symbol": "688099",
+      "name": "晶晨股份",
+      "name_en": "Amlogic (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688111",
+      "name": "金山办公",
+      "name_en": "Beijing Kingsoft Office Software, Inc."
+    },
+    {
+      "symbol": "688114",
+      "name": "华大智造",
+      "name_en": "MGI Tech Co., Ltd."
+    },
+    {
+      "symbol": "688116",
+      "name": "天奈科技",
+      "name_en": "Jiangsu Cnano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688120",
+      "name": "华海清科",
+      "name_en": "Hwatsing Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688122",
+      "name": "西部超导",
+      "name_en": "Western Superconducting Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "688126",
+      "name": "沪硅产业",
+      "name_en": "National Silicon Industry Group Co.,Ltd."
+    },
+    {
+      "symbol": "688166",
+      "name": "博瑞医药",
+      "name_en": "BrightGene Bio-Medical Technology Co., Ltd."
+    },
+    {
+      "symbol": "688169",
+      "name": "石头科技",
+      "name_en": "Beijing Roborock Technology Co., Ltd."
+    },
+    {
+      "symbol": "688180",
+      "name": "君实生物",
+      "name_en": "Shanghai Junshi Biosciences Co., Ltd."
+    },
+    {
+      "symbol": "688188",
+      "name": "柏楚电子",
+      "name_en": "SHANGHAI FRIENDESS ELECTRONICS TECHNOLOGY CORPORATION LIMITED"
+    },
+    {
+      "symbol": "688213",
+      "name": "思特威",
+      "name_en": "Smartsens Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688223",
+      "name": "晶科能源",
+      "name_en": "Jinko Solar Co., Ltd."
+    },
+    {
+      "symbol": "688235",
+      "name": "百济神州",
+      "name_en": "BeiGene, Ltd."
+    },
+    {
+      "symbol": "688256",
+      "name": "寒武纪",
+      "name_en": "Cambricon Technologies Corporation Limited"
+    },
+    {
+      "symbol": "688266",
+      "name": "泽璟制药",
+      "name_en": "Suzhou Zelgen Biopharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688271",
+      "name": "联影医疗",
+      "name_en": "Shanghai United Imaging Healthcare Co., Ltd."
+    },
+    {
+      "symbol": "688303",
+      "name": "大全能源",
+      "name_en": "XinJiang Daqo New Energy Co.,Ltd"
+    },
+    {
+      "symbol": "688331",
+      "name": "荣昌生物",
+      "name_en": "RemeGen Co., Ltd."
+    },
+    {
+      "symbol": "688347",
+      "name": "华虹宏力",
+      "name_en": "Hua Hong Grace Semiconductor Limited"
+    },
+    {
+      "symbol": "688390",
+      "name": "固德威",
+      "name_en": "Jiangsu GoodWe Power Supply Technology Co., Ltd."
+    },
+    {
+      "symbol": "688396",
+      "name": "华润微",
+      "name_en": "China Resources Microelectronics Limited"
+    },
+    {
+      "symbol": "688469",
+      "name": "芯联集成",
+      "name_en": "United Nova Technology Co., Ltd."
+    },
+    {
+      "symbol": "688472",
+      "name": "阿特斯",
+      "name_en": "CSI Solar Co., Ltd."
+    },
+    {
+      "symbol": "688498",
+      "name": "源杰科技",
+      "name_en": "Yuanjie Semiconductor Technology Co., Ltd"
+    },
+    {
+      "symbol": "688506",
+      "name": "百利天恒",
+      "name_en": "Sichuan Biokin Pharmaceutical Co.,Ltd."
+    },
+    {
+      "symbol": "688521",
+      "name": "芯原股份",
+      "name_en": "VeriSilicon Microelectronics (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688525",
+      "name": "佰维存储",
+      "name_en": "Biwin Storage Technology Co., Ltd."
+    },
+    {
+      "symbol": "688578",
+      "name": "艾力斯",
+      "name_en": "Shanghai Allist Pharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688599",
+      "name": "天合光能",
+      "name_en": "Trina Solar Co., Ltd."
+    },
+    {
+      "symbol": "688608",
+      "name": "恒玄科技",
+      "name_en": "Bestechnic (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688617",
+      "name": "惠泰医疗",
+      "name_en": "APT Medical Inc."
+    },
+    {
+      "symbol": "688676",
+      "name": "金盘科技",
+      "name_en": "HAINAN JINPAN SMART TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "688777",
+      "name": "中控技术",
+      "name_en": "SUPCON Technology Co., Ltd."
+    },
+    {
+      "symbol": "688981",
+      "name": "中芯国际",
+      "name_en": "Semiconductor Manufacturing International Corporation"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "Cross:证券公司",
+  "code": "399975",
+  "board": "Cross",
+  "name": "证券公司",
+  "name_en": "Securities",
+  "category": "Sector",
+  "count": 49,
+  "members": [
+    {
+      "symbol": "000166",
+      "name": "申万宏源",
+      "name_en": "Shenwan Hongyuan Group CO., LTD"
+    },
+    {
+      "symbol": "000686",
+      "name": "东北证券",
+      "name_en": "Northeast Securities Co Ltd"
+    },
+    {
+      "symbol": "000712",
+      "name": "锦龙股份",
+      "name_en": "Guangdong Golden Dragon Development Inc."
+    },
+    {
+      "symbol": "000728",
+      "name": "国元证券",
+      "name_en": "Guoyuan Securities Company Limited"
+    },
+    {
+      "symbol": "000750",
+      "name": "国海证券",
+      "name_en": "Sealand Securities Co., Ltd."
+    },
+    {
+      "symbol": "000776",
+      "name": "广发证券",
+      "name_en": "GF Securities Co., Ltd."
+    },
+    {
+      "symbol": "000783",
+      "name": "长江证券",
+      "name_en": "Changjiang Securities Company Limited"
+    },
+    {
+      "symbol": "002500",
+      "name": "山西证券",
+      "name_en": "Shanxi Securities Co Ltd"
+    },
+    {
+      "symbol": "002670",
+      "name": "国盛证券",
+      "name_en": "GUOSHENG SECURITIES Inc."
+    },
+    {
+      "symbol": "002673",
+      "name": "西部证券",
+      "name_en": "WESTERN SECURITIES CO., LTD"
+    },
+    {
+      "symbol": "002736",
+      "name": "国信证券",
+      "name_en": "GUOSEN SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "002797",
+      "name": "第一创业",
+      "name_en": "First Capital Securities Co., Ltd."
+    },
+    {
+      "symbol": "002926",
+      "name": "华西证券",
+      "name_en": "Huaxi Securities Co., Ltd."
+    },
+    {
+      "symbol": "002939",
+      "name": "长城证券",
+      "name_en": "CHINA GREAT WALL SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "002945",
+      "name": "华林证券",
+      "name_en": "ChinaLin Securities Co., Ltd."
+    },
+    {
+      "symbol": "300059",
+      "name": "东方财富",
+      "name_en": "East Money Information Co Ltd"
+    },
+    {
+      "symbol": "600030",
+      "name": "中信证券",
+      "name_en": "CITIC Securities Co Ltd"
+    },
+    {
+      "symbol": "600061",
+      "name": "国投资本",
+      "name_en": "SDIC Capital Co., Ltd"
+    },
+    {
+      "symbol": "600095",
+      "name": "湘财股份",
+      "name_en": "XIANGCAI CO.,LTD"
+    },
+    {
+      "symbol": "600109",
+      "name": "国金证券",
+      "name_en": "Sinolink Securities Co. Ltd."
+    },
+    {
+      "symbol": "600155",
+      "name": "华创云信",
+      "name_en": "Polaris Bay Group Co.,Ltd."
+    },
+    {
+      "symbol": "600369",
+      "name": "西南证券",
+      "name_en": "Southwest Securities Co Ltd"
+    },
+    {
+      "symbol": "600621",
+      "name": "华鑫股份",
+      "name_en": "SHANGHAI CHINAFORTUNE CO., LTD"
+    },
+    {
+      "symbol": "600906",
+      "name": "财达证券",
+      "name_en": "CAIDA SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "600909",
+      "name": "华安证券",
+      "name_en": "HUAAN SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "600918",
+      "name": "中泰证券",
+      "name_en": "ZHONGTAI SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "600958",
+      "name": "东方证券",
+      "name_en": "ORIENT SECURITIES COMPANY LIMITED"
+    },
+    {
+      "symbol": "600999",
+      "name": "招商证券",
+      "name_en": "China Merchants Securities Co Ltd"
+    },
+    {
+      "symbol": "601059",
+      "name": "信达证券",
+      "name_en": "CINDA SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601066",
+      "name": "中信建投",
+      "name_en": "China Securities Co., Ltd."
+    },
+    {
+      "symbol": "601099",
+      "name": "太平洋",
+      "name_en": "The Pacific Securities Co.Ltd"
+    },
+    {
+      "symbol": "601108",
+      "name": "财通证券",
+      "name_en": "CAITONG SECURITIES CO.,LTD."
+    },
+    {
+      "symbol": "601136",
+      "name": "首创证券",
+      "name_en": "Capital Securities Corporation Limited"
+    },
+    {
+      "symbol": "601162",
+      "name": "天风证券",
+      "name_en": "TIANFENG SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601198",
+      "name": "东兴证券",
+      "name_en": "DONGXING SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601211",
+      "name": "国泰海通",
+      "name_en": "GUOTAI HAITONG SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601236",
+      "name": "红塔证券",
+      "name_en": "HONGTA SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601375",
+      "name": "中原证券",
+      "name_en": "CENTRAL CHINA SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601377",
+      "name": "兴业证券",
+      "name_en": "Industrial Securities Co Ltd"
+    },
+    {
+      "symbol": "601456",
+      "name": "国联民生",
+      "name_en": "Guolian Minsheng Securities Company Limited"
+    },
+    {
+      "symbol": "601555",
+      "name": "东吴证券",
+      "name_en": "Soochow Securities Co Ltd"
+    },
+    {
+      "symbol": "601688",
+      "name": "华泰证券",
+      "name_en": "Huatai Securities Co Ltd"
+    },
+    {
+      "symbol": "601696",
+      "name": "中银证券",
+      "name_en": "BOC International (China) Co., Ltd."
+    },
+    {
+      "symbol": "601788",
+      "name": "光大证券",
+      "name_en": "Everbright Securities Co Ltd"
+    },
+    {
+      "symbol": "601878",
+      "name": "浙商证券",
+      "name_en": "ZHESHANG SECURITIES CO., LTD."
+    },
+    {
+      "symbol": "601881",
+      "name": "中国银河",
+      "name_en": "China Galaxy Securities Co., Ltd."
+    },
+    {
+      "symbol": "601901",
+      "name": "方正证券",
+      "name_en": "Founder Securities Co Ltd"
+    },
+    {
+      "symbol": "601990",
+      "name": "南京证券",
+      "name_en": "Nanjing Securities Co., Ltd."
+    },
+    {
+      "symbol": "601995",
+      "name": "中金公司",
+      "name_en": "China International Capital Corporation Limited"
+    }
+  ]
+}

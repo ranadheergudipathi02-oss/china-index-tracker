@@ -1,0 +1,311 @@
+{
+  "id": "Cross:信息安全",
+  "code": "399994",
+  "board": "Cross",
+  "name": "信息安全",
+  "name_en": "Info Security",
+  "category": "Thematic",
+  "count": 60,
+  "members": [
+    {
+      "symbol": "000066",
+      "name": "中国长城",
+      "name_en": "CHINA GREATWALL TECHNOLOGY GROUP CO., LTD."
+    },
+    {
+      "symbol": "000938",
+      "name": "紫光股份",
+      "name_en": "Unisplendour Co., Ltd."
+    },
+    {
+      "symbol": "000948",
+      "name": "南天信息",
+      "name_en": "Yunnan Nantian Electronics Information Co Ltd"
+    },
+    {
+      "symbol": "000977",
+      "name": "浪潮信息",
+      "name_en": "Inspur Electronic Information Industry Co.,Ltd"
+    },
+    {
+      "symbol": "000997",
+      "name": "新 大 陆",
+      "name_en": "Newland Digital Technology Co.,Ltd."
+    },
+    {
+      "symbol": "002017",
+      "name": "东信和平",
+      "name_en": "Eastcompeace Techonlogy Co.,Ltd"
+    },
+    {
+      "symbol": "002049",
+      "name": "紫光国微",
+      "name_en": "Unigroup Guoxin Microelectronics Co., Ltd."
+    },
+    {
+      "symbol": "002104",
+      "name": "恒宝股份",
+      "name_en": "Hengbao Co Ltd"
+    },
+    {
+      "symbol": "002152",
+      "name": "广电运通",
+      "name_en": "GRG Banking Equipment Co Ltd"
+    },
+    {
+      "symbol": "002212",
+      "name": "天融信",
+      "name_en": "Topsec Technologies Group Inc."
+    },
+    {
+      "symbol": "002236",
+      "name": "大华股份",
+      "name_en": "Zhejiang Dahua Technology Co Ltd"
+    },
+    {
+      "symbol": "002268",
+      "name": "电科网安",
+      "name_en": "CETC Cyberspace Security Technology Co.,Ltd."
+    },
+    {
+      "symbol": "002405",
+      "name": "四维图新",
+      "name_en": "NavInfo Co Ltd"
+    },
+    {
+      "symbol": "002415",
+      "name": "海康威视",
+      "name_en": "Hangzhou Hikvision Digital Technology Co Ltd"
+    },
+    {
+      "symbol": "002439",
+      "name": "启明星辰",
+      "name_en": "Beijing Venustech Inc."
+    },
+    {
+      "symbol": "002819",
+      "name": "东方中科",
+      "name_en": "BEIJING ORIENTAL JICHENG CO., LTD."
+    },
+    {
+      "symbol": "002912",
+      "name": "中新赛克",
+      "name_en": "Shenzhen Sinovatio Technology Co., Ltd."
+    },
+    {
+      "symbol": "003029",
+      "name": "吉大正元",
+      "name_en": "Jilin University Zhengyuan Information Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "300017",
+      "name": "网宿科技",
+      "name_en": "Wangsu Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300036",
+      "name": "超图软件",
+      "name_en": "Beijing Supermap Software Co Ltd"
+    },
+    {
+      "symbol": "300077",
+      "name": "国民技术",
+      "name_en": "Nationz Technologies Inc"
+    },
+    {
+      "symbol": "300130",
+      "name": "新国都",
+      "name_en": "XGD INC."
+    },
+    {
+      "symbol": "300166",
+      "name": "东方国信",
+      "name_en": "Beijing Orient National Communication Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300188",
+      "name": "国投智能",
+      "name_en": "SDIC Intelligence Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300229",
+      "name": "拓尔思",
+      "name_en": "TRS Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300287",
+      "name": "飞利信",
+      "name_en": "Beijing Philisense Technology Co., Ltd."
+    },
+    {
+      "symbol": "300324",
+      "name": "旋极信息",
+      "name_en": "Beijing Watertek Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300333",
+      "name": "兆日科技",
+      "name_en": "SINOSUN TECHNOLOGY CO., LTD."
+    },
+    {
+      "symbol": "300369",
+      "name": "绿盟科技",
+      "name_en": "NSFOCUS Technologies Group Co., Ltd."
+    },
+    {
+      "symbol": "300383",
+      "name": "光环新网",
+      "name_en": "Beijing Sinnet Technology Co., Ltd."
+    },
+    {
+      "symbol": "300386",
+      "name": "飞天诚信",
+      "name_en": "Feitian Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300448",
+      "name": "浩云科技",
+      "name_en": "Haoyun Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "300454",
+      "name": "深信服",
+      "name_en": "Sangfor Technologies Inc."
+    },
+    {
+      "symbol": "300479",
+      "name": "神思电子",
+      "name_en": "Shandong Synthesis Electronic Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300546",
+      "name": "雄帝科技",
+      "name_en": "Shenzhen Emperor Technology Company Limited."
+    },
+    {
+      "symbol": "300579",
+      "name": "数字认证",
+      "name_en": "BeiJing Certificate Authority Co., Ltd."
+    },
+    {
+      "symbol": "300588",
+      "name": "熙菱信息",
+      "name_en": "Xinjiang Sailing Information Technology Co., Ltd."
+    },
+    {
+      "symbol": "300659",
+      "name": "中孚信息",
+      "name_en": "Zhongfu Information Inc."
+    },
+    {
+      "symbol": "300663",
+      "name": "科蓝软件",
+      "name_en": "Client Service International, Inc"
+    },
+    {
+      "symbol": "300738",
+      "name": "奥飞数据",
+      "name_en": "Guangdong Aofei Data Technology Co., Ltd."
+    },
+    {
+      "symbol": "300768",
+      "name": "迪普科技",
+      "name_en": "Hangzhou DPtech Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "300921",
+      "name": "南凌科技",
+      "name_en": "NOVA Technology Corporation Limited"
+    },
+    {
+      "symbol": "301117",
+      "name": "佳缘科技",
+      "name_en": "Jiayuan Science and Technology Co.,Ltd."
+    },
+    {
+      "symbol": "600271",
+      "name": "航天信息",
+      "name_en": "Aisino Co.,Ltd"
+    },
+    {
+      "symbol": "600410",
+      "name": "华胜天成",
+      "name_en": "Beijing Teamsun Technology Co Ltd"
+    },
+    {
+      "symbol": "600536",
+      "name": "中国软件",
+      "name_en": "China National Software & Service Co Ltd"
+    },
+    {
+      "symbol": "600588",
+      "name": "用友网络",
+      "name_en": "Yonyou Network Technology Co., Ltd."
+    },
+    {
+      "symbol": "601360",
+      "name": "三六零",
+      "name_en": "360 Security Technology Inc."
+    },
+    {
+      "symbol": "603019",
+      "name": "中科曙光",
+      "name_en": "Dawning Information Industry Co., Ltd."
+    },
+    {
+      "symbol": "603160",
+      "name": "汇顶科技",
+      "name_en": "Shenzhen Huiding Technology Co., Ltd."
+    },
+    {
+      "symbol": "603232",
+      "name": "格尔软件",
+      "name_en": "Shanghai Koal Software Co., Ltd."
+    },
+    {
+      "symbol": "688023",
+      "name": "安恒信息",
+      "name_en": "DBAPPSecurity Co., Ltd"
+    },
+    {
+      "symbol": "688027",
+      "name": "国盾量子",
+      "name_en": "QuantumCTek Co., Ltd."
+    },
+    {
+      "symbol": "688152",
+      "name": "麒麟信安",
+      "name_en": "Hunan Kylinsec Technology Co., Ltd."
+    },
+    {
+      "symbol": "688168",
+      "name": "安博通",
+      "name_en": "Beijing ABT Networks Co., Ltd."
+    },
+    {
+      "symbol": "688213",
+      "name": "思特威",
+      "name_en": "Smartsens Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688225",
+      "name": "亚信安全",
+      "name_en": "Asiainfo Security Technologies Co.,Ltd."
+    },
+    {
+      "symbol": "688262",
+      "name": "国芯科技",
+      "name_en": "C*Core Technology Co., Ltd."
+    },
+    {
+      "symbol": "688292",
+      "name": "浩瀚深度",
+      "name_en": "Beijing Haohan Data Technology Co., Ltd."
+    },
+    {
+      "symbol": "688561",
+      "name": "奇安信",
+      "name_en": "Qi An Xin Technology Group Inc."
+    }
+  ]
+}

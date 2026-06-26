@@ -1,0 +1,191 @@
+{
+  "id": "Cross:800消费",
+  "code": "000932",
+  "board": "Cross",
+  "name": "800消费",
+  "name_en": "CSI 800 Staples",
+  "category": "Sector",
+  "count": 36,
+  "members": [
+    {
+      "symbol": "000568",
+      "name": "泸州老窖",
+      "name_en": "Luzhou Lao Jiao Co Ltd"
+    },
+    {
+      "symbol": "000596",
+      "name": "古井贡酒",
+      "name_en": "Anhui Gujing Distillery Co Ltd"
+    },
+    {
+      "symbol": "000729",
+      "name": "燕京啤酒",
+      "name_en": "Beijing Yanjing Brewery Co Ltd"
+    },
+    {
+      "symbol": "000858",
+      "name": "五 粮 液",
+      "name_en": "Wuliangye Yibin Co Ltd"
+    },
+    {
+      "symbol": "000895",
+      "name": "双汇发展",
+      "name_en": "Henan Shuanghui Investment & Development Co Ltd"
+    },
+    {
+      "symbol": "002157",
+      "name": "正邦科技",
+      "name_en": "Jiangxi Zhengbang Technology Co Ltd"
+    },
+    {
+      "symbol": "002299",
+      "name": "圣农发展",
+      "name_en": "Fujian Sunner Development Co Ltd"
+    },
+    {
+      "symbol": "002304",
+      "name": "洋河股份",
+      "name_en": "Jiangsu Yanghe Brewery Joint-Stock Co Ltd"
+    },
+    {
+      "symbol": "002311",
+      "name": "海大集团",
+      "name_en": "Guangdong Haid Group Co Ltd"
+    },
+    {
+      "symbol": "002461",
+      "name": "珠江啤酒",
+      "name_en": "Guangzhou Zhujiang Brewery Co Ltd"
+    },
+    {
+      "symbol": "002568",
+      "name": "百润股份",
+      "name_en": "SHANGHAI BAIRUN INVESTMENT HOLDING GROUP CO.,LTD."
+    },
+    {
+      "symbol": "002714",
+      "name": "牧原股份",
+      "name_en": "MUYUAN FOODS GROUP CO., LTD."
+    },
+    {
+      "symbol": "300146",
+      "name": "汤臣倍健",
+      "name_en": "BY-HEALTH CO., LTD"
+    },
+    {
+      "symbol": "300498",
+      "name": "温氏股份",
+      "name_en": "GUANGDONGWENSFOODSTUFFGROUPCO.,LTD"
+    },
+    {
+      "symbol": "300957",
+      "name": "贝泰妮",
+      "name_en": "Yunnan Botanee Bio-Technology Group Co., Ltd."
+    },
+    {
+      "symbol": "300999",
+      "name": "金龙鱼",
+      "name_en": "Yihai Kerry Arawana Holdings Co., Ltd"
+    },
+    {
+      "symbol": "301498",
+      "name": "乖宝宠物",
+      "name_en": "Gambol Pet Group Co., Ltd."
+    },
+    {
+      "symbol": "600132",
+      "name": "重庆啤酒",
+      "name_en": "Chongqing Brewery Co Ltd"
+    },
+    {
+      "symbol": "600298",
+      "name": "安琪酵母",
+      "name_en": "Angel Yeast Co Ltd"
+    },
+    {
+      "symbol": "600299",
+      "name": "安迪苏",
+      "name_en": "Bluestar Adisseo Company"
+    },
+    {
+      "symbol": "600519",
+      "name": "贵州茅台",
+      "name_en": "Kweichow Moutai Co Ltd"
+    },
+    {
+      "symbol": "600598",
+      "name": "北大荒",
+      "name_en": "Heilongjiang Agriculture Co Ltd"
+    },
+    {
+      "symbol": "600600",
+      "name": "青岛啤酒",
+      "name_en": "Tsingtao Brewery Co Ltd"
+    },
+    {
+      "symbol": "600737",
+      "name": "中粮糖业",
+      "name_en": "COFCO SUGAR HOLDING CO.,LTD."
+    },
+    {
+      "symbol": "600809",
+      "name": "山西汾酒",
+      "name_en": "Shanxi Xinghuacun Fen Wine Factory Co Ltd"
+    },
+    {
+      "symbol": "600873",
+      "name": "梅花生物",
+      "name_en": "Meihua Holdings Group Co., Ltd"
+    },
+    {
+      "symbol": "600887",
+      "name": "伊利股份",
+      "name_en": "Inner Mongolia Yili Industrial Group Co Ltd"
+    },
+    {
+      "symbol": "601118",
+      "name": "海南橡胶",
+      "name_en": "China Hainan Rubber Industry Group Co Ltd"
+    },
+    {
+      "symbol": "603156",
+      "name": "养元饮品",
+      "name_en": "Hebei Yangyuan ZhiHui Beverage Co., Ltd."
+    },
+    {
+      "symbol": "603288",
+      "name": "海天味业",
+      "name_en": "Foshan Haitian Flavouring and Food Company Ltd."
+    },
+    {
+      "symbol": "603345",
+      "name": "安井食品",
+      "name_en": "FU JIAN ANJOY FOODS CO., LTD."
+    },
+    {
+      "symbol": "603369",
+      "name": "今世缘",
+      "name_en": "Jiangsu King's Luck Brewery Joint-Stock Co., Ltd."
+    },
+    {
+      "symbol": "603589",
+      "name": "口子窖",
+      "name_en": "Anhui Kouzi Distillery Co., Ltd."
+    },
+    {
+      "symbol": "603605",
+      "name": "珀莱雅",
+      "name_en": "Proya Cosmetics Co., Ltd."
+    },
+    {
+      "symbol": "605499",
+      "name": "东鹏饮料",
+      "name_en": "Eastroc Beverage (Group) Co.,Ltd."
+    },
+    {
+      "symbol": "688363",
+      "name": "华熙生物",
+      "name_en": "Bloomage Biotechnology Corporation Limited"
+    }
+  ]
+}

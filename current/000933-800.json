@@ -1,0 +1,361 @@
+{
+  "id": "Cross:800医卫",
+  "code": "000933",
+  "board": "Cross",
+  "name": "800医卫",
+  "name_en": "CSI 800 Health",
+  "category": "Sector",
+  "count": 70,
+  "members": [
+    {
+      "symbol": "000423",
+      "name": "东阿阿胶",
+      "name_en": "Shandong Dong-Ee Jiao Co Ltd"
+    },
+    {
+      "symbol": "000513",
+      "name": "丽珠集团",
+      "name_en": "Livzon Pharmaceutical Group Inc"
+    },
+    {
+      "symbol": "000538",
+      "name": "云南白药",
+      "name_en": "Yunnan Baiyao Group Co., Ltd."
+    },
+    {
+      "symbol": "000623",
+      "name": "吉林敖东",
+      "name_en": "Jilin Aodong Pharmaceutical Group Co., Ltd."
+    },
+    {
+      "symbol": "000661",
+      "name": "长春高新",
+      "name_en": "Chang Chun High and New Technology Industry (Group) Inc."
+    },
+    {
+      "symbol": "000739",
+      "name": "普洛药业",
+      "name_en": "Apeloa Pharmaceutical Co., Ltd."
+    },
+    {
+      "symbol": "000963",
+      "name": "华东医药",
+      "name_en": "Huadong Medicine Co Ltd"
+    },
+    {
+      "symbol": "000999",
+      "name": "华润三九",
+      "name_en": "China Resources Sanjiu Medical & Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002001",
+      "name": "新和成",
+      "name_en": "Zhejiang NHU Co Ltd"
+    },
+    {
+      "symbol": "002007",
+      "name": "华兰生物",
+      "name_en": "Hualan Biological Engineering INC"
+    },
+    {
+      "symbol": "002044",
+      "name": "美年健康",
+      "name_en": "Meinian Onehealth Healthcare Holdings Co., Ltd."
+    },
+    {
+      "symbol": "002223",
+      "name": "鱼跃医疗",
+      "name_en": "Jiangsu Yuyue Medical Equipment & Supply Co Ltd"
+    },
+    {
+      "symbol": "002252",
+      "name": "上海莱士",
+      "name_en": "Shanghai RAAS Blood Products Co Ltd"
+    },
+    {
+      "symbol": "002262",
+      "name": "恩华药业",
+      "name_en": "Jiangsu Nhwa Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002422",
+      "name": "科伦药业",
+      "name_en": "Sichuan Kelun Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002432",
+      "name": "九安医疗",
+      "name_en": "Andon Health Co Ltd"
+    },
+    {
+      "symbol": "002603",
+      "name": "以岭药业",
+      "name_en": "Shijiazhuang Yiling Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "002773",
+      "name": "康弘药业",
+      "name_en": "Chengdu Kanghong Pharmaceutical Group Co., Ltd"
+    },
+    {
+      "symbol": "002821",
+      "name": "凯莱英",
+      "name_en": "Asymchem Laboratories (Tianjin) Co., Ltd."
+    },
+    {
+      "symbol": "300003",
+      "name": "乐普医疗",
+      "name_en": "Lepu Medical Technology (Beijing) Co Ltd"
+    },
+    {
+      "symbol": "300015",
+      "name": "爱尔眼科",
+      "name_en": "Aier Eye Hospital Group Co Ltd"
+    },
+    {
+      "symbol": "300122",
+      "name": "智飞生物",
+      "name_en": "Chongqing Zhifei Biological Products Co Ltd"
+    },
+    {
+      "symbol": "300142",
+      "name": "沃森生物",
+      "name_en": "Walvax Biotechnology Co Ltd"
+    },
+    {
+      "symbol": "300558",
+      "name": "贝达药业",
+      "name_en": "Betta Pharmaceuticals Co.,Ltd"
+    },
+    {
+      "symbol": "300676",
+      "name": "华大基因",
+      "name_en": "BGI Genomics Co., Ltd"
+    },
+    {
+      "symbol": "300677",
+      "name": "英科医疗",
+      "name_en": "Intco Medical Technology Co.,Ltd."
+    },
+    {
+      "symbol": "300759",
+      "name": "康龙化成",
+      "name_en": "Pharmaron Beijing Co., Ltd."
+    },
+    {
+      "symbol": "300760",
+      "name": "迈瑞医疗",
+      "name_en": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+    },
+    {
+      "symbol": "300832",
+      "name": "新产业",
+      "name_en": "Shenzhen New Industries Biomedical Engineering Co., Ltd."
+    },
+    {
+      "symbol": "300888",
+      "name": "稳健医疗",
+      "name_en": "Winner Medical Co., Ltd."
+    },
+    {
+      "symbol": "300896",
+      "name": "爱美客",
+      "name_en": "IMEIK TECHNOLOGY DEVELOPMENT CO.,LTD."
+    },
+    {
+      "symbol": "301301",
+      "name": "川宁生物",
+      "name_en": "Yili Chuanning Biotechnology Co., Ltd."
+    },
+    {
+      "symbol": "600062",
+      "name": "华润双鹤",
+      "name_en": "CHINA RESOURCES DOUBLE-CRANE PHARMACEUTICAL CO.,LTD."
+    },
+    {
+      "symbol": "600085",
+      "name": "同仁堂",
+      "name_en": "Beijing Tongrentang Co Ltd"
+    },
+    {
+      "symbol": "600161",
+      "name": "天坛生物",
+      "name_en": "Beijing Tiantan Biological Products Co Ltd"
+    },
+    {
+      "symbol": "600196",
+      "name": "复星医药",
+      "name_en": "Shanghai Fosun Pharmaceutical (Group) Co Ltd"
+    },
+    {
+      "symbol": "600276",
+      "name": "恒瑞医药",
+      "name_en": "Jiangsu Hengrui Medicine Co Ltd"
+    },
+    {
+      "symbol": "600329",
+      "name": "达仁堂",
+      "name_en": "Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited"
+    },
+    {
+      "symbol": "600332",
+      "name": "白云山",
+      "name_en": "GUANGZHOU BAIYUNSHAN PHARMACEUTICAL HOLDINGS COMPANY LIMITED"
+    },
+    {
+      "symbol": "600380",
+      "name": "健康元",
+      "name_en": "Joincare Pharmaceutical Group Industry Co Ltd"
+    },
+    {
+      "symbol": "600436",
+      "name": "片仔癀",
+      "name_en": "Zhangzhou Pientzehuang Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "600511",
+      "name": "国药股份",
+      "name_en": "China National Medicines Corp Ltd"
+    },
+    {
+      "symbol": "600521",
+      "name": "华海药业",
+      "name_en": "Zhejiang Huahai Pharmaceutical Co Ltd"
+    },
+    {
+      "symbol": "600535",
+      "name": "天士力",
+      "name_en": "TASLY PHARMACEUTICAL GROUP CO.,LTD"
+    },
+    {
+      "symbol": "600566",
+      "name": "济川药业",
+      "name_en": "HUBEI JUMPCAN PHARMACEUTICAL CO., LTD."
+    },
+    {
+      "symbol": "600763",
+      "name": "通策医疗",
+      "name_en": "TOPCHOICE MEDICAL CORPORATION"
+    },
+    {
+      "symbol": "600998",
+      "name": "九州通",
+      "name_en": "Jointown Pharmaceutical Group Co Ltd"
+    },
+    {
+      "symbol": "601607",
+      "name": "上海医药",
+      "name_en": "Shanghai Pharmaceuticals Holding Co.,Ltd"
+    },
+    {
+      "symbol": "603087",
+      "name": "甘李药业",
+      "name_en": "Gan & Lee Pharmaceuticals"
+    },
+    {
+      "symbol": "603233",
+      "name": "大参林",
+      "name_en": "DaShenLin Pharmaceutical Group Co., Ltd."
+    },
+    {
+      "symbol": "603259",
+      "name": "药明康德",
+      "name_en": "WuXi AppTec Co., Ltd."
+    },
+    {
+      "symbol": "603392",
+      "name": "万泰生物",
+      "name_en": "BEIJING WANTAI BIOLOGICAL PHARMACY ENTERPRISE CO., LTD."
+    },
+    {
+      "symbol": "603658",
+      "name": "安图生物",
+      "name_en": "Autobio Diagnostics Co., Ltd."
+    },
+    {
+      "symbol": "603858",
+      "name": "步长制药",
+      "name_en": "SHANDONG BUCHANG PHARMACEUTICALS CO., LTD."
+    },
+    {
+      "symbol": "603939",
+      "name": "益丰药房",
+      "name_en": "Yifeng Pharmacy Chain Co., Ltd."
+    },
+    {
+      "symbol": "688114",
+      "name": "华大智造",
+      "name_en": "MGI Tech Co., Ltd."
+    },
+    {
+      "symbol": "688166",
+      "name": "博瑞医药",
+      "name_en": "BrightGene Bio-Medical Technology Co., Ltd."
+    },
+    {
+      "symbol": "688180",
+      "name": "君实生物",
+      "name_en": "Shanghai Junshi Biosciences Co., Ltd."
+    },
+    {
+      "symbol": "688192",
+      "name": "迪哲医药",
+      "name_en": "Dizal (Jiangsu) Pharmaceutical Co., Ltd."
+    },
+    {
+      "symbol": "688235",
+      "name": "百济神州",
+      "name_en": "BeiGene, Ltd."
+    },
+    {
+      "symbol": "688266",
+      "name": "泽璟制药",
+      "name_en": "Suzhou Zelgen Biopharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688271",
+      "name": "联影医疗",
+      "name_en": "Shanghai United Imaging Healthcare Co., Ltd."
+    },
+    {
+      "symbol": "688278",
+      "name": "特宝生物",
+      "name_en": "Xiamen Amoytop Biotech Co., LTD."
+    },
+    {
+      "symbol": "688301",
+      "name": "奕瑞科技",
+      "name_en": "iRay Group"
+    },
+    {
+      "symbol": "688331",
+      "name": "荣昌生物",
+      "name_en": "RemeGen Co., Ltd."
+    },
+    {
+      "symbol": "688336",
+      "name": "三生国健",
+      "name_en": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
+    },
+    {
+      "symbol": "688506",
+      "name": "百利天恒",
+      "name_en": "Sichuan Biokin Pharmaceutical Co.,Ltd."
+    },
+    {
+      "symbol": "688520",
+      "name": "神州细胞",
+      "name_en": "Sinocelltech Group Limited"
+    },
+    {
+      "symbol": "688578",
+      "name": "艾力斯",
+      "name_en": "Shanghai Allist Pharmaceuticals Co., Ltd."
+    },
+    {
+      "symbol": "688617",
+      "name": "惠泰医疗",
+      "name_en": "APT Medical Inc."
+    }
+  ]
+}

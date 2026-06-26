@@ -1,0 +1,261 @@
+{
+  "id": "Cross:CS新能车",
+  "code": "399976",
+  "board": "Cross",
+  "name": "CS新能车",
+  "name_en": "CSI NEV",
+  "category": "Thematic",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "000009",
+      "name": "中国宝安",
+      "name_en": "China Baoan Group Co.,Ltd."
+    },
+    {
+      "symbol": "000625",
+      "name": "长安汽车",
+      "name_en": "Chongqing Changan Automobile Co Ltd"
+    },
+    {
+      "symbol": "001301",
+      "name": "尚太科技",
+      "name_en": "Shijiazhuang Shangtai Technology Co., Ltd."
+    },
+    {
+      "symbol": "002050",
+      "name": "三花智控",
+      "name_en": "ZHEJIANG SANHUA INTELLIGENT CONTROLS CO.,LTD."
+    },
+    {
+      "symbol": "002074",
+      "name": "国轩高科",
+      "name_en": "GUOXUAN HIGH-TECH CO.,LTD."
+    },
+    {
+      "symbol": "002126",
+      "name": "银轮股份",
+      "name_en": "Zhejiang Yinlun Machinery Co Ltd"
+    },
+    {
+      "symbol": "002240",
+      "name": "盛新锂能",
+      "name_en": "Shenzhen Chengxin Lithium Group Co., Ltd."
+    },
+    {
+      "symbol": "002340",
+      "name": "格林美",
+      "name_en": "Shenzhen Green Eco-manufacture Hi-tech Co Ltd"
+    },
+    {
+      "symbol": "002407",
+      "name": "多氟多",
+      "name_en": "Do-Fluoride Chemicals Co Ltd"
+    },
+    {
+      "symbol": "002460",
+      "name": "赣锋锂业",
+      "name_en": "Ganfeng Lithium Co Ltd"
+    },
+    {
+      "symbol": "002466",
+      "name": "天齐锂业",
+      "name_en": "Tianqi Lithium Industries, Inc."
+    },
+    {
+      "symbol": "002497",
+      "name": "雅化集团",
+      "name_en": "Sichuan Yahua Industrial Group Co Ltd"
+    },
+    {
+      "symbol": "002594",
+      "name": "比亚迪",
+      "name_en": "BYD Co Ltd"
+    },
+    {
+      "symbol": "002709",
+      "name": "天赐材料",
+      "name_en": "Guangzhou Tinci Materials Technology Co., Ltd"
+    },
+    {
+      "symbol": "002738",
+      "name": "中矿资源",
+      "name_en": "Sinomine Resource Group Co., Ltd."
+    },
+    {
+      "symbol": "002812",
+      "name": "恩捷股份",
+      "name_en": "Yunnan Energy New Material (Group) Co., Ltd."
+    },
+    {
+      "symbol": "002850",
+      "name": "科达利",
+      "name_en": "Shenzhen Kedali Industry Co., Ltd."
+    },
+    {
+      "symbol": "300001",
+      "name": "特锐德",
+      "name_en": "Qingdao TGOOD Electric Co Ltd"
+    },
+    {
+      "symbol": "300014",
+      "name": "亿纬锂能",
+      "name_en": "Eve Energy Co Ltd"
+    },
+    {
+      "symbol": "300035",
+      "name": "中科电气",
+      "name_en": "Hunan Zhongke Electric Co Ltd"
+    },
+    {
+      "symbol": "300037",
+      "name": "新宙邦",
+      "name_en": "Shenzhen Capchem Technology Co Ltd"
+    },
+    {
+      "symbol": "300073",
+      "name": "当升科技",
+      "name_en": "Beijing Easpring Material Technology Co Ltd"
+    },
+    {
+      "symbol": "300124",
+      "name": "汇川技术",
+      "name_en": "Shenzhen Inovance Technology Co Ltd"
+    },
+    {
+      "symbol": "300390",
+      "name": "天华新能",
+      "name_en": "Canmax Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300409",
+      "name": "道氏技术",
+      "name_en": "Guangdong Dowstone Technology Co., Ltd."
+    },
+    {
+      "symbol": "300432",
+      "name": "富临精工",
+      "name_en": "Mianyang Fulin Precision Co.,Ltd."
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "name_en": "WUXI LEAD INTELLIGENT EQUIPMENT CO., LTD."
+    },
+    {
+      "symbol": "300457",
+      "name": "赢合科技",
+      "name_en": "SHENZHEN YINGHE TECHNOLOGY CO.,LTD"
+    },
+    {
+      "symbol": "300568",
+      "name": "星源材质",
+      "name_en": "Shenzhen Senior Technology Material Co., Ltd."
+    },
+    {
+      "symbol": "300618",
+      "name": "寒锐钴业",
+      "name_en": "Nanjing Hanrui Cobalt Co.,Ltd."
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "name_en": "Contemporary Amperex Technology Co., Limited."
+    },
+    {
+      "symbol": "300919",
+      "name": "中伟新材",
+      "name_en": "CNGR Advanced Material Co.,Ltd."
+    },
+    {
+      "symbol": "300953",
+      "name": "震裕科技",
+      "name_en": "Ningbo Zhenyu Technology Co., Ltd."
+    },
+    {
+      "symbol": "301238",
+      "name": "瑞泰新材",
+      "name_en": "Jiangsu Ruitai New Energy Materials Co.,Ltd."
+    },
+    {
+      "symbol": "301358",
+      "name": "湖南裕能",
+      "name_en": "Hunan Yuneng New Energy Battery Material Co.,Ltd."
+    },
+    {
+      "symbol": "301511",
+      "name": "德福科技",
+      "name_en": "Jiujiang Defu Technology Co., Limited"
+    },
+    {
+      "symbol": "301656",
+      "name": "联合动力",
+      "name_en": "Suzhou Inovance Automotive Co., Ltd."
+    },
+    {
+      "symbol": "600699",
+      "name": "均胜电子",
+      "name_en": "Ningbo Joyson Electronic Corp."
+    },
+    {
+      "symbol": "600885",
+      "name": "宏发股份",
+      "name_en": "Hongfa Technology Co., Ltd."
+    },
+    {
+      "symbol": "603659",
+      "name": "璞泰来",
+      "name_en": "Shanghai Putailai New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "603799",
+      "name": "华友钴业",
+      "name_en": "ZHEJIANG HUAYOU COBALT CO., LTD."
+    },
+    {
+      "symbol": "688005",
+      "name": "容百科技",
+      "name_en": "Ningbo Ronbay New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688006",
+      "name": "杭可科技",
+      "name_en": "Zhejiang HangKe Technology Incorporated Company"
+    },
+    {
+      "symbol": "688116",
+      "name": "天奈科技",
+      "name_en": "Jiangsu Cnano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688388",
+      "name": "嘉元科技",
+      "name_en": "Guangdong Jia Yuan Technology Shares Co.,Ltd."
+    },
+    {
+      "symbol": "688567",
+      "name": "孚能科技",
+      "name_en": "Farasis Energy (Gan Zhou) Co., Ltd."
+    },
+    {
+      "symbol": "688612",
+      "name": "威迈斯",
+      "name_en": "Shenzhen VMAX New Energy(Group) Co., Ltd."
+    },
+    {
+      "symbol": "688778",
+      "name": "厦钨新能",
+      "name_en": "XTC New Energy Materials (Xiamen) Co.,Ltd."
+    },
+    {
+      "symbol": "688779",
+      "name": "五矿新能",
+      "name_en": "Minmetals New Energy Materials(Hunan) Co.,Ltd."
+    },
+    {
+      "symbol": "920185",
+      "name": "贝特瑞",
+      "name_en": "Btr New Material Group Co., Ltd."
+    }
+  ]
+}

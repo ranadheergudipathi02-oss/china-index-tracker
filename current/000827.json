@@ -1,0 +1,511 @@
+{
+  "id": "Cross:中证环保",
+  "code": "000827",
+  "board": "Cross",
+  "name": "中证环保",
+  "name_en": "CSI Environ",
+  "category": "Thematic",
+  "count": 100,
+  "members": [
+    {
+      "symbol": "000009",
+      "name": "中国宝安",
+      "name_en": "China Baoan Group Co.,Ltd."
+    },
+    {
+      "symbol": "000155",
+      "name": "川能动力",
+      "name_en": "SICHUAN NEW ENERGY POWER COMPANY LIMITED"
+    },
+    {
+      "symbol": "000537",
+      "name": "绿发电力",
+      "name_en": "Green Development Electricity Group of Tianjin Co., Ltd"
+    },
+    {
+      "symbol": "000591",
+      "name": "太阳能",
+      "name_en": "CECEP Solar Energy Co.,Ltd."
+    },
+    {
+      "symbol": "000598",
+      "name": "兴蓉环境",
+      "name_en": "Chengdu Xingrong Environment Co., Ltd."
+    },
+    {
+      "symbol": "000685",
+      "name": "中山公用",
+      "name_en": "Zhongshan Public Utilities Group Co Ltd"
+    },
+    {
+      "symbol": "000958",
+      "name": "电投产融",
+      "name_en": "SPIC Industry-Finance Holdings Co., Ltd"
+    },
+    {
+      "symbol": "000973",
+      "name": "佛塑科技",
+      "name_en": "FSPG Hi-tech Co Ltd"
+    },
+    {
+      "symbol": "001289",
+      "name": "龙源电力",
+      "name_en": "China Longyuan Power Group Corporation Limited"
+    },
+    {
+      "symbol": "001301",
+      "name": "尚太科技",
+      "name_en": "Shijiazhuang Shangtai Technology Co., Ltd."
+    },
+    {
+      "symbol": "002056",
+      "name": "横店东磁",
+      "name_en": "Hengdian Group DMEGC Magnetics Co Ltd"
+    },
+    {
+      "symbol": "002074",
+      "name": "国轩高科",
+      "name_en": "GUOXUAN HIGH-TECH CO.,LTD."
+    },
+    {
+      "symbol": "002129",
+      "name": "TCL中环",
+      "name_en": "TCL Zhonghuan Renewable Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "002202",
+      "name": "金风科技",
+      "name_en": "GOLDWIND SCIENCE & TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "002266",
+      "name": "浙富控股",
+      "name_en": "ZHEFU HOLDING GROUP CO., LTD"
+    },
+    {
+      "symbol": "002335",
+      "name": "科华数据",
+      "name_en": "KEHUA DATA CO., LTD."
+    },
+    {
+      "symbol": "002340",
+      "name": "格林美",
+      "name_en": "Shenzhen Green Eco-manufacture Hi-tech Co Ltd"
+    },
+    {
+      "symbol": "002459",
+      "name": "晶澳科技",
+      "name_en": "JA Solar Technology Co., Ltd."
+    },
+    {
+      "symbol": "002487",
+      "name": "大金重工",
+      "name_en": "Dajin Heavy Industry Co Ltd"
+    },
+    {
+      "symbol": "002506",
+      "name": "协鑫集成",
+      "name_en": "GCL System Integration Technology Co., Ltd."
+    },
+    {
+      "symbol": "002518",
+      "name": "科士达",
+      "name_en": "Shenzhen Kstar Science And Technology Co Ltd"
+    },
+    {
+      "symbol": "002709",
+      "name": "天赐材料",
+      "name_en": "Guangzhou Tinci Materials Technology Co., Ltd"
+    },
+    {
+      "symbol": "002812",
+      "name": "恩捷股份",
+      "name_en": "Yunnan Energy New Material (Group) Co., Ltd."
+    },
+    {
+      "symbol": "002850",
+      "name": "科达利",
+      "name_en": "Shenzhen Kedali Industry Co., Ltd."
+    },
+    {
+      "symbol": "003035",
+      "name": "南网能源",
+      "name_en": "China Southern Power Grid Energy Efficiency&Clean Energy Co.,Ltd."
+    },
+    {
+      "symbol": "003816",
+      "name": "中国广核",
+      "name_en": "CGN Power Co., Ltd."
+    },
+    {
+      "symbol": "300014",
+      "name": "亿纬锂能",
+      "name_en": "Eve Energy Co Ltd"
+    },
+    {
+      "symbol": "300037",
+      "name": "新宙邦",
+      "name_en": "Shenzhen Capchem Technology Co Ltd"
+    },
+    {
+      "symbol": "300070",
+      "name": "碧水源",
+      "name_en": "Beijing Originwater Technology Co Ltd"
+    },
+    {
+      "symbol": "300073",
+      "name": "当升科技",
+      "name_en": "Beijing Easpring Material Technology Co Ltd"
+    },
+    {
+      "symbol": "300140",
+      "name": "节能环境",
+      "name_en": "CECEP ENVIRONMENTAL PROTECTION CO.,LTD."
+    },
+    {
+      "symbol": "300274",
+      "name": "阳光电源",
+      "name_en": "Sungrow Power Supply Co Ltd"
+    },
+    {
+      "symbol": "300316",
+      "name": "晶盛机电",
+      "name_en": "Zhejiang Jingsheng Mechanical & Electrical Co., Ltd."
+    },
+    {
+      "symbol": "300390",
+      "name": "天华新能",
+      "name_en": "Canmax Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300409",
+      "name": "道氏技术",
+      "name_en": "Guangdong Dowstone Technology Co., Ltd."
+    },
+    {
+      "symbol": "300438",
+      "name": "鹏辉能源",
+      "name_en": "Guangzhou Great Power Energy&Technology Co.,ltd."
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "name_en": "WUXI LEAD INTELLIGENT EQUIPMENT CO., LTD."
+    },
+    {
+      "symbol": "300457",
+      "name": "赢合科技",
+      "name_en": "SHENZHEN YINGHE TECHNOLOGY CO.,LTD"
+    },
+    {
+      "symbol": "300568",
+      "name": "星源材质",
+      "name_en": "Shenzhen Senior Technology Material Co., Ltd."
+    },
+    {
+      "symbol": "300724",
+      "name": "捷佳伟创",
+      "name_en": "Shenzhen S.C New Energy Technology Corporation"
+    },
+    {
+      "symbol": "300750",
+      "name": "宁德时代",
+      "name_en": "Contemporary Amperex Technology Co., Limited."
+    },
+    {
+      "symbol": "300751",
+      "name": "迈为股份",
+      "name_en": "Suzhou Maxwell Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300757",
+      "name": "罗博特科",
+      "name_en": "RoboTechnik Intelligent Technology Co., LTD"
+    },
+    {
+      "symbol": "300763",
+      "name": "锦浪科技",
+      "name_en": "Ginlong Technologies Co., Ltd."
+    },
+    {
+      "symbol": "300776",
+      "name": "帝尔激光",
+      "name_en": "Wuhan DR Laser Technology Corp., Ltd."
+    },
+    {
+      "symbol": "300779",
+      "name": "惠城环保",
+      "name_en": "Qingdao Huicheng Environmental Technology Co., Ltd."
+    },
+    {
+      "symbol": "300827",
+      "name": "上能电气",
+      "name_en": "SINENG ELECTRIC CO.,LTD."
+    },
+    {
+      "symbol": "300850",
+      "name": "新强联",
+      "name_en": "Luoyang Xinqianglian Slewing Bearings Co.,Ltd."
+    },
+    {
+      "symbol": "300919",
+      "name": "中伟新材",
+      "name_en": "CNGR Advanced Material Co.,Ltd."
+    },
+    {
+      "symbol": "300953",
+      "name": "震裕科技",
+      "name_en": "Ningbo Zhenyu Technology Co., Ltd."
+    },
+    {
+      "symbol": "301155",
+      "name": "海力风电",
+      "name_en": "Jiangsu Haili Wind Power Equipment Technology Co., Ltd."
+    },
+    {
+      "symbol": "301238",
+      "name": "瑞泰新材",
+      "name_en": "Jiangsu Ruitai New Energy Materials Co.,Ltd."
+    },
+    {
+      "symbol": "301358",
+      "name": "湖南裕能",
+      "name_en": "Hunan Yuneng New Energy Battery Material Co.,Ltd."
+    },
+    {
+      "symbol": "301511",
+      "name": "德福科技",
+      "name_en": "Jiujiang Defu Technology Co., Limited"
+    },
+    {
+      "symbol": "600008",
+      "name": "首创环保",
+      "name_en": "Beijing Capital Eco-Environment Protection GroupCo.,Ltd."
+    },
+    {
+      "symbol": "600025",
+      "name": "华能水电",
+      "name_en": "HuanengLancang River Hydropower Inc."
+    },
+    {
+      "symbol": "600032",
+      "name": "浙江新能",
+      "name_en": "Zhejiang Provincial New Energy Investment Group Co., Ltd."
+    },
+    {
+      "symbol": "600072",
+      "name": "中船科技",
+      "name_en": "CSSC Science & Technology Co., Ltd"
+    },
+    {
+      "symbol": "600236",
+      "name": "桂冠电力",
+      "name_en": "Guangxi Guiguan Electric Power Co Ltd"
+    },
+    {
+      "symbol": "600292",
+      "name": "电投水电",
+      "name_en": "SPIC Hydropower Co., Ltd."
+    },
+    {
+      "symbol": "600323",
+      "name": "瀚蓝环境",
+      "name_en": "Grandblue Environment Co.,Ltd."
+    },
+    {
+      "symbol": "600388",
+      "name": "龙净环保",
+      "name_en": "Fujian Longking Co Ltd"
+    },
+    {
+      "symbol": "600438",
+      "name": "通威股份",
+      "name_en": "Tongwei Co Ltd"
+    },
+    {
+      "symbol": "600674",
+      "name": "川投能源",
+      "name_en": "Sichuan Chuantou Energy Co Ltd"
+    },
+    {
+      "symbol": "600732",
+      "name": "爱旭股份",
+      "name_en": "Shanghai Aiko Solar Energy Co., Ltd."
+    },
+    {
+      "symbol": "600886",
+      "name": "国投电力",
+      "name_en": "SDIC Power Holdings Co.,Ltd."
+    },
+    {
+      "symbol": "600900",
+      "name": "长江电力",
+      "name_en": "China Yangtze Power Co Ltd"
+    },
+    {
+      "symbol": "600905",
+      "name": "三峡能源",
+      "name_en": "China Three Gorges Renewables (Group) Co.,Ltd."
+    },
+    {
+      "symbol": "600930",
+      "name": "华电新能",
+      "name_en": "Huadian New Energy Group Corporation Limited"
+    },
+    {
+      "symbol": "600956",
+      "name": "新天绿能",
+      "name_en": "China Suntien Green Energy Corporation Limited"
+    },
+    {
+      "symbol": "600995",
+      "name": "南网储能",
+      "name_en": "China Southern Power Grid Energy Storage Co.,Ltd"
+    },
+    {
+      "symbol": "601012",
+      "name": "隆基绿能",
+      "name_en": "Longi Green Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "601016",
+      "name": "节能风电",
+      "name_en": "CECEP Wind-Power Corporation"
+    },
+    {
+      "symbol": "601615",
+      "name": "明阳智能",
+      "name_en": "MingYangSmartEnergyGroupLimited"
+    },
+    {
+      "symbol": "601865",
+      "name": "福莱特",
+      "name_en": "Flat Glass Group CO.,LTD."
+    },
+    {
+      "symbol": "601985",
+      "name": "中国核电",
+      "name_en": "China National Nuclear Power Co.,Ltd."
+    },
+    {
+      "symbol": "603063",
+      "name": "禾望电气",
+      "name_en": "Shenzhen Hopewind Electric Co., Ltd."
+    },
+    {
+      "symbol": "603092",
+      "name": "德力佳",
+      "name_en": "Delijia Transmission Technology (Jiangsu) Co.,Ltd."
+    },
+    {
+      "symbol": "603568",
+      "name": "伟明环保",
+      "name_en": "ZHEJIANG WEIMING ENVIRONMENT PROTECTION CO., LTD."
+    },
+    {
+      "symbol": "603659",
+      "name": "璞泰来",
+      "name_en": "Shanghai Putailai New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "603806",
+      "name": "福斯特",
+      "name_en": "HANGZHOU FIRST PV MATERIAL Co., LTD."
+    },
+    {
+      "symbol": "605117",
+      "name": "德业股份",
+      "name_en": "Ningbo Deye Technology Co., Ltd."
+    },
+    {
+      "symbol": "688005",
+      "name": "容百科技",
+      "name_en": "Ningbo Ronbay New Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688006",
+      "name": "杭可科技",
+      "name_en": "Zhejiang HangKe Technology Incorporated Company"
+    },
+    {
+      "symbol": "688116",
+      "name": "天奈科技",
+      "name_en": "Jiangsu Cnano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688147",
+      "name": "微导纳米",
+      "name_en": "Jiangsu Leadmicro Nano Technology Co., Ltd."
+    },
+    {
+      "symbol": "688223",
+      "name": "晶科能源",
+      "name_en": "Jinko Solar Co., Ltd."
+    },
+    {
+      "symbol": "688303",
+      "name": "大全能源",
+      "name_en": "XinJiang Daqo New Energy Co.,Ltd"
+    },
+    {
+      "symbol": "688349",
+      "name": "三一重能",
+      "name_en": "Sany Heavy Energy Co., Ltd."
+    },
+    {
+      "symbol": "688390",
+      "name": "固德威",
+      "name_en": "Jiangsu GoodWe Power Supply Technology Co., Ltd."
+    },
+    {
+      "symbol": "688411",
+      "name": "海博思创",
+      "name_en": "Beijing HyperStrong Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688472",
+      "name": "阿特斯",
+      "name_en": "CSI Solar Co., Ltd."
+    },
+    {
+      "symbol": "688503",
+      "name": "聚和材料",
+      "name_en": "Changzhou Fusion New Material Co., Ltd."
+    },
+    {
+      "symbol": "688516",
+      "name": "奥特维",
+      "name_en": "Wuxi Autowell Technology Co.,Ltd."
+    },
+    {
+      "symbol": "688567",
+      "name": "孚能科技",
+      "name_en": "Farasis Energy (Gan Zhou) Co., Ltd."
+    },
+    {
+      "symbol": "688599",
+      "name": "天合光能",
+      "name_en": "Trina Solar Co., Ltd."
+    },
+    {
+      "symbol": "688660",
+      "name": "电气风电",
+      "name_en": "Shanghai Electric Wind Power Group Co., Ltd."
+    },
+    {
+      "symbol": "688726",
+      "name": "拉普拉斯",
+      "name_en": "LAPLACE Renewable Energy Technology Co., Ltd."
+    },
+    {
+      "symbol": "688778",
+      "name": "厦钨新能",
+      "name_en": "XTC New Energy Materials (Xiamen) Co.,Ltd."
+    },
+    {
+      "symbol": "920185",
+      "name": "贝特瑞",
+      "name_en": "Btr New Material Group Co., Ltd."
+    }
+  ]
+}
