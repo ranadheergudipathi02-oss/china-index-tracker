@@ -5,7 +5,7 @@
   "name": "上证指数",
   "name_en": "SSE Composite",
   "category": "Broad market",
-  "count": 2217,
+  "count": 2218,
   "members": [
     {
       "symbol": "600000",
@@ -10756,6 +10756,11 @@
       "symbol": "688728",
       "name": "格科微",
       "name_en": "GalaxyCore Inc."
+    },
+    {
+      "symbol": "688729",
+      "name": "屹唐股份",
+      "name_en": "Beijing E-Town Semiconductor Technology Co., Ltd."
     },
     {
       "symbol": "688733",
