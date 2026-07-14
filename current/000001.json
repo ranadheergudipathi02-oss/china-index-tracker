@@ -5,7 +5,7 @@
   "name": "上证指数",
   "name_en": "SSE Composite",
   "category": "Broad market",
-  "count": 2218,
+  "count": 2222,
   "members": [
     {
       "symbol": "600000",
@@ -791,6 +791,11 @@
       "symbol": "600227",
       "name": "赤天化",
       "name_en": "Guizhou Chitianhua Co.,Ltd."
+    },
+    {
+      "symbol": "600228",
+      "name": "返利科技",
+      "name_en": "Jiangxi Fanli Digital Technology Co., Ltd"
     },
     {
       "symbol": "600229",
@@ -2741,6 +2746,11 @@
       "symbol": "600776",
       "name": "东方通信",
       "name_en": "Eastern Communications Co Ltd"
+    },
+    {
+      "symbol": "600777",
+      "name": "新潮能源",
+      "name_en": "XINCHAO ENERGY Corporation Limited"
     },
     {
       "symbol": "600778",
@@ -5648,6 +5658,11 @@
       "name_en": "HOSHINE SILICON INDUSTRY CO.,LTD"
     },
     {
+      "symbol": "603261",
+      "name": "立航科技",
+      "name_en": "CHENGDU LIHANG TECHNOLOGY CO.,LTD."
+    },
+    {
       "symbol": "603266",
       "name": "天龙股份",
       "name_en": "Ningbo Tianlong Electronics Co., Ltd."
@@ -6788,6 +6803,11 @@
       "name_en": "Bestore Co.,Ltd."
     },
     {
+      "symbol": "603721",
+      "name": "中广天择",
+      "name_en": "TVZone Media Co., Ltd."
+    },
+    {
       "symbol": "603722",
       "name": "阿科力",
       "name_en": "Wuxi Acryl Technology Co.,Ltd."
@@ -6971,6 +6991,11 @@
       "symbol": "603811",
       "name": "诚意药业",
       "name_en": "Zhejiang Cheng Yi Pharmaceutical Co.,Ltd."
+    },
+    {
+      "symbol": "603813",
+      "name": "原尚股份",
+      "name_en": "GuangDong GenSho Logistics CO., LTD."
     },
     {
       "symbol": "603815",
@@ -8806,11 +8831,6 @@
       "symbol": "688188",
       "name": "柏楚电子",
       "name_en": "SHANGHAI FRIENDESS ELECTRONICS TECHNOLOGY CORPORATION LIMITED"
-    },
-    {
-      "symbol": "688189",
-      "name": "ST南新",
-      "name_en": "Hunan Nucien Pharmaceutical Co., Ltd."
     },
     {
       "symbol": "688190",

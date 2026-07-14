@@ -18,11 +18,6 @@
       "name_en": "TCL Technology Group Corporation"
     },
     {
-      "symbol": "000166",
-      "name": "申万宏源",
-      "name_en": "Shenwan Hongyuan Group CO., LTD"
-    },
-    {
       "symbol": "000333",
       "name": "美的集团",
       "name_en": "Midea Group CO., LTD"
@@ -108,6 +103,11 @@
       "name_en": "Jonhon Optronic Technology Co.,Ltd"
     },
     {
+      "symbol": "002202",
+      "name": "金风科技",
+      "name_en": "GOLDWIND SCIENCE & TECHNOLOGY CO.,LTD."
+    },
+    {
       "symbol": "002241",
       "name": "歌尔股份",
       "name_en": "GoerTek Inc"
@@ -123,9 +123,19 @@
       "name_en": "S.F. Holding Co., Ltd."
     },
     {
+      "symbol": "002353",
+      "name": "杰瑞股份",
+      "name_en": "Yantai Jereh Oilfield Services Group Co Ltd"
+    },
+    {
       "symbol": "002415",
       "name": "海康威视",
       "name_en": "Hangzhou Hikvision Digital Technology Co Ltd"
+    },
+    {
+      "symbol": "002422",
+      "name": "科伦药业",
+      "name_en": "Sichuan Kelun Pharmaceutical Co Ltd"
     },
     {
       "symbol": "002475",
@@ -141,11 +151,6 @@
       "symbol": "002600",
       "name": "领益智造",
       "name_en": "LINGYI iTECH (GUANGDONG) COMPANY"
-    },
-    {
-      "symbol": "002601",
-      "name": "龙佰集团",
-      "name_en": "LB Group Co., Ltd."
     },
     {
       "symbol": "002709",
@@ -198,14 +203,14 @@
       "name_en": "Sungrow Power Supply Co Ltd"
     },
     {
-      "symbol": "300347",
-      "name": "泰格医药",
-      "name_en": "Hangzhou Tigermed Consulting Co., Ltd."
-    },
-    {
       "symbol": "300433",
       "name": "蓝思科技",
       "name_en": "Lens Technology Co., Ltd."
+    },
+    {
+      "symbol": "300450",
+      "name": "先导智能",
+      "name_en": "WUXI LEAD INTELLIGENT EQUIPMENT CO., LTD."
     },
     {
       "symbol": "300628",
@@ -213,24 +218,19 @@
       "name_en": "YEALINK NETWORK TECHNOLOGY CORPORATION LIMITED"
     },
     {
+      "symbol": "300661",
+      "name": "圣邦股份",
+      "name_en": "SG Micro Corp."
+    },
+    {
       "symbol": "300750",
       "name": "宁德时代",
       "name_en": "Contemporary Amperex Technology Co., Limited."
     },
     {
-      "symbol": "300759",
-      "name": "康龙化成",
-      "name_en": "Pharmaron Beijing Co., Ltd."
-    },
-    {
       "symbol": "300760",
       "name": "迈瑞医疗",
       "name_en": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
-    },
-    {
-      "symbol": "300782",
-      "name": "卓胜微",
-      "name_en": "Maxscend Microelectronics Company Limited"
     },
     {
       "symbol": "300896",
@@ -248,29 +248,9 @@
       "name_en": "Shanghai Pudong Development Bank Co Ltd"
     },
     {
-      "symbol": "600015",
-      "name": "华夏银行",
-      "name_en": "Hua Xia Bank Co Ltd"
-    },
-    {
-      "symbol": "600016",
-      "name": "民生银行",
-      "name_en": "China Minsheng Banking Corp Ltd"
-    },
-    {
-      "symbol": "600018",
-      "name": "上港集团",
-      "name_en": "Shanghai International Port (Group) Co Ltd"
-    },
-    {
       "symbol": "600019",
       "name": "宝钢股份",
       "name_en": "Baoshan Iron &Steel Co Ltd"
-    },
-    {
-      "symbol": "600031",
-      "name": "三一重工",
-      "name_en": "Sany Heavy Industry Co Ltd"
     },
     {
       "symbol": "600048",
@@ -281,11 +261,6 @@
       "symbol": "600089",
       "name": "特变电工",
       "name_en": "TBEA Co Ltd"
-    },
-    {
-      "symbol": "600104",
-      "name": "上汽集团",
-      "name_en": "SAIC Motor Co Ltd"
     },
     {
       "symbol": "600111",
@@ -313,6 +288,11 @@
       "name_en": "Shanghai Fosun Pharmaceutical (Group) Co Ltd"
     },
     {
+      "symbol": "600219",
+      "name": "南山铝业",
+      "name_en": "Shandong Nanshan Aluminium Co., Ltd."
+    },
+    {
       "symbol": "600276",
       "name": "恒瑞医药",
       "name_en": "Jiangsu Hengrui Medicine Co Ltd"
@@ -338,6 +318,11 @@
       "name_en": "Zhejiang China Commodities City Group Co Ltd"
     },
     {
+      "symbol": "600426",
+      "name": "华鲁恒升",
+      "name_en": "Shandong Hualu-Hengsheng Chemical Co Ltd"
+    },
+    {
       "symbol": "600436",
       "name": "片仔癀",
       "name_en": "Zhangzhou Pientzehuang Pharmaceutical Co Ltd"
@@ -353,9 +338,24 @@
       "name_en": "Kweichow Moutai Co Ltd"
     },
     {
+      "symbol": "600549",
+      "name": "厦门钨业",
+      "name_en": "Xiamen Tungsten Co Ltd"
+    },
+    {
+      "symbol": "600570",
+      "name": "恒生电子",
+      "name_en": "Hundsun Technologies Inc."
+    },
+    {
       "symbol": "600584",
       "name": "长电科技",
       "name_en": "JCET Group Co., Ltd."
+    },
+    {
+      "symbol": "600588",
+      "name": "用友网络",
+      "name_en": "Yonyou Network Technology Co., Ltd."
     },
     {
       "symbol": "600600",
@@ -366,6 +366,11 @@
       "symbol": "600660",
       "name": "福耀玻璃",
       "name_en": "Fuyao Glass Industry Group Co.,Ltd"
+    },
+    {
+      "symbol": "600741",
+      "name": "华域汽车",
+      "name_en": "HUAYU Automotive Systems Company Limited"
     },
     {
       "symbol": "600803",
@@ -393,11 +398,6 @@
       "name_en": "Bank of Jiangsu Co., Ltd"
     },
     {
-      "symbol": "600999",
-      "name": "招商证券",
-      "name_en": "China Merchants Securities Co Ltd"
-    },
-    {
       "symbol": "601012",
       "name": "隆基绿能",
       "name_en": "Longi Green Energy Technology Co., Ltd."
@@ -413,19 +413,9 @@
       "name_en": "Industrial Bank"
     },
     {
-      "symbol": "601169",
-      "name": "北京银行",
-      "name_en": "Bank of Beijing Co Ltd"
-    },
-    {
       "symbol": "601211",
       "name": "国泰海通",
       "name_en": "GUOTAI HAITONG SECURITIES CO., LTD."
-    },
-    {
-      "symbol": "601229",
-      "name": "上海银行",
-      "name_en": "Bank of Shanghai Co., Ltd."
     },
     {
       "symbol": "601390",
@@ -453,14 +443,19 @@
       "name_en": "Huatai Securities Co Ltd"
     },
     {
+      "symbol": "601727",
+      "name": "上海电气",
+      "name_en": "Shanghai Electric Group Co Ltd"
+    },
+    {
       "symbol": "601766",
       "name": "中国中车",
       "name_en": "CRRC Corporation Limited"
     },
     {
-      "symbol": "601818",
-      "name": "光大银行",
-      "name_en": "China Everbright Bank Co Ltd"
+      "symbol": "601872",
+      "name": "招商轮船",
+      "name_en": "China Merchants Energy Shipping Co., Ltd."
     },
     {
       "symbol": "601877",
@@ -491,6 +486,11 @@
       "symbol": "603288",
       "name": "海天味业",
       "name_en": "Foshan Haitian Flavouring and Food Company Ltd."
+    },
+    {
+      "symbol": "603369",
+      "name": "今世缘",
+      "name_en": "Jiangsu King's Luck Brewery Joint-Stock Co., Ltd."
     },
     {
       "symbol": "603501",

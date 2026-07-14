@@ -5,7 +5,7 @@
   "name": "软件开发",
   "name_en": "Software",
   "category": "Sector",
-  "count": 108,
+  "count": 107,
   "members": [
     {
       "symbol": "000503",
@@ -156,11 +156,6 @@
       "symbol": "300271",
       "name": "华宇软件",
       "name_en": "Beijing Thunisoft Co Ltd"
-    },
-    {
-      "symbol": "300290",
-      "name": "ST荣科",
-      "name_en": "Bringspring Science and Technology Co.,Ltd."
     },
     {
       "symbol": "300324",

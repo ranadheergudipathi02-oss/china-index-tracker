@@ -5,7 +5,7 @@
   "name": "中证全指",
   "name_en": "CSI All Share",
   "category": "Broad market",
-  "count": 5129,
+  "count": 5126,
   "members": [
     {
       "symbol": "000001",
@@ -3371,11 +3371,6 @@
       "symbol": "002216",
       "name": "三全食品",
       "name_en": "Sanquan Food Co., Ltd."
-    },
-    {
-      "symbol": "002217",
-      "name": "ST合力泰",
-      "name_en": "Holitech Technology Co., Ltd."
     },
     {
       "symbol": "002218",
@@ -7243,11 +7238,6 @@
       "name_en": "HONZ PHARMACEUTICAL CO., LTD."
     },
     {
-      "symbol": "300087",
-      "name": "ST荃银",
-      "name_en": "Winall Hi-tech Seed Co Ltd"
-    },
-    {
       "symbol": "300088",
       "name": "长信科技",
       "name_en": "Wuhu Token Science Co Ltd"
@@ -8066,11 +8056,6 @@
       "symbol": "300289",
       "name": "利德曼",
       "name_en": "Beijing Leadman Biochemistry Co.,Ltd."
-    },
-    {
-      "symbol": "300290",
-      "name": "ST荣科",
-      "name_en": "Bringspring Science and Technology Co.,Ltd."
     },
     {
       "symbol": "300291",
