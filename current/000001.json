@@ -5,7 +5,7 @@
   "name": "上证指数",
   "name_en": "SSE Composite",
   "category": "Broad market",
-  "count": 2222,
+  "count": 2223,
   "members": [
     {
       "symbol": "600000",
@@ -3306,6 +3306,11 @@
       "symbol": "600929",
       "name": "雪天盐业",
       "name_en": "Snowsky Salt Industry Group CO.,LTD"
+    },
+    {
+      "symbol": "600930",
+      "name": "华电新能",
+      "name_en": "Huadian New Energy Group Corporation Limited"
     },
     {
       "symbol": "600933",
