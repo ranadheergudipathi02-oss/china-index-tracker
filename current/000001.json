@@ -5,7 +5,7 @@
   "name": "上证指数",
   "name_en": "SSE Composite",
   "category": "Broad market",
-  "count": 2223,
+  "count": 2224,
   "members": [
     {
       "symbol": "600000",
@@ -5666,6 +5666,11 @@
       "symbol": "603261",
       "name": "立航科技",
       "name_en": "CHENGDU LIHANG TECHNOLOGY CO.,LTD."
+    },
+    {
+      "symbol": "603262",
+      "name": "技源集团",
+      "name_en": "TSI Group Co.,Ltd."
     },
     {
       "symbol": "603266",
